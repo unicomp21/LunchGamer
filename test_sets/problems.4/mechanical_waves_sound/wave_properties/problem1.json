@@ -1,0 +1,11 @@
+{
+  "question": "A wave travels through a medium at a speed of 20 m/s with a frequency of 5 Hz. What is the wavelength of the wave?",
+  "choices": {
+    "A": "1 m",
+    "B": "2 m",
+    "C": "4 m",
+    "D": "100 m"
+  },
+  "answer": "C",
+  "solution": "The wavelength can be found using the wave equation: v = fλ, where v is the wave speed (20 m/s), f is the frequency (5 Hz), and λ is the wavelength. Rearranging the equation to solve for wavelength: λ = v / f. Substituting the given values: λ = 20 m/s / 5 Hz = 4 m. Therefore, the correct answer is C: 4 m."
+}

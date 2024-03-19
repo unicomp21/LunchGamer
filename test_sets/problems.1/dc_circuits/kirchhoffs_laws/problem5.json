@@ -1,0 +1,11 @@
+{
+  "question": "In the circuit shown, the current through the 2 Ω resistor is 3 A. What is the voltage of the power supply?",
+  "choices": {
+    "A": "2 V",
+    "B": "6 V",
+    "C": "12 V",
+    "D": "18 V"
+  },
+  "answer": "D",
+  "solution": "Using Kirchhoff's current law, the current through the 2 Ω resistor is equal to the total current in the circuit. Using Ohm's law (V = IR), the voltage across the 2 Ω resistor is V = (3 A)(2 Ω) = 6 V. The 4 Ω and 2 Ω resistors are in series, so the total resistance is 6 Ω. Using Ohm's law again, the voltage across the series combination is V = (3 A)(6 Ω) = 18 V. By Kirchhoff's voltage law, the voltage of the power supply must equal the sum of the voltages across the resistors, which is 18 V + 6 V = 24 V. Therefore, the voltage of the power supply is 18 V (choice D)."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg ball is travelling at 5 m/s when it is struck by a bat, exerting an average force of 100 N on the ball for 0.05 seconds. What is the final velocity of the ball after being struck?",
+  "choices": {
+    "A": "5 m/s",
+    "B": "7.5 m/s",
+    "C": "10 m/s",
+    "D": "12.5 m/s"
+  },
+  "answer": "B",
+  "solution": "The impulse-momentum theorem states that the change in momentum of an object is equal to the impulse applied to it. Impulse (J) is defined as the product of the average force (F) and the time interval (Δt) over which the force acts: J = FΔt. The change in momentum (Δp) is equal to the mass (m) times the change in velocity (Δv): Δp = mΔv. Setting these equal, we have: FΔt = mΔv. Solving for Δv, we get: Δv = (FΔt) / m. Plugging in the given values: Δv = (100 N × 0.05 s) / 2 kg = 2.5 m/s. Since the initial velocity was 5 m/s, the final velocity will be the initial velocity plus the change in velocity: v_f = v_i + Δv = 5 m/s + 2.5 m/s = 7.5 m/s. Therefore, the correct answer is B."
+}

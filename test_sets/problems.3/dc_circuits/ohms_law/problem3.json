@@ -1,0 +1,11 @@
+{
+  "question": "A 6 Ω resistor is connected in series with a 12 V battery and another resistor. If the current in the circuit is 1.5 A, what is the resistance of the second resistor?",
+  "choices": {
+    "A": "2 Ω",
+    "B": "3 Ω",
+    "C": "6 Ω",
+    "D": "9 Ω"
+  },
+  "answer": "A",
+  "solution": "Since the resistors are in series, the total resistance is the sum of the individual resistances. Using Ohm's law, V = IR, we can find the voltage across the 6 Ω resistor: V₁ = (1.5 A)(6 Ω) = 9 V. The remaining voltage must be across the second resistor: V₂ = 12 V - 9 V = 3 V. Using Ohm's law again, we can find the resistance of the second resistor: R₂ = V₂ / I = 3 V / 1.5 A = 2 Ω."
+}

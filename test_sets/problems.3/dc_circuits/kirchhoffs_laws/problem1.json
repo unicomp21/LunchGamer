@@ -1,0 +1,11 @@
+{
+  "question": "In the circuit shown, the current through the 2 Ω resistor is 3 A. What is the value of the current source I?",
+  "choices": {
+    "A": "1 A",
+    "B": "2 A",
+    "C": "3 A",
+    "D": "4 A"
+  },
+  "answer": "D",
+  "solution": "Using Kirchhoff's Current Law (KCL), the sum of currents entering a node must equal the sum of currents leaving the node. At the top node, the current from the source I splits into the 2 Ω and 3 Ω branches. Let the current through the 3 Ω resistor be x. KCL gives the equation: I = 3 A + x. Using Ohm's Law (V = IR) for the 3 Ω resistor, we can write: 6 V = (3 Ω)(x), so x = 2 A. Substituting this into the KCL equation: I = 3 A + 2 A = 5 A. Therefore, the current source I must have a value of 5 A."
+}

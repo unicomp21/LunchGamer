@@ -1,0 +1,11 @@
+{
+  "question": "Two point charges, +3 nC and -5 nC, are separated by a distance of 20 cm. What is the magnitude of the electric field at a point halfway between the charges?",
+  "choices": {
+    "A": "2.25 × 10^4 N/C",
+    "B": "4.50 × 10^4 N/C",
+    "C": "6.75 × 10^4 N/C",
+    "D": "9.00 × 10^4 N/C"
+  },
+  "answer": "B",
+  "solution": "The electric field at a point due to a point charge can be found using Coulomb's law: E = kq / r^2, where k is Coulomb's constant (8.99 × 10^9 N⋅m^2/C^2), q is the charge, and r is the distance from the charge to the point. Since the point is halfway between the charges, the distance from each charge to the point is 10 cm (0.1 m). The electric field at the point is the vector sum of the fields due to each charge. The fields due to the charges point in opposite directions, so the magnitudes add: E = k|q1| / r^2 + k|q2| / r^2 = (8.99 × 10^9 N⋅m^2/C^2) × (3 × 10^-9 C) / (0.1 m)^2 + (8.99 × 10^9 N⋅m^2/C^2) × (5 × 10^-9 C) / (0.1 m)^2 = 2.697 × 10^4 N/C + 4.495 × 10^4 N/C ≈ 4.50 × 10^4 N/C."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A 0.5 kg object is attached to a string and rotates in a horizontal circle of radius 1.5 m, making 2 revolutions per second. What is the tension in the string?",
+  "choices": {
+    "A": "4.7 N",
+    "B": "18.7 N",
+    "C": "59.2 N",
+    "D": "118.4 N"
+  },
+  "answer": "C",
+  "solution": "In uniform circular motion, the centripetal force is provided by the tension in the string. The centripetal force is given by F = mv^2/r, where m is the mass, v is the tangential velocity, and r is the radius. The tangential velocity v can be found using v = 2πrf, where f is the frequency of rotation (2 rev/s in this case). Plugging in the values:\n\nv = 2π(2 rev/s)(1.5 m) = 18.85 m/s\n\nNow we can calculate the tension:\n\nF = (0.5 kg)(18.85 m/s)^2 / (1.5 m) = 59.2 N\n\nTherefore, the tension in the string is 59.2 N, corresponding to answer choice C."
+}

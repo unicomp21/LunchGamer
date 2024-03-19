@@ -1,0 +1,11 @@
+{
+  "question": "A 0.5 kg mass is attached to a spring with a spring constant of 20 N/m. If the mass is displaced 0.1 m from its equilibrium position and released, what is the period of oscillation?",
+  "choices": {
+    "A": "0.314 s",
+    "B": "0.785 s",
+    "C": "1.57 s",
+    "D": "3.14 s"
+  },
+  "answer": "C",
+  "solution": "The period of oscillation for a mass-spring system can be calculated using the formula T = 2π√(m/k), where m is the mass and k is the spring constant. Plugging in the given values: T = 2π√(0.5 kg / 20 N/m) = 2π√(0.025 s^2) ≈ 1.57 s. Therefore, the period of oscillation is closest to 1.57 s, making C the correct answer."
+}

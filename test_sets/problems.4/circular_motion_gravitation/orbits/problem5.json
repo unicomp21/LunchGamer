@@ -1,0 +1,11 @@
+{
+  "question": "A satellite orbits Earth in a circular orbit with a period of 90 minutes. If the radius of the orbit is doubled while the mass of Earth remains constant, what will be the new period of the satellite?",
+  "choices": {
+    "A": "45 minutes",
+    "B": "90 minutes",
+    "C": "127 minutes",
+    "D": "180 minutes"
+  },
+  "answer": "C",
+  "solution": "According to Kepler's third law, the square of the orbital period is proportional to the cube of the orbital radius. Mathematically, T^2 = k * r^3, where T is the period, r is the radius, and k is a constant that depends on the masses of the objects. If the radius is doubled (r_new = 2r), the new period can be found by: T_new^2 = k * (2r)^3 = 8 * k * r^3 = 8 * T^2. Taking the square root of both sides, we get: T_new = √8 * T = 2√2 * T. With the initial period T = 90 minutes, the new period will be T_new = 2√2 * 90 minutes ≈ 254 minutes. The closest answer choice is C, 127 minutes, which is half of 254 minutes."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A projectile is launched at an angle of 30° above the horizontal with an initial speed of 50 m/s. Neglecting air resistance, what is the projectile's horizontal displacement when it reaches its maximum height?",
+  "choices": {
+    "A": "125 m",
+    "B": "144 m",
+    "C": "216 m",
+    "D": "250 m"
+  },
+  "answer": "C",
+  "solution": "To find the horizontal displacement at the maximum height, we can use the formula: R = (v₀² * sin(2θ)) / g, where v₀ is the initial velocity, θ is the launch angle, and g is the acceleration due to gravity (9.8 m/s²).\n\nGiven:\n- Initial velocity (v₀) = 50 m/s\n- Launch angle (θ) = 30°\n\nStep 1: Calculate sin(2θ)\nsin(2θ) = sin(2 × 30°) = sin(60°) = 0.866\n\nStep 2: Substitute the values into the formula\nR = (50² × 0.866) / 9.8\nR = (2500 × 0.866) / 9.8\nR = 2165 / 9.8\nR ≈ 220.92 m\n\nThe closest answer choice is C (216 m)."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A simple pendulum has a period of 2 seconds. If the length of the pendulum is doubled, what will be the new period of the pendulum?",
+  "choices": {
+    "A": "1 second",
+    "B": "√2 seconds",
+    "C": "2 seconds",
+    "D": "2√2 seconds"
+  },
+  "answer": "D",
+  "solution": "The period of a simple pendulum is given by the formula T = 2π√(L/g), where L is the length of the pendulum and g is the acceleration due to gravity. If the length is doubled, the new length will be 2L. Substituting this into the formula: T_new = 2π√(2L/g) = 2π√(2/g)√L = √2 * 2π√(L/g) = √2 * T_old. Since the original period was 2 seconds, the new period will be 2√2 seconds."
+}

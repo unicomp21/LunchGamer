@@ -1,0 +1,11 @@
+{
+  "question": "A ball is thrown horizontally from the top of a 50 m tall building with an initial velocity of 20 m/s. Neglecting air resistance, how far from the base of the building will the ball land? (Take g = 10 m/s^2)",
+  "choices": {
+    "A": "50 m",
+    "B": "60 m",
+    "C": "63 m",
+    "D": "100 m"
+  },
+  "answer": "C",
+  "solution": "The horizontal and vertical components of motion are independent. The time for the ball to fall is found using the vertical motion equation: y = y0 + v0y*t + (1/2)*a*t^2, where y0 = 50 m, v0y = 0 m/s, and a = -10 m/s^2. Setting y = 0 and solving for t gives: t = sqrt(2*y0 / |a|) = sqrt(100/10) ≈ 3.16 s. The horizontal distance traveled is x = v0x*t = 20 m/s * 3.16 s ≈ 63 m."
+}

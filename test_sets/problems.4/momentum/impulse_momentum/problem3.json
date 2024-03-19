@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg ball is rolling at 5 m/s when it is struck by a bat. The ball leaves the bat with a velocity of 10 m/s in the opposite direction. What is the magnitude of the impulse delivered by the bat to the ball?",
+  "choices": {
+    "A": "10 kg⋅m/s",
+    "B": "20 kg⋅m/s",
+    "C": "30 kg⋅m/s",
+    "D": "40 kg⋅m/s"
+  },
+  "answer": "C",
+  "solution": "Impulse is defined as the change in momentum of an object. The initial momentum of the ball is p_i = mv_i = (2 kg)(5 m/s) = 10 kg⋅m/s. The final momentum of the ball is p_f = mv_f = (2 kg)(-10 m/s) = -20 kg⋅m/s. The change in momentum (impulse) is Δp = p_f - p_i = -20 kg⋅m/s - 10 kg⋅m/s = -30 kg⋅m/s. The magnitude of the impulse is |Δp| = 30 kg⋅m/s."
+}

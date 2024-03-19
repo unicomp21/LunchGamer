@@ -1,0 +1,11 @@
+{
+  "question": "A ball is thrown horizontally from the top of a building with an initial velocity of 20 m/s. Neglecting air resistance, what is the velocity of the ball after 2 seconds? (Take g = 10 m/s^2)",
+  "choices": {
+    "A": "20 m/s at an angle of 45° below the horizontal",
+    "B": "28.3 m/s at an angle of 45° below the horizontal",
+    "C": "20 m/s horizontally and 20 m/s vertically downward",
+    "D": "20 m/s horizontally and 10 m/s vertically downward"
+  },
+  "answer": "C",
+  "solution": "In projectile motion, the horizontal and vertical components of velocity are independent of each other. The horizontal velocity remains constant at 20 m/s (v_x = v_0 = 20 m/s). The vertical velocity changes due to the acceleration of gravity (g = 10 m/s^2). After 2 seconds, the vertical velocity is v_y = g * t = 10 m/s^2 * 2 s = 20 m/s downward. Therefore, the ball's velocity after 2 seconds is 20 m/s horizontally and 20 m/s vertically downward."
+}

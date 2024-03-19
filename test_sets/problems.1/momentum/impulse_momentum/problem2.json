@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg ball traveling at 5 m/s strikes a wall and bounces back with a velocity of 3 m/s. What is the magnitude of the impulse exerted on the ball by the wall?",
+  "choices": {
+    "A": "4 N⋅s",
+    "B": "8 N⋅s",
+    "C": "12 N⋅s",
+    "D": "16 N⋅s"
+  },
+  "answer": "D",
+  "solution": "Impulse is defined as the change in momentum, which can be calculated using the formula J = Δp = m(vf - vi), where J is impulse, m is mass, vf is final velocity, and vi is initial velocity. Given m = 2 kg, vi = 5 m/s, and vf = -3 m/s (the negative sign indicates the ball bounces back in the opposite direction), we can calculate the impulse as follows: J = 2 kg(-3 m/s - 5 m/s) = 2 kg(-8 m/s) = -16 kg⋅m/s. The magnitude of the impulse is 16 kg⋅m/s or 16 N⋅s."
+}

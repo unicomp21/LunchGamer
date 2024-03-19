@@ -1,0 +1,11 @@
+{
+  "question": "A satellite orbits Earth in a circular orbit with a period of 120 minutes. If the radius of the orbit is 8000 km, what is the speed of the satellite?",
+  "choices": {
+    "A": "4.2 × 10^3 m/s",
+    "B": "6.7 × 10^3 m/s",
+    "C": "1.1 × 10^4 m/s",
+    "D": "1.7 × 10^4 m/s"
+  },
+  "answer": "A",
+  "solution": "In uniform circular motion, the speed (v) is given by the formula v = 2πr / T, where r is the radius of the orbit and T is the period. Given:\n- r = 8000 km = 8 × 10^6 m\n- T = 120 minutes = 7200 s\n\nSubstituting these values into the formula:\nv = (2π × 8 × 10^6 m) / 7200 s\n  = (16π × 10^6 m) / 7200 s\n  ≈ 4.2 × 10^3 m/s\n\nTherefore, the speed of the satellite is approximately 4.2 × 10^3 m/s."
+}

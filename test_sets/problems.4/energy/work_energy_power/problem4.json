@@ -1,0 +1,11 @@
+{
+  "question": "A 50 kg box is pushed 10 meters up a frictionless ramp that makes a 30° angle with the horizontal. How much work is done on the box? (Take g = 10 m/s^2)",
+  "choices": {
+    "A": "1250 J",
+    "B": "2500 J",
+    "C": "5000 J",
+    "D": "7500 J"
+  },
+  "answer": "B",
+  "solution": "To find the work done, we use the formula W = Fd cos θ, where F is the force, d is the distance, and θ is the angle between the force and the displacement. In this case, the force is the component of the box's weight parallel to the ramp, which is mg sin θ. Thus, W = mg sin θ · d = 50 kg · 10 m/s^2 · sin 30° · 10 m = 2500 J."
+}

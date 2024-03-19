@@ -1,0 +1,11 @@
+{
+  "question": "A 1.2 kg ball is attached to a string and swung in a horizontal circular path with a radius of 0.8 m. If the ball makes 2 revolutions per second, what is the tension in the string?",
+  "choices": {
+    "A": "11.8 N",
+    "B": "23.7 N",
+    "C": "47.4 N",
+    "D": "94.7 N"
+  },
+  "answer": "C",
+  "solution": "The centripetal force providing the centripetal acceleration is the tension in the string. Using the formula F = mv^2/r, where m is mass (1.2 kg), v is tangential velocity, and r is radius (0.8 m), we can solve for the tension. First, find the tangential velocity using v = 2πrf, where f is the frequency (2 rev/s): v = 2π(0.8 m)(2 s^-1) = 10.05 m/s. Now plug into the centripetal force equation: F = (1.2 kg)(10.05 m/s)^2 / (0.8 m) = 47.4 N. Therefore, the tension in the string is 47.4 N."
+}

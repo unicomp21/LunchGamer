@@ -1,0 +1,11 @@
+{
+  "question": "Two identical parallel plate capacitors, each with a capacitance of 10 μF, are connected in series to a 12 V battery. What is the equivalent capacitance of this arrangement?",
+  "choices": {
+    "A": "2.5 μF",
+    "B": "5 μF",
+    "C": "10 μF",
+    "D": "20 μF"
+  },
+  "answer": "B",
+  "solution": "For capacitors in series, the reciprocal of the equivalent capacitance is equal to the sum of reciprocals of individual capacitances. Using the formula 1/C_eq = 1/C_1 + 1/C_2, we get:\n\n1/C_eq = 1/(10 μF) + 1/(10 μF)\n1/C_eq = 2/(10 μF)\n\nCross multiplying, we get:\nC_eq = (10 μF)/2 = 5 μF\n\nTherefore, the equivalent capacitance of the two 10 μF capacitors connected in series is 5 μF."
+}

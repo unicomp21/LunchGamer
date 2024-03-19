@@ -1,0 +1,11 @@
+{
+  "question": "A uniform solid disk of radius 0.5 m and mass 10 kg starts from rest and accelerates uniformly to an angular speed of 4 rad/s in 2 seconds. What is the magnitude of the net torque acting on the disk during this time?",
+  "choices": {
+    "A": "1 N⋅m",
+    "B": "2 N⋅m",
+    "C": "2.5 N⋅m",
+    "D": "5 N⋅m"
+  },
+  "answer": "C",
+  "solution": "The moment of inertia of a solid disk is given by I = (1/2) × m × r^2, where m is the mass and r is the radius. Plugging in the values, we get I = (1/2) × 10 kg × (0.5 m)^2 = 1.25 kg⋅m^2. \n\nThe rotational form of Newton's second law states that net torque τ equals I × α, where I is the moment of inertia and α is the angular acceleration. We can find the angular acceleration using α = Δω / Δt, where Δω is the change in angular velocity (4 rad/s) and Δt is the time interval (2 s). Thus, α = 4 rad/s / 2 s = 2 rad/s^2. \n\nNow, we can calculate the net torque: τ = I × α = 1.25 kg⋅m^2 × 2 rad/s^2 = 2.5 N⋅m. Therefore, the correct answer is C."
+}

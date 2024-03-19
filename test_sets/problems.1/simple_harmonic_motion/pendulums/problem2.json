@@ -1,0 +1,11 @@
+{
+  "question": "A simple pendulum has a period of 2 seconds on Earth. If the pendulum is taken to a planet with twice the acceleration due to gravity of Earth, what will be the new period of the pendulum?",
+  "choices": {
+    "A": "0.5 seconds",
+    "B": "1 second",
+    "C": "√2 seconds",
+    "D": "2 seconds"
+  },
+  "answer": "C",
+  "solution": "The period of a simple pendulum is given by the formula T = 2π√(L/g), where L is the length of the pendulum and g is the acceleration due to gravity. If the acceleration due to gravity doubles, then the period will be multiplied by a factor of √(1/2), which is equal to 1/√2. Therefore, the new period will be T_new = T_old / √2 = 2 seconds / √2 = √2 seconds."
+}

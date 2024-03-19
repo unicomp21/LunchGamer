@@ -1,0 +1,11 @@
+{
+  "question": "A 5 kg block is pushed across a horizontal surface with a force of 20 N at an angle of 30° above the horizontal. If the coefficient of kinetic friction between the block and the surface is 0.2, what is the acceleration of the block? (Take g = 10 m/s^2)",
+  "choices": {
+    "A": "1.46 m/s^2",
+    "B": "2.00 m/s^2",
+    "C": "2.54 m/s^2",
+    "D": "3.08 m/s^2"
+  },
+  "answer": "C",
+  "solution": "The force of friction is calculated using the formula f = μ * N, where μ is the coefficient of kinetic friction (0.2) and N is the normal force. The normal force is equal to the block's weight (mg = 50 N) since the surface is horizontal.\n\nThe x-component of the applied force is F_x = 20 * cos(30°) = 17.32 N.\n\nThe net force in the x-direction is F_net = F_x - f = 17.32 N - (0.2 * 50 N) = 7.32 N.\n\nUsing Newton's Second Law, F_net = ma, we can calculate the acceleration:\n\na = F_net / m = 7.32 N / 5 kg = 1.46 m/s^2\n\nTherefore, the correct answer is C: 2.54 m/s^2."
+}

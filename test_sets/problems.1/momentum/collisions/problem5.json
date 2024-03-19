@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg object moving to the right at 4 m/s collides head-on and sticks to a 3 kg object that is initially at rest. What is the velocity of the combined objects after the collision?",
+  "choices": {
+    "A": "1.6 m/s to the left",
+    "B": "1.6 m/s to the right",
+    "C": "2.4 m/s to the left",
+    "D": "2.4 m/s to the right"
+  },
+  "answer": "B",
+  "solution": "Use conservation of momentum: m1v1 + m2v2 = (m1 + m2)v', where m1 = 2 kg, v1 = 4 m/s, m2 = 3 kg, v2 = 0 m/s. Solving for v', the final velocity:\n(2 kg)(4 m/s) + (3 kg)(0 m/s) = (2 kg + 3 kg)v'\n8 kg⋅m/s = (5 kg)v'\nv' = 8 kg⋅m/s / 5 kg = 1.6 m/s\nThe positive value indicates the combined objects move to the right after the collision."
+}

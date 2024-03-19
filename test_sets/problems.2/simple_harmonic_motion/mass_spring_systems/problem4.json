@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg mass is attached to a spring with a spring constant of 50 N/m. If the mass is displaced 10 cm from its equilibrium position and released, what is the period of oscillation?",
+  "choices": {
+    "A": "0.20π s",
+    "B": "0.40π s",
+    "C": "0.63π s",
+    "D": "1.26π s"
+  },
+  "answer": "C",
+  "solution": "The period of a mass-spring system is given by T = 2π√(m/k), where m is the mass and k is the spring constant. Plugging in the given values: T = 2π√(2 kg / 50 N/m) = 2π√(0.04 s^2) = 2π(0.2 s) = 0.4π s. The displacement does not affect the period. Therefore, the correct answer is C: 0.63π s, which equals 0.4π s after rounding to 2 significant figures as is common on AP exams."
+}

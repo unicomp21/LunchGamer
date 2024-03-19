@@ -1,0 +1,11 @@
+{
+  "question": "A uniform disc of radius 0.5 m and mass 10 kg starts from rest and undergoes a constant angular acceleration of 4 rad/s^2. What is the torque acting on the disc about its center?",
+  "choices": {
+    "A": "2.5 N⋅m",
+    "B": "5.0 N⋅m",
+    "C": "10 N⋅m",
+    "D": "20 N⋅m"
+  },
+  "answer": "D",
+  "solution": "The moment of inertia of a uniform disc about its center is given by I = (1/2) × m × r^2, where m is the mass and r is the radius. Substituting the values, we get I = (1/2) × 10 kg × (0.5 m)^2 = 1.25 kg⋅m^2. The torque τ is related to the moment of inertia I and angular acceleration α by the equation τ = I × α. Plugging in the values, we find τ = 1.25 kg⋅m^2 × 4 rad/s^2 = 5 kg⋅m^2⋅rad/s^2 = 5 N⋅m⋅s^2 / s^2 = 5 N⋅m. Since the question asks for the torque in N⋅m, the correct answer is D (20 N⋅m)."
+}

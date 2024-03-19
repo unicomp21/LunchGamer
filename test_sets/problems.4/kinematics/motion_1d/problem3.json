@@ -1,0 +1,11 @@
+{
+  "question": "A ball is thrown straight up with an initial velocity of 20 m/s. Ignoring air resistance, what is the maximum height the ball reaches?",
+  "choices": {
+    "A": "10 m",
+    "B": "20 m",
+    "C": "30 m",
+    "D": "40 m"
+  },
+  "answer": "B",
+  "solution": "To find the maximum height, use the formula v_f^2 = v_i^2 + 2aΔy, where v_f is the final velocity (0 m/s at the maximum height), v_i is the initial velocity (20 m/s), a is the acceleration due to gravity (-9.8 m/s^2), and Δy is the change in height (maximum height - initial height).\n\nSubstitute the values: 0 = (20 m/s)^2 + 2(-9.8 m/s^2)Δy\nSimplify: 0 = 400 m^2/s^2 - 19.6 m/s^2 * Δy\nSolve for Δy: Δy = 400 m^2/s^2 / 19.6 m/s^2 = 20.4 m\n\nSince the initial height is 0 m, the maximum height is 20.4 m, which rounds to 20 m (choice B)."
+}

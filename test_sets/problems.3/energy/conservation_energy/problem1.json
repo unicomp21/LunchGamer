@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg block is released from rest at the top of a frictionless ramp that is 5 m high. What is the speed of the block when it reaches the bottom of the ramp?",
+  "choices": {
+    "A": "5 m/s",
+    "B": "7 m/s",
+    "C": "9.9 m/s",
+    "D": "12.2 m/s"
+  },
+  "answer": "C",
+  "solution": "Since the ramp is frictionless, mechanical energy is conserved. At the top, the block has gravitational potential energy U = mgh, where m is mass (2 kg), g is acceleration due to gravity (9.8 m/s^2), and h is height (5 m). So, U = 2 * 9.8 * 5 = 98 J. At the bottom, this energy is converted to kinetic energy K = (1/2)mv^2. Setting this equal to U and solving for v: 98 = (1/2)2v^2 --> v^2 = 98 --> v = √98 = 9.9 m/s."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A transverse wave with a wavelength of 2 meters is traveling along a string at a speed of 10 m/s. What is the frequency of the wave?",
+  "choices": {
+    "A": "2 Hz",
+    "B": "5 Hz",
+    "C": "8 Hz",
+    "D": "20 Hz"
+  },
+  "answer": "B",
+  "solution": "The frequency of a wave can be calculated using the wave equation: v = fλ, where v is the wave speed, f is the frequency, and λ is the wavelength. Rearranging the equation to solve for frequency, we get: f = v / λ. Substituting the given values, we have: f = 10 m/s / 2 m = 5 Hz. Therefore, the correct answer is choice B, 5 Hz."
+}

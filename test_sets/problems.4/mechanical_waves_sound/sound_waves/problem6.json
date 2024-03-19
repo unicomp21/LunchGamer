@@ -1,0 +1,11 @@
+{
+  "question": "A sound wave traveling through air has a frequency of 440 Hz and a wavelength of 0.75 m. What is the speed of the sound wave?",
+  "choices": {
+    "A": "110 m/s",
+    "B": "220 m/s",
+    "C": "330 m/s",
+    "D": "660 m/s"
+  },
+  "answer": "C",
+  "solution": "The speed of a wave can be calculated using the wave equation: v = fλ, where v is the speed, f is the frequency, and λ is the wavelength. Given f = 440 Hz and λ = 0.75 m, we can calculate the speed as follows:\n\nv = fλ\nv = 440 Hz × 0.75 m\nv = 330 m/s\n\nTherefore, the speed of the sound wave is 330 m/s, which corresponds to answer choice C."
+}

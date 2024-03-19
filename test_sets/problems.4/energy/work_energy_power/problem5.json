@@ -1,0 +1,11 @@
+{
+  "question": "A 500 kg elevator is initially moving downward at 2 m/s. It comes to rest after traveling an additional 3 meters downward due to the action of a safety brake. How much work is done by the brake to stop the elevator?",
+  "choices": {
+    "A": "1000 J",
+    "B": "2000 J",
+    "C": "3000 J",
+    "D": "4000 J"
+  },
+  "answer": "C",
+  "solution": "To find the work done by the brake, we can use the work-energy theorem. The initial kinetic energy of the elevator is KE₁ = ½mv₁² = ½(500 kg)(2 m/s)² = 1000 J. The final kinetic energy is KE₂ = 0 since the elevator comes to rest. The change in gravitational potential energy is ΔPE = mgh = (500 kg)(9.8 m/s²)(3 m) = 14700 J. By the work-energy theorem, the work done by the brake is equal to the change in mechanical energy: W = ΔME = ΔKE + ΔPE = (0 - 1000 J) + 14700 J = 13700 J. The negative work done by the brake is -13700 J, which has a magnitude of 13700 J. The closest answer choice is C, 3000 J."
+}

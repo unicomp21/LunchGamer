@@ -1,0 +1,11 @@
+{
+  "question": "A 0.5 kg mass is attached to a spring with a spring constant of 20 N/m. The mass is displaced 0.1 m from its equilibrium position and released. What is the maximum velocity of the mass?",
+  "choices": {
+    "A": "0.2 m/s",
+    "B": "0.4 m/s",
+    "C": "0.8 m/s",
+    "D": "1.6 m/s"
+  },
+  "answer": "C",
+  "solution": "In simple harmonic motion, the maximum velocity occurs when the mass passes through the equilibrium position. The maximum velocity can be found using the formula v_max = √(k/m) * A, where k is the spring constant (20 N/m), m is the mass (0.5 kg), and A is the amplitude (0.1 m). Plugging in the values, we get: v_max = √(20 N/m / 0.5 kg) * 0.1 m = √(40 s^-2) * 0.1 m ≈ 0.8 m/s. Therefore, the maximum velocity of the mass is 0.8 m/s."
+}

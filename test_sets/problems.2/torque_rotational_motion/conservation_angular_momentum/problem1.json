@@ -1,0 +1,11 @@
+{
+  "question": "A figure skater is spinning with arms extended, holding a total angular momentum of 24 kg⋅m²/s. When she pulls her arms inward, her rotational inertia decreases to 1/4 of its original value. What is her new angular velocity, if her original angular velocity was 2 rad/s?",
+  "choices": {
+    "A": "2 rad/s",
+    "B": "4 rad/s",
+    "C": "8 rad/s",
+    "D": "16 rad/s"
+  },
+  "answer": "C",
+  "solution": "By the conservation of angular momentum, L₁ = L₂, where L is angular momentum. Angular momentum is defined as L = Iω, where I is rotational inertia and ω is angular velocity. Therefore, I₁ω₁ = I₂ω₂. We are given that I₂ = (1/4)I₁ and ω₁ = 2 rad/s. Substituting these values, we get: I₁(2 rad/s) = (1/4)I₁ω₂. Solving for ω₂, we find ω₂ = 8 rad/s. Thus, when the skater pulls her arms inward, decreasing her rotational inertia to 1/4 of its original value, her angular velocity increases from 2 rad/s to 8 rad/s."
+}

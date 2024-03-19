@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg mass is attached to a spring with a spring constant of 50 N/m. If the mass is displaced 0.1 m from equilibrium and released, what is the maximum speed of the mass as it oscillates?",
+  "choices": {
+    "A": "0.25 m/s",
+    "B": "0.50 m/s",
+    "C": "1.0 m/s",
+    "D": "2.0 m/s"
+  },
+  "answer": "B",
+  "solution": "The maximum speed occurs when the mass passes through the equilibrium position. At this point, all the potential energy has been converted to kinetic energy. Using the conservation of energy principle:\n\nPE (at max displacement) = KE (at equilibrium)\n\n(1/2)kx^2 = (1/2)mv^2\n\nwhere k is the spring constant (50 N/m), x is the displacement (0.1 m), m is the mass (2 kg), and v is the maximum speed.\n\nSolving for v:\n\nv = sqrt((kx^2)/m)\n  = sqrt((50 N/m * (0.1 m)^2) / 2 kg)\n  = sqrt(0.25 (N*m)/kg)\n  = sqrt(0.25 m^2/s^2)\n  = 0.50 m/s\n\nTherefore, the maximum speed of the mass is 0.50 m/s (choice B)."
+}

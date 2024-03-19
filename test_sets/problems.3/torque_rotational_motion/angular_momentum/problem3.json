@@ -1,0 +1,11 @@
+{
+  "question": "A uniform rod of length 2.0 m and mass 5.0 kg rotates about an axis through its center perpendicular to its length. If the rod has an angular velocity of 3.0 rad/s, what is its angular momentum?",
+  "choices": {
+    "A": "2.5 kg⋅m^2/s",
+    "B": "5.0 kg⋅m^2/s",
+    "C": "7.5 kg⋅m^2/s",
+    "D": "10 kg⋅m^2/s"
+  },
+  "answer": "D",
+  "solution": "The moment of inertia of a uniform rod rotating about its center is given by I = (1/12)ML^2, where M is the mass and L is the length of the rod. Here, M = 5.0 kg and L = 2.0 m, so I = (1/12)(5.0 kg)(2.0 m)^2 = (10/3) kg⋅m^2. The angular momentum L is the product of the moment of inertia and the angular velocity ω: L = Iω. With I = (10/3) kg⋅m^2 and ω = 3.0 rad/s, we get L = (10/3) kg⋅m^2 × 3.0 rad/s = 10 kg⋅m^2/s."
+}

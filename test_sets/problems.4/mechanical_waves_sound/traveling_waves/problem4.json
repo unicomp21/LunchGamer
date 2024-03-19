@@ -1,0 +1,11 @@
+{
+  "question": "A transverse wave traveling along a string has an amplitude of 2 cm and a wavelength of 0.5 m. If the wave travels at a speed of 10 m/s, what is the frequency of the wave?",
+  "choices": {
+    "A": "5 Hz",
+    "B": "10 Hz",
+    "C": "20 Hz",
+    "D": "40 Hz"
+  },
+  "answer": "C",
+  "solution": "The frequency of a wave can be found using the formula f = v / λ, where f is the frequency, v is the wave speed, and λ is the wavelength. In this case, v = 10 m/s and λ = 0.5 m. Substituting these values into the formula, we get f = 10 m/s / 0.5 m = 20 Hz. The amplitude of the wave does not affect the frequency."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A train moving at a constant velocity sounds its whistle at a frequency of 500 Hz. If the speed of sound in air is 340 m/s and the train is moving towards a stationary observer at a speed of 30 m/s, what frequency does the observer hear?",
+  "choices": {
+    "A": "457 Hz",
+    "B": "500 Hz",
+    "C": "544 Hz",
+    "D": "588 Hz"
+  },
+  "answer": "C",
+  "solution": "The Doppler effect formula for an observer the source is moving towards is f_o = f_s * (v + v_o) / (v + v_s), where f_o is the observed frequency, f_s is the source frequency, v is the speed of sound, v_o is the observer's velocity (0 in this case), and v_s is the source velocity. Plugging in the values:\n\nf_o = 500 Hz * (340 m/s + 0 m/s) / (340 m/s - 30 m/s)\nf_o = 500 Hz * (340 m/s) / (310 m/s)\nf_o = 500 Hz * 1.097\nf_o ≈ 548 Hz\n\nThe closest answer choice is C, 544 Hz."
+}

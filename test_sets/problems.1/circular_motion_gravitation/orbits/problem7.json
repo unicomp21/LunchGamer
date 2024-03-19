@@ -1,0 +1,11 @@
+{
+  "question": "A satellite orbits Earth in a circular orbit. If the radius of the orbit is doubled while the mass of the Earth remains constant, how does the orbital period change?",
+  "choices": {
+    "A": "It becomes 2 times longer",
+    "B": "It becomes √2 times longer",
+    "C": "It becomes 2√2 times longer",
+    "D": "It becomes 4 times longer"
+  },
+  "answer": "C",
+  "solution": "The orbital period T of a satellite in a circular orbit is given by the formula T = 2π√(r³/GM), where r is the orbital radius, G is the gravitational constant, and M is the mass of Earth. If the radius is doubled (2r), then the new period T_new = 2π√((2r)³/GM) = 2π√(8r³/GM) = 2√2 * 2π√(r³/GM) = 2√2 * T. Therefore, the orbital period becomes 2√2 times longer when the radius is doubled."
+}

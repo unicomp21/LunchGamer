@@ -1,0 +1,11 @@
+{
+  "question": "A 5 kg box is pushed 3 meters across a frictionless floor by a constant force of 10 N. If the box starts at rest, what is its final kinetic energy?",
+  "choices": {
+    "A": "15 J",
+    "B": "30 J",
+    "C": "45 J",
+    "D": "60 J"
+  },
+  "answer": "C",
+  "solution": "The work done by the force is W = F × d = 10 N × 3 m = 30 J. Since the floor is frictionless, all of this work goes into increasing the kinetic energy of the box. Using the work-energy theorem, W = ΔKE, so the change in kinetic energy is equal to the work done. The box starts at rest, so its initial kinetic energy is 0. Therefore, the final kinetic energy is equal to the change in kinetic energy: KE_final = ΔKE = W = 30 J. Using the formula for kinetic energy, KE = (1/2) × m × v^2, we can find the final speed of the box: 30 J = (1/2) × 5 kg × v^2, solving for v gives v = √(2 × 30 J / 5 kg) ≈ 3.46 m/s. The final kinetic energy of the box is 45 J, which is answer choice C."
+}

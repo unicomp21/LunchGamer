@@ -1,0 +1,11 @@
+{
+  "question": "A block of mass 5 kg is pulled along a horizontal frictionless surface by a force of 10 N acting at an angle of 30° above the horizontal. What is the acceleration of the block?",
+  "choices": {
+    "A": "1.73 m/s^2",
+    "B": "2.00 m/s^2",
+    "C": "2.50 m/s^2",
+    "D": "5.00 m/s^2"
+  },
+  "answer": "A",
+  "solution": "Let's break this down step by step:\n1) Draw the free body diagram: The block experiences two forces - the applied force (F) at 30° and the normal force (N) perpendicular to the surface.\n2) Resolve the applied force into horizontal and vertical components:\n   Horizontal component: F_x = F * cos(30°) = 10 * cos(30°) = 8.66 N\n   Vertical component: F_y = F * sin(30°) = 10 * sin(30°) = 5 N\n3) Apply Newton's Second Law in the horizontal direction:\n   F_net_x = ma, where m is the mass and a is the acceleration.\n   Here, F_net_x is equal to F_x as there's no friction.\n   8.66 N = 5 kg * a\n4) Solve for the acceleration (a):\n   a = 8.66 N / 5 kg = 1.73 m/s^2\nTherefore, the correct answer is A: 1.73 m/s^2."
+}

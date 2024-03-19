@@ -1,0 +1,11 @@
+{
+  "question": "A football is kicked at an angle of 30° above the horizontal with an initial speed of 20 m/s. Neglecting air resistance, what is the time of flight of the football? (Take g = 10 m/s^2)",
+  "choices": {
+    "A": "1.0 s",
+    "B": "1.7 s",
+    "C": "2.0 s",
+    "D": "3.5 s"
+  },
+  "answer": "C",
+  "solution": "To find the time of flight, we can use the equation: t = 2 * v_0y / g, where v_0y is the initial vertical component of velocity. First, find v_0y using: v_0y = v_0 * sin(θ), where v_0 is the initial speed and θ is the angle above the horizontal. v_0y = 20 m/s * sin(30°) = 10 m/s. Substituting into the time of flight equation: t = 2 * 10 m/s / 10 m/s^2 = 2 s. Therefore, the correct answer is C."
+}

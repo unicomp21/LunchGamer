@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg ball is thrown with an initial velocity of 5 m/s and is caught with a final velocity of 3 m/s in the same direction after being in contact with a player's hands for 0.1 seconds. What is the average force exerted by the player's hands on the ball?",
+  "choices": {
+    "A": "10 N",
+    "B": "20 N",
+    "C": "30 N",
+    "D": "40 N"
+  },
+  "answer": "D",
+  "solution": "The average force can be found using the impulse-momentum theorem: F_avg * Δt = m * Δv, where F_avg is the average force, Δt is the time interval (0.1 s), m is the mass of the ball (2 kg), and Δv is the change in velocity (3 m/s - 5 m/s = -2 m/s). Rearranging the equation, we get: F_avg = (m * Δv) / Δt = (2 kg * -2 m/s) / 0.1 s = -40 N. The negative sign indicates that the force is in the opposite direction of the initial velocity. Therefore, the magnitude of the average force is 40 N."
+}

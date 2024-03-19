@@ -1,0 +1,11 @@
+{
+  "question": "A 10 kg block is lifted vertically 5 meters by a machine in 2 seconds. Assuming the machine operates at a constant power, how much power does the machine generate? (Take g = 10 m/s^2)",
+  "choices": {
+    "A": "125 W",
+    "B": "250 W",
+    "C": "500 W",
+    "D": "1000 W"
+  },
+  "answer": "B",
+  "solution": "To solve this problem, we need to calculate the work done by the machine and divide it by the time taken. The work done is equal to the change in potential energy of the block.\n\nW = ΔPE = mgΔh\nW = (10 kg)(10 m/s^2)(5 m) = 500 J\n\nNow, power is defined as the rate of doing work:\n\nP = W / t\nP = 500 J / 2 s = 250 W\n\nTherefore, the machine generates a power of 250 W."
+}

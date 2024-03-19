@@ -1,0 +1,11 @@
+{
+  "question": "A sound wave with a frequency of 500 Hz is traveling through air at 343 m/s. What is the wavelength of the sound wave?",
+  "choices": {
+    "A": "0.343 m",
+    "B": "0.686 m",
+    "C": "1.46 m",
+    "D": "171.5 m"
+  },
+  "answer": "B",
+  "solution": "The wavelength of a sound wave can be calculated using the wave equation: v = fλ, where v is the velocity of the wave (343 m/s), f is the frequency (500 Hz), and λ is the wavelength. Rearranging the equation to solve for wavelength: λ = v / f = 343 m/s / 500 Hz = 0.686 m. Therefore, the correct answer is B: 0.686 m."
+}

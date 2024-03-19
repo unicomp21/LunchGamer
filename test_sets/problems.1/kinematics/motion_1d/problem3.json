@@ -1,0 +1,11 @@
+{
+  "question": "A ball is thrown straight up with an initial velocity of 20 m/s. Assuming negligible air resistance, what is the ball's velocity 3 seconds after it is thrown?",
+  "choices": {
+    "A": "29.4 m/s",
+    "B": "20.0 m/s",
+    "C": "9.4 m/s",
+    "D": "-9.4 m/s"
+  },
+  "answer": "D",
+  "solution": "The velocity of the ball can be calculated using the formula v = v₀ - gt, where v₀ is the initial velocity (20 m/s), g is the acceleration due to gravity (9.8 m/s²), and t is the time elapsed (3 s). Plugging in the values, we get: v = 20 m/s - (9.8 m/s² × 3 s) = 20 m/s - 29.4 m/s = -9.4 m/s. The negative sign indicates that the ball is moving downward after 3 seconds."
+}

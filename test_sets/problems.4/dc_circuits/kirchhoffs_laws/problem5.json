@@ -1,0 +1,11 @@
+{
+  "question": "In the circuit shown, all resistors have equal resistance R. What is the equivalent resistance between points X and Y?",
+  "choices": {
+    "A": "R/3",
+    "B": "R/2",
+    "C": "R",
+    "D": "2R"
+  },
+  "answer": "B",
+  "solution": "The circuit can be simplified using Kirchhoff's laws. First, we can see that the current splits equally at point X due to the symmetry of the circuit. This means that the current through the middle resistor is half of the current through each of the outer resistors. Next, we can apply Kirchhoff's voltage law to the loop formed by the three resistors. The voltage drop across the middle resistor is equal to the sum of the voltage drops across the two outer resistors in parallel. Therefore, the equivalent resistance of the two outer resistors in parallel is R/2. This parallel combination is then in series with the middle resistor, giving a total equivalent resistance of R/2 + R/2 = R between points X and Y."
+}

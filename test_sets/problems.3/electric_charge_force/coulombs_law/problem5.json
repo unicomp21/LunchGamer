@@ -1,0 +1,11 @@
+{
+  "question": "Two small spheres, each with a charge of +2 µC, are separated by a distance of 30 cm. What is the magnitude of the electrostatic force between the two spheres? (k = 9 × 10⁹ N·m²/C²)",
+  "choices": {
+    "A": "0.4 N",
+    "B": "0.8 N",
+    "C": "4.0 N",
+    "D": "8.0 N"
+  },
+  "answer": "A",
+  "solution": "The force between two charges can be calculated using Coulomb's law: F = k × (q₁ × q₂) / r², where k is Coulomb's constant (9 × 10⁹ N·m²/C²), q₁ and q₂ are the charges (both +2 × 10⁻⁶ C), and r is the distance between the charges (0.3 m). Plugging in the values, we get: F = (9 × 10⁹ N·m²/C²) × ((2 × 10⁻⁶ C) × (2 × 10⁻⁶ C)) / (0.3 m)². Simplifying, we get: F = (9 × 10⁹ N·m²/C²) × (4 × 10⁻¹² C²) / (0.09 m²) = 0.4 N. Therefore, the magnitude of the electrostatic force between the two spheres is 0.4 N."
+}

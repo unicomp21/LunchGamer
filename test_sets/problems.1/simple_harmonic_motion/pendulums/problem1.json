@@ -1,0 +1,11 @@
+{
+  "question": "A simple pendulum consists of a bob of mass 0.5 kg suspended by a light string of length 1.0 m. If the bob is displaced by a small angle from its equilibrium position and released, what is the period of oscillation of the pendulum? (Take g = 9.8 m/s^2)",
+  "choices": {
+    "A": "0.64 s",
+    "B": "1.01 s",
+    "C": "2.01 s",
+    "D": "3.18 s"
+  },
+  "answer": "C",
+  "solution": "For a simple pendulum, the period of oscillation (T) is given by the formula: T = 2π√(L/g), where L is the length of the pendulum and g is the acceleration due to gravity. Substituting the given values, we get: T = 2π√(1.0 m / 9.8 m/s^2) ≈ 2.01 s. The mass of the bob does not affect the period of oscillation for a simple pendulum."
+}

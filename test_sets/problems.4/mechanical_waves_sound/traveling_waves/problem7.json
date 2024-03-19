@@ -1,0 +1,11 @@
+{
+  "question": "A transverse wave is traveling along a string with a speed of 20 m/s. If the frequency of the wave is 10 Hz, what is the wavelength of the wave?",
+  "choices": {
+    "A": "0.5 m",
+    "B": "1 m",
+    "C": "2 m",
+    "D": "4 m"
+  },
+  "answer": "C",
+  "solution": "The wavelength can be calculated using the wave equation: v = fλ, where v is the wave speed (20 m/s), f is the frequency (10 Hz), and λ is the wavelength. Rearranging the equation to solve for wavelength gives: λ = v / f. Substituting the given values: λ = 20 m/s / 10 Hz = 2 m. Therefore, the correct answer is C: 2 m."
+}

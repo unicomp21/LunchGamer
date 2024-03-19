@@ -1,0 +1,11 @@
+{
+  "question": "A solid cylinder of radius 0.2 m rotates about a fixed axis through its center with an angular acceleration of 5 rad/s^2. If the cylinder starts from rest, what is its angular velocity after 4 seconds?",
+  "choices": {
+    "A": "5 rad/s",
+    "B": "10 rad/s",
+    "C": "20 rad/s",
+    "D": "40 rad/s"
+  },
+  "answer": "C",
+  "solution": "The angular velocity can be found using the rotational kinematics equation ω = ω_0 + αt, where ω is the final angular velocity, ω_0 is the initial angular velocity (0 in this case), α is the angular acceleration (5 rad/s^2), and t is the time interval (4 s). Substituting the values, we get:\n\nω = 0 + (5 rad/s^2)(4 s)\nω = 20 rad/s\n\nTherefore, the angular velocity of the cylinder after 4 seconds is 20 rad/s."
+}

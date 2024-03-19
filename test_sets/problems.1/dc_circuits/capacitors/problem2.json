@@ -1,0 +1,11 @@
+{
+  "question": "Two capacitors with capacitances C1 = 2 μF and C2 = 6 μF are connected in series to a 12 V battery. What is the voltage across the 2 μF capacitor?",
+  "choices": {
+    "A": "3 V",
+    "B": "4 V",
+    "C": "6 V",
+    "D": "9 V"
+  },
+  "answer": "D",
+  "solution": "For capacitors in series, the inverse of the equivalent capacitance is equal to the sum of inverses of individual capacitances: 1/Ceq = 1/C1 + 1/C2. Solving for Ceq gives 1.5 μF. The total voltage is divided among capacitors in series in inverse proportion to their capacitances. So the voltage across C1 is V1 = (Ceq/C1) * Vtot = (1.5 μF / 2 μF) * 12 V = 9 V."
+}

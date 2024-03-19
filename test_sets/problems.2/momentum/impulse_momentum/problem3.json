@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg ball is thrown horizontally with an initial velocity of 5 m/s. If the ball experiences a constant horizontal force of -4 N for 0.5 seconds, what is the final velocity of the ball?",
+  "choices": {
+    "A": "3 m/s",
+    "B": "4 m/s",
+    "C": "5 m/s",
+    "D": "6 m/s"
+  },
+  "answer": "A",
+  "solution": "The impulse-momentum theorem states that the change in momentum (Δp) is equal to the impulse (FΔt), where F is the net force and Δt is the time interval. The initial momentum is p_i = mv_i = (2 kg)(5 m/s) = 10 kg⋅m/s. The impulse is FΔt = (-4 N)(0.5 s) = -2 kg⋅m/s. The final momentum is p_f = p_i + FΔt = 10 kg⋅m/s - 2 kg⋅m/s = 8 kg⋅m/s. The final velocity can be calculated using v_f = p_f / m = (8 kg⋅m/s) / (2 kg) = 4 m/s. Therefore, the final velocity of the ball is 4 m/s."
+}

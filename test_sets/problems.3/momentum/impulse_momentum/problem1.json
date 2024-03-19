@@ -1,0 +1,11 @@
+{
+  "question": "A tennis ball with a mass of 0.06 kg is hit by a tennis racket with an average force of 200 N. If the contact time between the ball and the racket is 0.005 seconds, what is the change in velocity of the ball?",
+  "choices": {
+    "A": "6 m/s",
+    "B": "12 m/s",
+    "C": "17 m/s",
+    "D": "24 m/s"
+  },
+  "answer": "C",
+  "solution": "The change in velocity can be found using the impulse-momentum theorem: F * Δt = m * Δv, where F is the average force (200 N), Δt is the contact time (0.005 s), and m is the mass of the ball (0.06 kg). Rearranging the equation to solve for Δv: Δv = (F * Δt) / m. Plugging in the values: Δv = (200 N * 0.005 s) / 0.06 kg ≈ 16.67 m/s. The closest answer choice is C, 17 m/s."
+}

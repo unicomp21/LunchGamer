@@ -1,0 +1,11 @@
+{
+  "question": "Two identical capacitors, each with capacitance C, are connected in series to a battery with voltage V. What is the total capacitance of the circuit?",
+  "choices": {
+    "A": "C/4",
+    "B": "C/2",
+    "C": "C",
+    "D": "2C"
+  },
+  "answer": "B",
+  "solution": "When two capacitors with equal capacitance C are connected in series, the total capacitance C_total is given by the formula 1/C_total = 1/C + 1/C. Simplifying this equation, we get 1/C_total = 2/C, or C_total = C/2. Therefore, the total capacitance of the circuit is half the capacitance of each individual capacitor."
+}

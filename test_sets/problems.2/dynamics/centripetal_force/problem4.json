@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg object is attached to a string and swung in a horizontal circle with a radius of 1.5 m. If the object makes 2 revolutions per second, what is the tension in the string?",
+  "choices": {
+    "A": "59 N",
+    "B": "79 N",
+    "C": "118 N",
+    "D": "158 N"
+  },
+  "answer": "C",
+  "solution": "The tension in the string provides the centripetal force. The formula for centripetal force is F_c = mv^2/r, where m is the mass (2 kg), v is the tangential velocity, and r is the radius (1.5 m). The tangential velocity can be calculated using v = 2πrf, where f is the frequency (2 revolutions per second). Plugging in the values: v = 2π * 1.5 m * 2 s^-1 = 18.85 m/s. Now, calculating the centripetal force: F_c = 2 kg * (18.85 m/s)^2 / 1.5 m = 118 N. Therefore, the tension in the string is 118 N."
+}

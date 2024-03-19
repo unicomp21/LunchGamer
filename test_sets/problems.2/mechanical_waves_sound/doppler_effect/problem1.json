@@ -1,0 +1,11 @@
+{
+  "question": "A train blowing its whistle approaches a stationary observer at a constant velocity. Compared to the frequency of the sound waves emitted by the whistle, the frequency of the sound waves heard by the observer is:",
+  "choices": {
+    "A": "lower",
+    "B": "higher",
+    "C": "the same",
+    "D": "impossible to determine without more information"
+  },
+  "answer": "B",
+  "solution": "The Doppler effect describes how the observed frequency of a wave changes when the source and observer are in relative motion. When the source is moving towards the observer, the observed frequency is higher than the emitted frequency. This is because the sound waves are compressed in the direction of motion, decreasing the wavelength and increasing the frequency. The frequency heard by the observer, f_o, is related to the source frequency, f_s, by the formula: f_o = f_s * (v + v_o) / (v - v_s), where v is the speed of sound, v_o is the observer's velocity (zero in this case), and v_s is the source velocity. Since the train (source) is moving towards the stationary observer, v_s is positive, resulting in f_o > f_s. Therefore, the frequency heard by the observer is higher than the frequency emitted by the train whistle."
+}

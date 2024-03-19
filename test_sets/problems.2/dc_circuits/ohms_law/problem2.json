@@ -1,0 +1,11 @@
+{
+  "question": "A resistor with a resistance of 10 Ω is connected to a battery with a voltage of 5 V. What is the current flowing through the resistor?",
+  "choices": {
+    "A": "0.2 A",
+    "B": "0.5 A",
+    "C": "2 A",
+    "D": "50 A"
+  },
+  "answer": "B",
+  "solution": "According to Ohm's law, the current I through a resistor is directly proportional to the voltage V across the resistor and inversely proportional to the resistance R of the resistor. The mathematical formula for Ohm's law is I = V / R. In this case, the voltage is 5 V and the resistance is 10 Ω. Therefore, the current can be calculated as follows: I = V / R = 5 V / 10 Ω = 0.5 A."
+}

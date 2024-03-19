@@ -1,0 +1,11 @@
+{
+  "question": "An object starts from rest and accelerates at a constant rate of 5 m/s^2 for 6 seconds. How far does the object travel during this time?",
+  "choices": {
+    "A": "15 m",
+    "B": "30 m",
+    "C": "60 m",
+    "D": "90 m"
+  },
+  "answer": "D",
+  "solution": "The displacement can be calculated using the formula Δx = (1/2)at^2, where a is the acceleration (5 m/s^2) and t is the time (6 s). Plugging in the values, we get: Δx = (1/2) * 5 m/s^2 * (6 s)^2 = (1/2) * 5 m/s^2 * 36 s^2 = 90 m. Therefore, the object travels 90 meters during the 6 seconds of constant acceleration."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg object moving at 4 m/s to the right collides head-on and sticks to a 3 kg object that is initially at rest. What is the velocity of the combined objects after the collision?",
+  "choices": {
+    "A": "1.6 m/s to the left",
+    "B": "1.6 m/s to the right",
+    "C": "2.4 m/s to the left",
+    "D": "2.4 m/s to the right"
+  },
+  "answer": "B",
+  "solution": "Since this is a completely inelastic collision, momentum is conserved but kinetic energy is not. The initial momentum of the system is p_i = m_1 * v_1 = 2 kg * 4 m/s = 8 kg⋅m/s to the right. After the collision, the final momentum must also be 8 kg⋅m/s to the right. The mass of the combined objects is m_f = m_1 + m_2 = 2 kg + 3 kg = 5 kg. Using the formula p_f = m_f * v_f, we can solve for the final velocity: v_f = p_f / m_f = 8 kg⋅m/s / 5 kg = 1.6 m/s to the right."
+}

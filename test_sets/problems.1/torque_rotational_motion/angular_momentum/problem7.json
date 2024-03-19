@@ -1,0 +1,11 @@
+{
+  "question": "A uniform solid disc of radius 0.5 m and mass 10 kg is rotating about a fixed axis perpendicular to its center with an angular velocity of 4 rad/s. What is the angular momentum of the disc about the axis of rotation?",
+  "choices": {
+    "A": "1.25 kg·m²/s",
+    "B": "2.5 kg·m²/s",
+    "C": "5 kg·m²/s",
+    "D": "10 kg·m²/s"
+  },
+  "answer": "C",
+  "solution": "The moment of inertia of a solid disc about an axis perpendicular to its center is given by I = (1/2) * m * r², where m is the mass and r is the radius. Substituting the given values, we get I = (1/2) * 10 kg * (0.5 m)² = 1.25 kg·m². The angular momentum is calculated using the formula L = I * ω, where ω is the angular velocity. Therefore, L = 1.25 kg·m² * 4 rad/s = 5 kg·m²/s."
+}

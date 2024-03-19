@@ -1,0 +1,11 @@
+{
+  "question": "A uniform solid disk of radius 0.5 m and mass 10 kg rotates about a fixed axis through its center. If a constant tangential force of 20 N is applied to the edge of the disk, what is the angular acceleration of the disk?",
+  "choices": {
+    "A": "2 rad/s^2",
+    "B": "4 rad/s^2",
+    "C": "8 rad/s^2",
+    "D": "16 rad/s^2"
+  },
+  "answer": "C",
+  "solution": "The moment of inertia of a solid disk is given by I = (1/2) * M * R^2, where M is the mass and R is the radius. Plugging in the values, we get I = (1/2) * 10 kg * (0.5 m)^2 = 1.25 kg*m^2. \n\nThe torque applied by the tangential force is τ = F * R = 20 N * 0.5 m = 10 N*m. \n\nThe angular acceleration α is related to the torque and moment of inertia by τ = I * α. Solving for α, we get α = τ / I = (10 N*m) / (1.25 kg*m^2) = 8 rad/s^2."
+}

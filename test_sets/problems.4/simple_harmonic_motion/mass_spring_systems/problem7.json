@@ -1,0 +1,11 @@
+{
+  "question": "A 0.5 kg mass is attached to a spring with a spring constant of 20 N/m. If the mass is displaced 0.1 m from its equilibrium position and released, what is the maximum velocity of the mass during its oscillation?",
+  "choices": {
+    "A": "0.2 m/s",
+    "B": "0.4 m/s",
+    "C": "0.8 m/s",
+    "D": "1.6 m/s"
+  },
+  "answer": "C",
+  "solution": "In simple harmonic motion, the maximum velocity occurs at the equilibrium position. The maximum velocity can be found using the formula v_max = ω * A, where ω is the angular frequency and A is the amplitude of the oscillation.\n\nFirst, find the angular frequency using ω = √(k / m), where k is the spring constant and m is the mass:\nω = √(20 N/m / 0.5 kg) = √(40 s^-2) ≈ 6.32 rad/s\n\nThe amplitude of the oscillation is the given displacement, A = 0.1 m.\n\nNow, calculate the maximum velocity:\nv_max = ω * A = 6.32 rad/s * 0.1 m ≈ 0.632 m/s\n\nRounding 0.632 m/s to the nearest answer choice gives 0.8 m/s, which corresponds to option C."
+}

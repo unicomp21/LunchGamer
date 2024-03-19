@@ -1,0 +1,11 @@
+{
+  "question": "In a series circuit with three resistors, R1 = 10 Ω, R2 = 20 Ω, and R3 = 30 Ω, what is the equivalent resistance of the circuit?",
+  "choices": {
+    "A": "10 Ω",
+    "B": "20 Ω",
+    "C": "30 Ω",
+    "D": "60 Ω"
+  },
+  "answer": "D",
+  "solution": "In a series circuit, the equivalent resistance is equal to the sum of the individual resistances. Therefore, Req = R1 + R2 + R3 = 10 Ω + 20 Ω + 30 Ω = 60 Ω."
+}

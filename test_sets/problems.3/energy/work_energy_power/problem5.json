@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg object is lifted vertically 5 meters from the ground at a constant velocity. How much work is done by the force lifting the object? (Assume g = 10 m/s^2)",
+  "choices": {
+    "A": "10 J",
+    "B": "20 J",
+    "C": "50 J",
+    "D": "100 J"
+  },
+  "answer": "D",
+  "solution": "The work done by a force is given by the formula W = F · d, where F is the force and d is the displacement. In this case, the force is the weight of the object, which is equal to its mass times the acceleration due to gravity: F = mg = (2 kg)(10 m/s^2) = 20 N. The displacement is the vertical distance the object is lifted: d = 5 m. Therefore, the work done is W = F · d = (20 N)(5 m) = 100 J."
+}

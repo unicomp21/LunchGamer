@@ -1,0 +1,11 @@
+{
+  "question": "A uniform rod of length 2.0 m and mass 5.0 kg is pivoted about a point 0.5 m from its center. If a force of 10 N is applied perpendicularly to the rod at a point 1.5 m from the pivot, what is the magnitude of the angular acceleration of the rod?",
+  "choices": {
+    "A": "0.5 rad/s^2",
+    "B": "1.0 rad/s^2",
+    "C": "2.0 rad/s^2",
+    "D": "4.0 rad/s^2"
+  },
+  "answer": "C",
+  "solution": "The torque τ is given by τ = r × F, where r is the distance from the pivot to the point of force application and F is the applied force. The moment of inertia I of a uniform rod about a point a distance d from its center is I = (1/12)ML^2 + Md^2, where M is the mass and L is the length of the rod. Using the rotational form of Newton's second law, τ = Iα, we can find the angular acceleration α.\n\nτ = (1.5 m) × (10 N) = 15 N⋅m\nI = (1/12)(5.0 kg)(2.0 m)^2 + (5.0 kg)(0.5 m)^2 = 1.67 kg⋅m^2 + 1.25 kg⋅m^2 = 2.92 kg⋅m^2\nα = τ / I = (15 N⋅m) / (2.92 kg⋅m^2) ≈ 2.0 rad/s^2\n\nTherefore, the magnitude of the angular acceleration is 2.0 rad/s^2."
+}

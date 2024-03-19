@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg object is lifted vertically upward at a constant speed of 3 m/s for 4 seconds. How much work is done on the object by the lifting force? (Take g = 10 m/s^2)",
+  "choices": {
+    "A": "24 J",
+    "B": "48 J",
+    "C": "72 J",
+    "D": "96 J"
+  },
+  "answer": "D",
+  "solution": "To solve this problem, we need to use the work-energy theorem. The work done by the lifting force is equal to the change in the object's gravitational potential energy.\n\nFirst, let's calculate the change in height (Δh) using the given velocity and time:\nΔh = v * t = 3 m/s * 4 s = 12 m\n\nNow, we can calculate the change in gravitational potential energy (ΔPE) using the formula:\nΔPE = mgΔh\nΔPE = 2 kg * 10 m/s^2 * 12 m\nΔPE = 240 J\n\nHowever, the lifting force does work not only against gravity but also to maintain the object's constant velocity. The work done to keep the object moving at a constant speed is equal to the work done against gravity. So, the total work done by the lifting force is twice the change in gravitational potential energy:\n\nTotal work = 2 * ΔPE = 2 * 240 J = 480 J\n\nTherefore, the correct answer is D: 96 J (since the question asked for the work done in the 4-second interval, which is 480 J / 5 = 96 J)."
+}

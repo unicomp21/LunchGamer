@@ -1,0 +1,11 @@
+{
+  "question": "A satellite orbits Earth in a circular orbit. If the radius of the orbit is tripled, how does the orbital period change?",
+  "choices": {
+    "A": "The period is multiplied by √3",
+    "B": "The period is multiplied by 3",
+    "C": "The period is multiplied by √9",
+    "D": "The period is multiplied by 9"
+  },
+  "answer": "C",
+  "solution": "According to Kepler's third law, the square of the orbital period T is proportional to the cube of the semi-major axis a (which for a circular orbit is the same as the radius r). Mathematically, T^2 = k * a^3, where k is a constant. If the radius is tripled, then the new radius r_new = 3r. Substituting this into the equation: T_new^2 = k * (3r)^3 = 27 * k * r^3 = 9 * T^2. Taking the square root of both sides, we get T_new = 3T = √9 * T. Therefore, the orbital period is multiplied by √9 = 3 when the radius is tripled."
+}

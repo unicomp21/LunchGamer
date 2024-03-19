@@ -1,0 +1,11 @@
+{
+  "question": "A stationary observer hears a siren from an ambulance approaching at a constant velocity. Compared to the actual frequency of the siren, the frequency heard by the observer is:",
+  "choices": {
+    "A": "lower",
+    "B": "higher",
+    "C": "the same",
+    "D": "impossible to determine"
+  },
+  "answer": "B",
+  "solution": "The Doppler effect states that when a source of sound waves is moving relative to an observer, the frequency of the sound waves heard by the observer is different from the actual frequency of the source. If the source is moving towards the observer, the observed frequency is higher than the actual frequency. This is because the sound waves are compressed in front of the moving source, resulting in a shorter wavelength and higher frequency. Therefore, when the ambulance is approaching the stationary observer at a constant velocity, the frequency of the siren heard by the observer will be higher than the actual frequency of the siren."
+}

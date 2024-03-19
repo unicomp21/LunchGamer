@@ -1,0 +1,11 @@
+{
+  "question": "A satellite orbits the Earth in a circular orbit. If the radius of the orbit is tripled, how does the orbital period change?",
+  "choices": {
+    "A": "The period is reduced by a factor of 3",
+    "B": "The period is reduced by a factor of √3",
+    "C": "The period increases by a factor of 3",
+    "D": "The period increases by a factor of √27"
+  },
+  "answer": "D",
+  "solution": "The orbital period T of a satellite in a circular orbit is given by the formula T = 2π√(r³/GM), where r is the orbital radius, G is the gravitational constant, and M is the mass of the Earth. If the radius is tripled (r → 3r), then the new period T' is:\n\nT' = 2π√((3r)³/GM)\n   = 2π√(27r³/GM)\n   = 2π√27√(r³/GM)\n   = √27 · 2π√(r³/GM)\n   = √27 · T\n\nTherefore, if the orbital radius is tripled, the orbital period increases by a factor of √27."
+}

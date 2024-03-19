@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg ball moving at 5 m/s collides head-on with a stationary 3 kg ball. After the collision, the 2 kg ball moves in the opposite direction at 2 m/s. What is the velocity of the 3 kg ball after the collision?",
+  "choices": {
+    "A": "1 m/s",
+    "B": "2 m/s",
+    "C": "3 m/s",
+    "D": "4 m/s"
+  },
+  "answer": "C",
+  "solution": "Using the law of conservation of linear momentum, the total momentum before and after the collision must be equal. Before the collision, only the 2 kg ball has momentum: p_i = m_1 * v_1 = 2 kg * 5 m/s = 10 kg·m/s. After the collision, both balls have momentum in opposite directions: p_f = m_1 * v_1' + m_2 * v_2', where v_1' = -2 m/s and v_2' is the velocity of the 3 kg ball we are solving for. Setting the initial and final momenta equal: 10 kg·m/s = 2 kg * (-2 m/s) + 3 kg * v_2'. Solving for v_2', we get: v_2' = (10 kg·m/s + 2 kg * 2 m/s) / 3 kg = 14 kg·m/s / 3 kg ≈ 3 m/s (rounded to the nearest whole number). Therefore, the velocity of the 3 kg ball after the collision is 3 m/s."
+}

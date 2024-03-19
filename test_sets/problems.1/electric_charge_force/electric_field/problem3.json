@@ -1,0 +1,11 @@
+{
+  "question": "Two identical positive point charges, each with a charge of +Q, are placed a distance r apart. If the magnitude of the electrostatic force between the charges is F, what would be the magnitude of the force if the distance between the charges is doubled?",
+  "choices": {
+    "A": "F/4",
+    "B": "F/2",
+    "C": "F",
+    "D": "2F"
+  },
+  "answer": "A",
+  "solution": "The magnitude of the electrostatic force between two point charges is given by Coulomb's law: F = kQ1Q2 / r^2, where k is Coulomb's constant, Q1 and Q2 are the charges, and r is the distance between them. In this case, both charges are +Q, so the force equation becomes F = kQ^2 / r^2. If the distance r is doubled, the new force magnitude will be F_new = kQ^2 / (2r)^2 = kQ^2 / 4r^2 = (1/4) * (kQ^2 / r^2) = F/4. Therefore, if the distance between the charges is doubled, the magnitude of the electrostatic force will be reduced to one-fourth of its original value."
+}

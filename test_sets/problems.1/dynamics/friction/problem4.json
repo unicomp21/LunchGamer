@@ -1,0 +1,11 @@
+{
+  "question": "A 5 kg block is pushed horizontally across a rough surface with a constant speed of 2 m/s by a force of 20 N applied at an angle of 30° above the horizontal. What is the coefficient of kinetic friction between the block and the surface?",
+  "choices": {
+    "A": "0.2",
+    "B": "0.4",
+    "C": "0.6",
+    "D": "0.8"
+  },
+  "answer": "B",
+  "solution": "The block is moving at a constant speed, so the net force is zero. The normal force is equal to the weight of the block (N = mg = 5 kg × 9.8 m/s² ≈ 49 N). The horizontal component of the applied force is F_x = 20 N × cos(30°) ≈ 17.3 N. The friction force must balance this horizontal force for the net force to be zero. Thus, f = F_x ≈ 17.3 N. The coefficient of kinetic friction μ_k can be found using the formula f = μ_k × N. Substituting the values, we get: 17.3 N ≈ μ_k × 49 N. Solving for μ_k, we find μ_k ≈ 0.35, which rounds to 0.4 (choice B)."
+}

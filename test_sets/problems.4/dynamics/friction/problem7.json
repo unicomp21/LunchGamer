@@ -1,0 +1,11 @@
+{
+  "question": "A 5 kg block is pushed horizontally across a rough surface with a force of 20 N. If the coefficient of kinetic friction between the block and the surface is 0.3, what is the acceleration of the block? (Take g = 10 m/s^2)",
+  "choices": {
+    "A": "1 m/s^2",
+    "B": "2.5 m/s^2",
+    "C": "3 m/s^2",
+    "D": "4 m/s^2"
+  },
+  "answer": "A",
+  "solution": "The net force on the block is the applied force minus the friction force. The normal force on the block is N = mg = 5 kg * 10 m/s^2 = 50 N. The friction force is F_f = μ_k * N = 0.3 * 50 N = 15 N. The net force is F_net = 20 N - 15 N = 5 N. Using Newton's Second Law, F_net = ma, we can find the acceleration: a = F_net / m = 5 N / 5 kg = 1 m/s^2."
+}

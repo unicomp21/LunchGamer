@@ -1,0 +1,11 @@
+{
+  "question": "Three resistors with resistances of 2 Ω, 4 Ω, and 6 Ω are connected in series to a 12 V battery. What is the total current flowing through the circuit?",
+  "choices": {
+    "A": "1 A",
+    "B": "2 A",
+    "C": "3 A",
+    "D": "4 A"
+  },
+  "answer": "A",
+  "solution": "In a series circuit, the total resistance is the sum of individual resistances. Therefore, the total resistance is: R_total = 2 Ω + 4 Ω + 6 Ω = 12 Ω. According to Ohm's law, the current (I) is equal to the voltage (V) divided by the resistance (R). In this case, I = V / R_total = 12 V / 12 Ω = 1 A."
+}

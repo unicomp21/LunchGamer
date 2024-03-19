@@ -1,0 +1,11 @@
+{
+  "question": "A stationary observer hears a car's horn as the car approaches and passes them at a constant velocity. Compared to the horn's frequency as heard by the car's driver, the frequency heard by the observer is:",
+  "choices": {
+    "A": "lower as the car approaches and higher as it passes",
+    "B": "higher as the car approaches and lower as it passes",
+    "C": "higher as the car approaches and remains higher as it passes",
+    "D": "lower as the car approaches and remains lower as it passes"
+  },
+  "answer": "B",
+  "solution": "The Doppler effect causes the observed frequency of a sound wave to change when there is relative motion between the source and the observer. As the car approaches the stationary observer, the observer encounters more sound wave fronts per unit time, resulting in a higher perceived frequency. After the car passes the observer, the observer encounters fewer sound wave fronts per unit time, resulting in a lower perceived frequency. The car's driver, being in the same reference frame as the horn, always hears the horn at its original frequency."
+}

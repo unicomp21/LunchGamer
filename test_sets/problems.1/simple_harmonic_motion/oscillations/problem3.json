@@ -1,0 +1,11 @@
+{
+  "question": "A mass oscillates on a spring with a period of 2 seconds. If the maximum displacement of the mass from its equilibrium position is 0.1 meters, what is the maximum speed of the mass?",
+  "choices": {
+    "A": "0.1π m/s",
+    "B": "0.2π m/s",
+    "C": "0.3π m/s",
+    "D": "0.4π m/s"
+  },
+  "answer": "B",
+  "solution": "For simple harmonic motion, the maximum speed occurs at the equilibrium position and can be calculated using v_max = 2π * A / T, where A is the maximum displacement (amplitude) and T is the period. Given A = 0.1 m and T = 2 s, we have: v_max = 2π * 0.1 m / 2 s = 0.2π m/s. Therefore, the correct answer is B."
+}

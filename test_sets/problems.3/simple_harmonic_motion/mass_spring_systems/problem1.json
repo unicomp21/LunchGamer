@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg mass is attached to a spring with a spring constant of 50 N/m. If the mass is displaced 0.1 m from its equilibrium position and released, what is the maximum velocity of the mass?",
+  "choices": {
+    "A": "0.5 m/s",
+    "B": "1.0 m/s",
+    "C": "1.5 m/s",
+    "D": "2.0 m/s"
+  },
+  "answer": "B",
+  "solution": "The maximum velocity occurs at the equilibrium position where all the potential energy has been converted to kinetic energy. Using the conservation of energy equation, \\(\\frac{1}{2}kx^2 = \\frac{1}{2}mv^2\\), where \\(k\\) is the spring constant, \\(x\\) is the displacement, \\(m\\) is the mass, and \\(v\\) is the velocity. Solving for \\(v\\), we get: \\(v = \\sqrt{\\frac{kx^2}{m}} = \\sqrt{\\frac{(50\\ \\mathrm{N/m})(0.1\\ \\mathrm{m})^2}{2\\ \\mathrm{kg}}} = 1.0\\ \\mathrm{m/s}\\)."
+}

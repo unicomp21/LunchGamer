@@ -1,0 +1,11 @@
+{
+  "question": "A ball is thrown straight up with an initial velocity of 20 m/s. Assuming negligible air resistance, how long does it take for the ball to reach its maximum height? (Take the acceleration due to gravity as -9.8 m/s^2)",
+  "choices": {
+    "A": "1.02 s",
+    "B": "2.04 s",
+    "C": "4.08 s",
+    "D": "40.8 s"
+  },
+  "answer": "B",
+  "solution": "To find the time taken to reach the maximum height, we can use the formula v_f = v_i + at, where v_f is the final velocity (0 m/s at the maximum height), v_i is the initial velocity (20 m/s), a is the acceleration (-9.8 m/s^2), and t is the time. Rearranging the formula, we get: t = (v_f - v_i) / a = (0 - 20) / (-9.8) ≈ 2.04 s. Therefore, the ball takes approximately 2.04 seconds to reach its maximum height."
+}

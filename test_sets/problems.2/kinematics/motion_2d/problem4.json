@@ -1,0 +1,11 @@
+{
+  "question": "A ball is kicked horizontally off a 40 m tall cliff with an initial velocity of 20 m/s. Assuming negligible air resistance, approximately how far from the base of the cliff does the ball land? (Take g = 10 m/s^2)",
+  "choices": {
+    "A": "40 m",
+    "B": "57 m",
+    "C": "80 m",
+    "D": "113 m"
+  },
+  "answer": "B",
+  "solution": "This problem involves 2D kinematics. The horizontal and vertical motions can be analyzed independently. In the horizontal direction, the ball travels with constant velocity (20 m/s). In the vertical direction, it accelerates downward at 10 m/s^2 due to gravity.\n\nFirst, find the time the ball is in the air using the vertical motion equation: y = y0 + v0y*t + 0.5*a*t^2. Setting y = -40 m (ground level), y0 = 0, v0y = 0, and a = -10 m/s^2, we get: -40 = -5*t^2. Solving for t gives t ≈ 2.83 s.\n\nNow use the horizontal motion equation: x = x0 + v0x*t, with x0 = 0, v0x = 20 m/s, and t = 2.83 s. This yields: x = 20*2.83 ≈ 57 m.\n\nTherefore, the ball lands approximately 57 m from the base of the cliff."
+}

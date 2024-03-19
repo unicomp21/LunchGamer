@@ -1,0 +1,11 @@
+{
+  "question": "A 0.5 kg object is attached to a string and revolves in a horizontal circle with a radius of 1.5 m. If the object has a constant speed of 4 m/s, what is the tension in the string?",
+  "choices": {
+    "A": "2.13 N",
+    "B": "5.33 N",
+    "C": "8.00 N",
+    "D": "10.67 N"
+  },
+  "answer": "B",
+  "solution": "In uniform circular motion, the centripetal force is provided by the tension in the string. The formula for centripetal force is F = mv^2/r, where m is the mass of the object (0.5 kg), v is the speed (4 m/s), and r is the radius of the circle (1.5 m). Plugging in the values, we get:\n\nF = (0.5 kg)(4 m/s)^2 / (1.5 m)\nF = (0.5 kg)(16 m^2/s^2) / (1.5 m)\nF = 8 kg⋅m/s^2 / 1.5 m\nF = 5.33 N\n\nTherefore, the tension in the string is 5.33 N."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A ball is kicked horizontally off a cliff with an initial velocity of 20 m/s. The cliff is 80 m above the ground. Neglecting air resistance, how far from the base of the cliff will the ball land? (Take the acceleration due to gravity as 10 m/s^2)",
+  "choices": {
+    "A": "40 m",
+    "B": "60 m",
+    "C": "80 m",
+    "D": "100 m"
+  },
+  "answer": "C",
+  "solution": "The horizontal and vertical motions can be analyzed independently. In the horizontal direction, the ball has a constant velocity of 20 m/s. The time the ball is in the air can be found using the vertical motion equation: y = y0 + v0y * t + 0.5 * ay * t^2, where y0 = 80 m, v0y = 0 m/s, and ay = -10 m/s^2. Setting y = 0 (ground level) and solving for t gives: t = sqrt(2 * 80 m / 10 m/s^2) = 4 s. The horizontal distance traveled is then: x = v0x * t = 20 m/s * 4 s = 80 m. Therefore, the ball will land 80 m from the base of the cliff."
+}

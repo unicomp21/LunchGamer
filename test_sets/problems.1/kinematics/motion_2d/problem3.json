@@ -1,0 +1,11 @@
+{
+  "question": "A ball is kicked horizontally off a cliff with an initial velocity of 20 m/s. Neglecting air resistance, what is the ball's vertical velocity 2 seconds after being kicked? (Take the downward direction as positive and g = 9.8 m/s^2)",
+  "choices": {
+    "A": "9.8 m/s",
+    "B": "19.6 m/s",
+    "C": "24.4 m/s",
+    "D": "39.2 m/s"
+  },
+  "answer": "B",
+  "solution": "In projectile motion, the horizontal and vertical components of velocity are independent of each other. The vertical velocity is only affected by gravity. Using the equation v = v0 + at, where v0 is the initial vertical velocity (0 m/s), a is the acceleration due to gravity (9.8 m/s^2), and t is the time (2 s), we can calculate the vertical velocity: v = 0 + 9.8 m/s^2 × 2 s = 19.6 m/s. The horizontal velocity remains constant at 20 m/s."
+}

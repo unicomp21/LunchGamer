@@ -1,0 +1,11 @@
+{
+  "question": "A pendulum with a length of 1.0 meter is oscillating with a period of 2.0 seconds. What is the approximate acceleration due to gravity at the pendulum's location?",
+  "choices": {
+    "A": "2.5 m/s^2",
+    "B": "5.0 m/s^2",
+    "C": "10 m/s^2",
+    "D": "20 m/s^2"
+  },
+  "answer": "C",
+  "solution": "For a simple pendulum, the period (T) is related to the length (L) and the acceleration due to gravity (g) by the equation: T = 2π√(L/g). Rearranging the equation to solve for g, we get: g = 4π^2 * L / T^2. Substituting the given values (L = 1.0 m, T = 2.0 s), we find: g = 4π^2 * 1.0 m / (2.0 s)^2 ≈ 9.9 m/s^2, which rounds to 10 m/s^2. Therefore, the correct answer is C."
+}

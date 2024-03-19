@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg block is sliding down a 30° incline with a coefficient of kinetic friction of 0.2 between the block and the incline. What is the acceleration of the block? (Take g = 10 m/s^2)",
+  "choices": {
+    "A": "2.7 m/s^2",
+    "B": "3.4 m/s^2",
+    "C": "4.1 m/s^2",
+    "D": "4.9 m/s^2"
+  },
+  "answer": "C",
+  "solution": "The free-body diagram shows the normal force N, friction force f, and the component of the weight parallel to the incline mg sin θ. Applying Newton's second law: ΣF = ma, we have mg sin θ - f = ma. The normal force is N = mg cos θ, and the friction force is f = μ_k N, where μ_k is the coefficient of kinetic friction. Substituting these into the equation: mg sin θ - μ_k mg cos θ = ma. Solving for a: a = g(sin θ - μ_k cos θ) = 10(sin 30° - 0.2 cos 30°) ≈ 4.1 m/s^2."
+}

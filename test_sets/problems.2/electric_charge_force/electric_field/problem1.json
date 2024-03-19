@@ -1,0 +1,11 @@
+{
+  "question": "Two positive point charges, each with a charge of +Q, are placed a distance d apart. What is the magnitude of the electric field at the midpoint between the two charges?",
+  "choices": {
+    "A": "0",
+    "B": "kQ / (2d^2)",
+    "C": "kQ / d^2",
+    "D": "2kQ / d^2"
+  },
+  "answer": "A",
+  "solution": "By Coulomb's Law, the electric field due to each charge at the midpoint is given by E = kQ / (d/2)^2, where k is Coulomb's constant. The two charges exert equal and opposite forces on a test charge placed at the midpoint. Therefore, the electric fields due to each charge cancel out at the midpoint, resulting in a net electric field of zero."
+}

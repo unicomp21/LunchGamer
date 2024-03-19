@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg object is dropped from a height of 5 meters. Neglecting air resistance, what is the speed of the object just before it hits the ground? (Take g = 10 m/s^2)",
+  "choices": {
+    "A": "5 m/s",
+    "B": "10 m/s",
+    "C": "20 m/s",
+    "D": "25 m/s"
+  },
+  "answer": "B",
+  "solution": "By the conservation of energy, the initial potential energy of the object is converted completely into kinetic energy just before hitting the ground (assuming negligible air resistance). Initial potential energy, PE = mgh = 2 kg × 10 m/s^2 × 5 m = 100 J. Final kinetic energy, KE = (1/2)mv^2 = 100 J. Solving for v, we get: v = sqrt(2KE/m) = sqrt(2 × 100 J / 2 kg) = sqrt(100 m^2/s^2) = 10 m/s. Therefore, the speed of the object just before hitting the ground is 10 m/s."
+}

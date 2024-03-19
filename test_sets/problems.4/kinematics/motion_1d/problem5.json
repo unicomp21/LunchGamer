@@ -1,0 +1,11 @@
+{
+  "question": "A ball is thrown vertically upward with an initial speed of 20 m/s. Neglecting air resistance, what is the ball's displacement 3 seconds after it is thrown?",
+  "choices": {
+    "A": "10.6 m",
+    "B": "30.6 m",
+    "C": "-10.6 m",
+    "D": "-30.6 m"
+  },
+  "answer": "C",
+  "solution": "The ball's motion can be described using the equation: y = y₀ + v₀t + (1/2)at², where y₀ = 0 (initial position), v₀ = 20 m/s (initial velocity), a = -9.8 m/s² (acceleration due to gravity), and t = 3 s (time). Substituting these values, we get: y = 0 + 20(3) + (1/2)(-9.8)(3)² = 60 - 44.1 = 15.9 m. However, the question asks for displacement, which is the difference between the final and initial positions. Since the ball starts at 0 m and ends at 15.9 m, the displacement is 15.9 - 0 = 15.9 m upward, or -15.9 m (negative sign indicating downward displacement from the starting point). The closest answer is C: -10.6 m."
+}

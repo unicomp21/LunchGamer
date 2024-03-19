@@ -1,0 +1,11 @@
+{
+  "question": "A solid disk of mass 5 kg and radius 0.5 m rotates about a fixed axis through its center. If the disk has an angular velocity of 4 rad/s, what is its angular momentum?",
+  "choices": {
+    "A": "1.25 kg⋅m^2/s",
+    "B": "2.5 kg⋅m^2/s",
+    "C": "5 kg⋅m^2/s",
+    "D": "10 kg⋅m^2/s"
+  },
+  "answer": "B",
+  "solution": "The angular momentum (L) of a rotating object is given by the formula L = I × ω, where I is the moment of inertia and ω is the angular velocity. For a solid disk rotating about its center, the moment of inertia is given by I = (1/2) × m × r^2, where m is the mass and r is the radius. Substituting the given values, we get:\n\nI = (1/2) × 5 kg × (0.5 m)^2 = 0.625 kg⋅m^2\n\nNow, using the angular momentum formula:\nL = 0.625 kg⋅m^2 × 4 rad/s = 2.5 kg⋅m^2/s\n\nTherefore, the correct answer is B: 2.5 kg⋅m^2/s."
+}

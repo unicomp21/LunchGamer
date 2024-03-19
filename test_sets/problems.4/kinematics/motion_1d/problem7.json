@@ -1,0 +1,11 @@
+{
+  "question": "A ball is thrown vertically upward with an initial velocity of 20 m/s. Assuming negligible air resistance, what is the ball's velocity 3 seconds after it is thrown?",
+  "choices": {
+    "A": "29.4 m/s upward",
+    "B": "20 m/s upward",
+    "C": "9.4 m/s upward",
+    "D": "9.4 m/s downward"
+  },
+  "answer": "D",
+  "solution": "The velocity of the ball can be found using the formula v = v_0 + at, where v_0 is the initial velocity (20 m/s upward), a is the acceleration due to gravity (-9.8 m/s^2), and t is the time elapsed (3 s). Substituting these values, we get v = 20 m/s + (-9.8 m/s^2)(3 s) = -9.4 m/s. The negative sign indicates that the ball is moving downward after 3 seconds."
+}

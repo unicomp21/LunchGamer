@@ -1,0 +1,11 @@
+{
+  "question": "A resistor is connected to a battery with a potential difference of 12 V. If the current flowing through the resistor is 3 A, what is the resistance of the resistor?",
+  "choices": {
+    "A": "1 Ω",
+    "B": "2 Ω",
+    "C": "4 Ω",
+    "D": "6 Ω"
+  },
+  "answer": "C",
+  "solution": "According to Ohm's law, the resistance (R) is equal to the voltage (V) divided by the current (I). In this case, V = 12 V and I = 3 A. Therefore, R = V / I = 12 V / 3 A = 4 Ω."
+}

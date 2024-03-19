@@ -1,0 +1,11 @@
+{
+  "question": "A pendulum with a length of 1.0 m and a bob mass of 0.5 kg is displaced 10° from its equilibrium position and released. What is the maximum speed of the bob?",
+  "choices": {
+    "A": "0.09 m/s",
+    "B": "0.17 m/s",
+    "C": "0.24 m/s",
+    "D": "0.31 m/s"
+  },
+  "answer": "B",
+  "solution": "The maximum speed of a pendulum bob occurs at the equilibrium position. It can be calculated using the formula v_max = √(2gh), where g is the acceleration due to gravity (9.8 m/s^2) and h is the maximum height of the bob relative to its equilibrium position. The maximum height can be found using the formula h = L(1 - cos θ), where L is the length of the pendulum (1.0 m) and θ is the initial angular displacement (10°, or 0.175 rad). First, calculate the maximum height: h = 1.0 m × (1 - cos 0.175) ≈ 0.015 m. Then, calculate the maximum speed: v_max = √(2 × 9.8 m/s^2 × 0.015 m) ≈ 0.17 m/s. Therefore, the correct answer is B."
+}

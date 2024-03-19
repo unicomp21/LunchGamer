@@ -1,0 +1,11 @@
+{
+  "question": "A uniform rod of mass 2 kg and length 4 m is pivoted at one end. What torque is required to hold the rod horizontally?",
+  "choices": {
+    "A": "20 N⋅m",
+    "B": "40 N⋅m",
+    "C": "60 N⋅m",
+    "D": "80 N⋅m"
+  },
+  "answer": "B",
+  "solution": "The torque required to hold the rod horizontally can be found using the formula τ = r × F, where r is the distance from the pivot to the center of mass and F is the force of gravity acting on the rod. The center of mass is located at the midpoint of the rod, so r = 2 m. The force of gravity is F = mg, where m is the mass (2 kg) and g is the acceleration due to gravity (approximately 10 m/s^2). Thus, F = 2 kg × 10 m/s^2 = 20 N. The torque is then calculated as τ = r × F = 2 m × 20 N = 40 N⋅m."
+}

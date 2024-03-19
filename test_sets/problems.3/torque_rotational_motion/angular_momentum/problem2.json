@@ -1,0 +1,11 @@
+{
+  "question": "A uniform solid cylinder of mass M and radius R rolls without slipping down an inclined plane. What is the ratio of its rotational kinetic energy to its translational kinetic energy?",
+  "choices": {
+    "A": "1/3",
+    "B": "1/2",
+    "C": "2/3",
+    "D": "3/4"
+  },
+  "answer": "B",
+  "solution": "For a solid cylinder rolling without slipping, the total kinetic energy is the sum of translational and rotational kinetic energies. The translational kinetic energy is given by KE_trans = (1/2) * M * v^2, where v is the center of mass velocity. The rotational kinetic energy is given by KE_rot = (1/2) * I * ω^2, where I is the moment of inertia and ω is the angular velocity. For a solid cylinder, I = (1/2) * M * R^2. Since the cylinder is rolling without slipping, v = R * ω. Substituting this into the translational kinetic energy equation, we get KE_trans = (1/2) * M * (R * ω)^2 = (1/2) * M * R^2 * ω^2. The ratio of rotational to translational kinetic energy is then: KE_rot / KE_trans = [(1/2) * M * R^2 * ω^2] / [(1/2) * M * R^2 * ω^2] = 1/2. Therefore, the correct answer is B."
+}

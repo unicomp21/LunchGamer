@@ -1,0 +1,11 @@
+{
+  "question": "Two resistors, R1 = 10 Ω and R2 = 20 Ω, are connected in parallel to a 12 V battery. What is the total current flowing from the battery?",
+  "choices": {
+    "A": "0.4 A",
+    "B": "1.2 A",
+    "C": "2.0 A",
+    "D": "3.0 A"
+  },
+  "answer": "C",
+  "solution": "In a parallel circuit, the voltage across each resistor is the same as the voltage of the battery. The current through each resistor can be found using Ohm's law: I = V / R. For R1, I1 = 12 V / 10 Ω = 1.2 A. For R2, I2 = 12 V / 20 Ω = 0.6 A. The total current is the sum of the currents through each resistor: Itotal = I1 + I2 = 1.2 A + 0.6 A = 1.8 A, which rounds to 2.0 A."
+}

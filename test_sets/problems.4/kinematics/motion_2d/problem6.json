@@ -1,0 +1,11 @@
+{
+  "question": "A ball is thrown horizontally from the top of a 45 m tall building with an initial velocity of 20 m/s. Assuming negligible air resistance, what is the ball's total time of flight? (Take g = 9.8 m/s^2)",
+  "choices": {
+    "A": "2.0 s",
+    "B": "2.5 s",
+    "C": "3.0 s",
+    "D": "3.5 s"
+  },
+  "answer": "C",
+  "solution": "The ball's motion can be analyzed independently in the horizontal and vertical directions. Horizontally, the ball travels at a constant velocity of 20 m/s. Vertically, the ball starts with zero initial velocity and accelerates downward at 9.8 m/s^2 due to gravity. The time of flight can be found by solving for t in the equation: y = y0 + v0y*t + 0.5*a*t^2, where y is the final vertical position (ground level, so y = 0), y0 is the initial height (45 m), v0y is the initial vertical velocity (0 m/s), and a is the acceleration due to gravity (-9.8 m/s^2). Solving for t: 0 = 45 + 0*t - 4.9*t^2, which gives t ≈ 3.0 s. Therefore, the ball's total time of flight is 3.0 s."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A block of mass m is placed on a frictionless incline that makes an angle θ with the horizontal. Which free body diagram correctly represents the forces acting on the block?",
+  "choices": {
+    "A": "Normal force perpendicular to the incline, gravitational force pointing straight down",
+    "B": "Normal force perpendicular to the incline, gravitational force parallel to the incline",
+    "C": "Normal force pointing straight up, gravitational force pointing straight down",
+    "D": "Normal force pointing straight up, gravitational force parallel to the incline"
+  },
+  "answer": "A",
+  "solution": "The correct free body diagram should show the normal force acting perpendicular to the surface of the incline, as it always acts perpendicular to the surface. The gravitational force should be shown pointing straight down, as gravity always acts vertically downward. The component of the gravitational force parallel to the incline will cause the block to accelerate down the incline if no friction is present, but this component is not directly shown on the free body diagram."
+}

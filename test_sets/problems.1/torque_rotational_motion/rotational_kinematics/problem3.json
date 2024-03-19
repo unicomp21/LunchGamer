@@ -1,0 +1,11 @@
+{
+  "question": "A solid disk of radius 0.5 m rotates about a fixed axis through its center. If the disk starts from rest and undergoes a constant angular acceleration of 4 rad/s^2, what is its angular velocity after 3 seconds?",
+  "choices": {
+    "A": "3 rad/s",
+    "B": "6 rad/s",
+    "C": "9 rad/s",
+    "D": "12 rad/s"
+  },
+  "answer": "D",
+  "solution": "The angular velocity can be found using the rotational kinematics formula ω = ω_0 + αt, where ω_0 is the initial angular velocity (0 rad/s), α is the constant angular acceleration (4 rad/s^2), and t is the time interval (3 s). Substituting the values, we get: ω = 0 + 4 rad/s^2 × 3 s = 12 rad/s. Therefore, the angular velocity of the disk after 3 seconds is 12 rad/s."
+}

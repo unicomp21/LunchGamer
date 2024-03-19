@@ -1,0 +1,11 @@
+{
+  "question": "A box of mass 5 kg is pushed across a frictionless horizontal surface by a force of 20 N. What is the acceleration of the box?",
+  "choices": {
+    "A": "1 m/s^2",
+    "B": "2 m/s^2",
+    "C": "4 m/s^2",
+    "D": "5 m/s^2"
+  },
+  "answer": "C",
+  "solution": "Using Newton's Second Law, F = ma, we can calculate the acceleration. Given the force F = 20 N and the mass m = 5 kg, we solve for acceleration a:\n\na = F / m\na = 20 N / 5 kg\na = 4 m/s^2\n\nTherefore, the correct answer is C: the box accelerates at 4 m/s^2 under the 20 N force on the frictionless surface."
+}

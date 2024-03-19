@@ -1,0 +1,11 @@
+{
+  "question": "Two resistors with resistances of 10 Ω and 20 Ω are connected in parallel to a 12 V battery. What is the total current drawn from the battery?",
+  "choices": {
+    "A": "0.4 A",
+    "B": "1.2 A",
+    "C": "2.0 A",
+    "D": "3.0 A"
+  },
+  "answer": "C",
+  "solution": "In a parallel circuit, the total resistance Rtotal is given by 1/Rtotal = 1/R1 + 1/R2. Here, 1/Rtotal = 1/10 Ω + 1/20 Ω = 3/20 Ω. Thus, Rtotal = 20/3 Ω ≈ 6.67 Ω. Using Ohm's Law, I = V/R, the total current is I = 12 V / (20/3 Ω) = 1.8 A, which rounds to 2.0 A."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A uniform rod of length 2.0 m and mass 5.0 kg is pivoted at one end. A force of 10 N is applied perpendicular to the rod at a distance of 0.5 m from the pivot. What is the magnitude of the torque produced by this force about the pivot?",
+  "choices": {
+    "A": "2.5 N⋅m",
+    "B": "5.0 N⋅m",
+    "C": "10 N⋅m",
+    "D": "20 N⋅m"
+  },
+  "answer": "B",
+  "solution": "The magnitude of the torque is given by the formula τ = r × F, where r is the perpendicular distance from the pivot to the line of action of the force, and F is the magnitude of the force. In this case, r = 0.5 m and F = 10 N. Therefore, τ = 0.5 m × 10 N = 5.0 N⋅m. The direction of the torque vector is perpendicular to both r and F, but since the question only asks for the magnitude, the correct answer is B: 5.0 N⋅m."
+}

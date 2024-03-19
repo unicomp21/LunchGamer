@@ -1,0 +1,11 @@
+{
+  "question": "Three resistors with resistances of 2 Ω, 3 Ω, and 6 Ω are connected in parallel to a 12 V battery. What is the total current drawn from the battery?",
+  "choices": {
+    "A": "1 A",
+    "B": "2 A",
+    "C": "4 A",
+    "D": "11 A"
+  },
+  "answer": "D",
+  "solution": "In a parallel circuit, the total resistance is found using the formula 1/Rtotal = 1/R1 + 1/R2 + 1/R3. Plugging in the values, we get: 1/Rtotal = 1/2 + 1/3 + 1/6 = 6/6 + 4/6 + 2/6 = 12/6 = 2. Thus, Rtotal = 1/2 Ω. Using Ohm's law, I = V/R, the total current is I = 12 V / (1/2 Ω) = 12 V * 2 = 24 A. Therefore, the total current drawn from the battery is 11 A."
+}

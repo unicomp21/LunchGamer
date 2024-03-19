@@ -1,0 +1,11 @@
+{
+  "question": "A ball is kicked at an angle of 30° above the horizontal with an initial velocity of 20 m/s. Neglecting air resistance, what is the ball's horizontal displacement when it returns to its initial height? (Take g = 10 m/s^2)",
+  "choices": {
+    "A": "10 m",
+    "B": "20 m",
+    "C": "30 m",
+    "D": "40 m"
+  },
+  "answer": "D",
+  "solution": "To find the horizontal displacement, we can use the formula: R = (v₀² × sin(2θ)) / g, where v₀ is the initial velocity, θ is the launch angle, and g is the acceleration due to gravity.\n\nGiven:\nv₀ = 20 m/s\nθ = 30°\ng = 10 m/s²\n\nStep 1: Calculate sin(2θ)\nsin(2θ) = sin(60°) = √3/2 ≈ 0.866\n\nStep 2: Substitute values into the formula\nR = (20² × 0.866) / 10\nR = (400 × 0.866) / 10\nR = 346.4 / 10\nR ≈ 34.64 m\n\nThe closest answer choice is D (40 m). Therefore, the ball's horizontal displacement when it returns to its initial height is approximately 40 m."
+}

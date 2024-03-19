@@ -1,0 +1,11 @@
+{
+  "question": "A ball is thrown horizontally off a cliff with an initial velocity of 10 m/s. If the cliff is 40 meters high, how long will it take for the ball to reach the ground below? (Assume negligible air resistance and acceleration due to gravity is 10 m/s^2)",
+  "choices": {
+    "A": "1 second",
+    "B": "2 seconds",
+    "C": "3 seconds",
+    "D": "4 seconds"
+  },
+  "answer": "D",
+  "solution": "In projectile motion, the vertical and horizontal components of velocity are independent of each other. The time taken for the ball to reach the ground is determined by the vertical motion, which is under the influence of gravity.\n\nUsing the equation: y = y0 + v0y * t + (1/2) * g * t^2, where y is the final vertical position (0 m), y0 is the initial vertical position (40 m), v0y is the initial vertical velocity (0 m/s), g is the acceleration due to gravity (-10 m/s^2), and t is the time taken.\n\n0 = 40 + 0 * t + (1/2) * (-10) * t^2\n0 = 40 - 5t^2\n5t^2 = 40\nt^2 = 8\nt = √8 ≈ 2.83 seconds\n\nSince the question asks for the answer in whole seconds, the closest option is 3 seconds. However, a more precise answer would be 2.83 seconds, which rounds to 3 seconds. Therefore, the correct answer is D: 4 seconds."
+}

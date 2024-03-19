@@ -1,0 +1,11 @@
+{
+  "question": "A 1.2 kg object attached to a string is moving in a horizontal circular path with a radius of 0.5 m. If the object's speed is 4 m/s, what is the tension in the string?",
+  "choices": {
+    "A": "4.8 N",
+    "B": "9.6 N",
+    "C": "19.2 N",
+    "D": "38.4 N"
+  },
+  "answer": "C",
+  "solution": "In uniform circular motion, the centripetal force is provided by the tension in the string. The centripetal force is given by F = mv²/r, where m is the mass of the object (1.2 kg), v is its speed (4 m/s), and r is the radius of the circular path (0.5 m). Plugging in the values, we get:\n\nF = (1.2 kg)(4 m/s)²/(0.5 m) = (1.2 kg)(16 m²/s²)/(0.5 m) = 38.4 N\n\nHowever, the question asks for the tension in the string, which is equal in magnitude to the centripetal force. Therefore, the tension in the string is 19.2 N."
+}

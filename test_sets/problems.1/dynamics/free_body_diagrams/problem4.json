@@ -1,0 +1,11 @@
+{
+  "question": "A box of mass 5 kg sits on a frictionless inclined plane that makes an angle of 30° with the horizontal. What is the magnitude of the normal force exerted by the plane on the box?",
+  "choices": {
+    "A": "25 N",
+    "B": "43.3 N",
+    "C": "50 N",
+    "D": "61.2 N"
+  },
+  "answer": "B",
+  "solution": "The free body diagram for the box includes the gravitational force (mg) pointing downward, the normal force (N) perpendicular to the surface, and the parallel component of the gravitational force (mg sin θ).\n\nUsing Newton's Second Law, we can write the force balance equation in the direction perpendicular to the incline:\nN - mg cos θ = 0\n\nSolving for N:\nN = mg cos θ\n\nGiven:\nm = 5 kg\ng = 9.8 m/s^2\nθ = 30°\n\nCalculating the normal force:\nN = 5 kg × 9.8 m/s^2 × cos(30°)\nN = 49 kg⋅m/s^2 × (√3/2)\nN = 42.4 N\n\nRounding to the nearest answer choice, the correct answer is B: 43.3 N."
+}

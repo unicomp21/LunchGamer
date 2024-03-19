@@ -1,0 +1,11 @@
+{
+  "question": "Two capacitors with capacitances C1 = 4 μF and C2 = 6 μF are connected in series to a 12 V battery. What is the total charge stored in the capacitors?",
+  "choices": {
+    "A": "12 μC",
+    "B": "24 μC",
+    "C": "48 μC",
+    "D": "72 μC"
+  },
+  "answer": "B",
+  "solution": "When capacitors are connected in series, the total capacitance is given by 1/Ctotal = 1/C1 + 1/C2. Substituting the given values, we get 1/Ctotal = 1/(4 μF) + 1/(6 μF) = 5/(12 μF), so Ctotal = 12/5 μF = 2.4 μF. The total charge stored in the capacitors is given by Q = C * V, where C is the total capacitance and V is the applied voltage. Substituting the values, we get Q = 2.4 μF * 12 V = 28.8 μC. The closest answer choice is B, 24 μC."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A disc of radius 0.5 m rotates about a fixed axis through its center. If the disc starts from rest and uniformly accelerates to an angular velocity of 4π rad/s in 2 seconds, what is the angular acceleration of the disc?",
+  "choices": {
+    "A": "π rad/s^2",
+    "B": "2π rad/s^2",
+    "C": "4π rad/s^2",
+    "D": "8π rad/s^2"
+  },
+  "answer": "B",
+  "solution": "The angular acceleration can be found using the formula α = Δω / Δt, where Δω is the change in angular velocity (4π rad/s) and Δt is the time interval (2 s). Thus, α = 4π rad/s / 2 s = 2π rad/s^2."
+}

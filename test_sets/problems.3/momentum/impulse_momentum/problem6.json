@@ -1,0 +1,11 @@
+{
+  "question": "A 2.0 kg ball is initially at rest on a frictionless horizontal surface. A force of 10 N is applied to the ball for 0.5 seconds. What is the final velocity of the ball after the force is removed?",
+  "choices": {
+    "A": "1.0 m/s",
+    "B": "2.5 m/s",
+    "C": "5.0 m/s",
+    "D": "10 m/s"
+  },
+  "answer": "B",
+  "solution": "The impulse-momentum theorem states that the change in momentum of an object is equal to the impulse applied to it. Impulse is defined as the product of the force and the time interval over which it acts (J = FΔt). The change in momentum is equal to the mass times the change in velocity (Δp = mΔv). Setting these equal, we have: FΔt = mΔv. Solving for Δv, we get: Δv = (FΔt) / m. Plugging in the values: Δv = (10 N × 0.5 s) / 2.0 kg = 5.0 N⋅s / 2.0 kg = 2.5 m/s. Since the ball starts from rest (initial velocity is zero), the final velocity is equal to the change in velocity. Therefore, the final velocity of the ball is 2.5 m/s."
+}

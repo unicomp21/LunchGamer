@@ -1,0 +1,11 @@
+{
+  "question": "A traveling wave on a string has an amplitude of 2 cm and a wavelength of 30 cm. If the wave travels at a speed of 60 cm/s, what is the frequency of the wave?",
+  "choices": {
+    "A": "0.5 Hz",
+    "B": "1 Hz",
+    "C": "2 Hz",
+    "D": "4 Hz"
+  },
+  "answer": "C",
+  "solution": "The frequency of a wave can be calculated using the wave speed equation: v = λf, where v is the wave speed, λ is the wavelength, and f is the frequency. Rearranging the equation to solve for frequency, we get: f = v / λ. Plugging in the given values, we have: f = 60 cm/s / 30 cm = 2 Hz. Therefore, the correct answer is C: 2 Hz."
+}

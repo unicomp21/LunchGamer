@@ -1,0 +1,11 @@
+{
+  "question": "A ball is thrown horizontally from a cliff with an initial velocity of 20 m/s. Neglecting air resistance, what is the ball's velocity 2 seconds after it is thrown?",
+  "choices": {
+    "A": "20 m/s horizontally, 9.8 m/s vertically",
+    "B": "20 m/s horizontally, 19.6 m/s vertically",
+    "C": "24.3 m/s at an angle of 26.1° below the horizontal",
+    "D": "28.3 m/s at an angle of 45° below the horizontal"
+  },
+  "answer": "B",
+  "solution": "In projectile motion with no air resistance, horizontal velocity remains constant while vertical velocity changes due to gravity. After 2 seconds, the horizontal velocity is still 20 m/s. The vertical velocity can be found using v = gt, where g is -9.8 m/s^2 (negative for downward acceleration). Thus, the vertical velocity is (-9.8 m/s^2)(2 s) = -19.6 m/s. The negative sign indicates the ball is moving downward. Therefore, after 2 seconds, the ball's velocity is 20 m/s horizontally and 19.6 m/s vertically downward."
+}

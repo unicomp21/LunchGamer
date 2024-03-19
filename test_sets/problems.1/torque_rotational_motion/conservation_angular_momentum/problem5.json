@@ -1,0 +1,11 @@
+{
+  "question": "A uniform horizontal rod of mass M and length L is free to rotate about a vertical axis through its center. Two clay balls, each of mass m, are simultaneously attached to the ends of the rod, causing the angular speed of the system to decrease to 1/3 of its original value. What is the ratio m/M?",
+  "choices": {
+    "A": "1/2",
+    "B": "1",
+    "C": "2",
+    "D": "4"
+  },
+  "answer": "C",
+  "solution": "The initial angular momentum of the system is Li = (1/12)ML^2ωi, where ωi is the initial angular speed. After attaching the clay balls, the moment of inertia becomes I = (1/12)ML^2 + 2m(L/2)^2 = (1/12)ML^2 + (1/2)mL^2, and the angular speed is ωf = (1/3)ωi. By conservation of angular momentum, Liωi = Ifωf. Substituting the values and simplifying: (1/12)ML^2ωi = [(1/12)ML^2 + (1/2)mL^2](1/3)ωi. This reduces to M = 2m, or m/M = 1/2. Therefore, the correct answer is C: m/M = 2."
+}

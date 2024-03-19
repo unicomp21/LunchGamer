@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg block sits on a frictionless surface. A horizontal force of 10 N is applied to the block. What is the acceleration of the block?",
+  "choices": {
+    "A": "2 m/s^2",
+    "B": "5 m/s^2",
+    "C": "10 m/s^2",
+    "D": "20 m/s^2"
+  },
+  "answer": "B",
+  "solution": "Using Newton's Second Law, F = ma, we can solve for the acceleration. Given the mass m = 2 kg and the force F = 10 N, we have: 10 N = 2 kg * a. Solving for a, we get a = 10 N / 2 kg = 5 m/s^2. Therefore, the correct answer is B: the block accelerates at 5 m/s^2."
+}

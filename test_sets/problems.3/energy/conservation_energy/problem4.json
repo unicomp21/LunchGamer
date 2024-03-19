@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg block slides down a frictionless ramp from a height of 5 m. What is the block's speed when it reaches the bottom of the ramp?",
+  "choices": {
+    "A": "5 m/s",
+    "B": "7 m/s",
+    "C": "9.9 m/s",
+    "D": "12 m/s"
+  },
+  "answer": "C",
+  "solution": "By conservation of energy, the block's initial gravitational potential energy is converted to kinetic energy at the bottom of the ramp. PE = mgh = 2 kg * 9.8 m/s^2 * 5 m = 98 J. This equals the kinetic energy KE = 0.5mv^2 at the bottom. Solving: 98 J = 0.5 * 2 kg * v^2 --> v = sqrt(98/1) = 9.9 m/s."
+}

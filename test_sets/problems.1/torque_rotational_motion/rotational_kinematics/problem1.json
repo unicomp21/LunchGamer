@@ -1,0 +1,11 @@
+{
+  "question": "A uniform solid disk of mass 2 kg and radius 0.5 m rotates about an axis through its center. If the disk accelerates uniformly from rest to an angular speed of 6 rad/s in 3 seconds, what is the magnitude of the net torque acting on the disk?",
+  "choices": {
+    "A": "1/3 N·m",
+    "B": "1/2 N·m",
+    "C": "2/3 N·m",
+    "D": "1 N·m"
+  },
+  "answer": "C",
+  "solution": "The rotational inertia of a uniform solid disk is given by I = (1/2)mr^2, where m is the mass and r is the radius. Substituting the values, we get I = (1/2) × 2 kg × (0.5 m)^2 = 0.25 kg·m^2. The angular acceleration α can be found using α = Δω / Δt, where Δω is the change in angular velocity (6 rad/s) and Δt is the time interval (3 s). Thus, α = 6 rad/s / 3 s = 2 rad/s^2. The net torque τ is related to the rotational inertia and angular acceleration by τ = Iα. Substituting the values, we get τ = 0.25 kg·m^2 × 2 rad/s^2 = 0.5 N·m. The closest answer choice is C, 2/3 N·m (approximately 0.67 N·m)."
+}

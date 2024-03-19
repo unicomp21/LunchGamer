@@ -1,0 +1,11 @@
+{
+  "question": "A ball is dropped from the top of a 45-meter tall building. Approximately how long does it take for the ball to reach the ground? (Assume negligible air resistance and use g = 9.8 m/s^2)",
+  "choices": {
+    "A": "1.5 s",
+    "B": "2.1 s",
+    "C": "3.0 s",
+    "D": "4.6 s"
+  },
+  "answer": "C",
+  "solution": "Since the ball is dropped from rest, its initial velocity is 0 m/s. We can use the kinematic equation: y = y0 + v0*t + (1/2)*a*t^2, where y0 = 45 m (initial height), v0 = 0 m/s (initial velocity), a = -9.8 m/s^2 (acceleration due to gravity), and y = 0 m (final height at the ground). Solving for t when y = 0: 0 = 45 + 0 + (1/2)*(-9.8)*t^2. This simplifies to: t^2 = 2*45/9.8 ≈ 9.18. Taking the square root of both sides yields: t ≈ 3.0 s. Therefore, the correct answer is C."
+}

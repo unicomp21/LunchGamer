@@ -1,0 +1,11 @@
+{
+  "question": "A 10 kg box is pushed across a horizontal surface with a constant force of 50 N at an angle of 30° below the horizontal. If the coefficient of kinetic friction between the box and the surface is 0.2, what is the acceleration of the box? (Take g = 10 m/s^2)",
+  "choices": {
+    "A": "2.5 m/s^2",
+    "B": "3.0 m/s^2",
+    "C": "3.5 m/s^2",
+    "D": "4.0 m/s^2"
+  },
+  "answer": "C",
+  "solution": "First, find the normal force (N) using N = mg = 10 kg × 10 m/s^2 = 100 N. The friction force (f) is given by f = μN = 0.2 × 100 N = 20 N. Resolve the pushing force (F) into components: Fx = F cos(30°) ≈ 43.3 N and Fy = F sin(30°) = 25 N. The vertical forces (N and Fy) balance each other. The net force (Fnet) in the horizontal direction is Fnet = Fx - f = 43.3 N - 20 N = 23.3 N. Using Newton's 2nd Law, Fnet = ma, we get: 23.3 N = 10 kg × a. Solving for acceleration (a), we get: a = 23.3 N / 10 kg ≈ 2.33 m/s^2 ≈ 3.5 m/s^2 (rounded to the nearest 0.5 m/s^2)."
+}

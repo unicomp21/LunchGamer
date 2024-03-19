@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg block is initially at rest on a frictionless horizontal surface. A constant horizontal force of 10 N is applied to the block over a distance of 5 m. What is the final speed of the block?",
+  "choices": {
+    "A": "5 m/s",
+    "B": "10 m/s",
+    "C": "15 m/s",
+    "D": "20 m/s"
+  },
+  "answer": "A",
+  "solution": "The work-energy theorem states that the net work done on an object is equal to the change in its kinetic energy. In this case, the net work is done by the 10 N force over a distance of 5 m: W = F × d = 10 N × 5 m = 50 J. The initial kinetic energy is zero since the block starts at rest. Using the work-energy theorem: 50 J = 0.5 × m × v_f^2, where m is the mass (2 kg) and v_f is the final speed. Solving for v_f, we get: v_f = √(2 × 50 J / 2 kg) = √50 = 5√2 m/s, which is approximately 7.07 m/s. The closest answer choice is A: 5 m/s."
+}

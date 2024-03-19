@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg block is initially at rest on a frictionless horizontal surface. A horizontal force of 10 N is applied to the block for 3 seconds. What is the speed of the block after the force is removed?",
+  "choices": {
+    "A": "5 m/s",
+    "B": "10 m/s",
+    "C": "15 m/s",
+    "D": "20 m/s"
+  },
+  "answer": "C",
+  "solution": "Using Newton's second law, F = ma, we can find the acceleration of the block: a = F / m = 10 N / 2 kg = 5 m/s^2. Since the initial velocity is zero, we can use the equation v = at to find the final velocity, where t is the time the force is applied. Thus, v = 5 m/s^2 * 3 s = 15 m/s. After the force is removed, the block will continue to move at this constant velocity since there are no forces acting on it (frictionless surface)."
+}

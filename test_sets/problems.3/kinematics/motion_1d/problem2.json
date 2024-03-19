@@ -1,0 +1,11 @@
+{
+  "question": "A ball is dropped from rest from the top of a tall building. After falling for 3 seconds, what is the ball's velocity? (Assume negligible air resistance and use g = 9.8 m/s^2)",
+  "choices": {
+    "A": "9.8 m/s",
+    "B": "19.6 m/s",
+    "C": "29.4 m/s",
+    "D": "39.2 m/s"
+  },
+  "answer": "C",
+  "solution": "The ball is in freefall with an acceleration equal to g (9.8 m/s^2). We can find the velocity using the formula v = v0 + at, where v0 is the initial velocity (0 m/s), a is the acceleration (9.8 m/s^2), and t is the time (3 s). Plugging in the values, we get:\n\nv = 0 m/s + (9.8 m/s^2)(3 s)\nv = 29.4 m/s\n\nTherefore, after falling for 3 seconds, the ball's velocity is 29.4 m/s."
+}

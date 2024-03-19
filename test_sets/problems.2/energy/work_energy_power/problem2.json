@@ -1,0 +1,11 @@
+{
+  "question": "A 10 kg box is lifted vertically at a constant speed of 2 m/s for 5 seconds. How much power is required to lift the box? (Take g = 10 m/s^2)",
+  "choices": {
+    "A": "20 W",
+    "B": "100 W",
+    "C": "200 W",
+    "D": "500 W"
+  },
+  "answer": "C",
+  "solution": "The power required can be calculated using the formula P = F · v, where F is the force and v is the velocity. The force required to lift the box is equal to its weight, F = mg = 10 kg · 10 m/s^2 = 100 N. The velocity is given as 2 m/s. Thus, the power required is P = 100 N · 2 m/s = 200 W."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A block of mass 5 kg rests on a frictionless inclined plane that makes an angle of 30° with the horizontal. What is the magnitude of the normal force exerted by the plane on the block?",
+  "choices": {
+    "A": "24.5 N",
+    "B": "42.3 N",
+    "C": "49.0 N",
+    "D": "50.0 N"
+  },
+  "answer": "B",
+  "solution": "To find the normal force, we need to draw a free body diagram and use Newton's second law. The forces acting on the block are its weight (mg) and the normal force (N). Since the plane is frictionless and the block is at rest, the net force along the plane is zero. Resolving the weight vector into components perpendicular and parallel to the plane, we get:\n\nN = mg cos θ\n\nwhere m = 5 kg, g = 9.8 m/s^2, and θ = 30°.\n\nSubstituting the values:\n\nN = 5 kg × 9.8 m/s^2 × cos(30°)\nN = 49 kg·m/s^2 × (√3/2)\nN ≈ 42.3 N\n\nTherefore, the correct answer is B: 42.3 N."
+}

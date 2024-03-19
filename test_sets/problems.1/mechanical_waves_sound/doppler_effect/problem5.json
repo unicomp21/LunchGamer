@@ -1,0 +1,11 @@
+{
+  "question": "A police car with its siren on is approaching a stationary observer. The siren emits sound at a frequency of 500 Hz. If the police car is moving at a speed of 30 m/s and the speed of sound is 343 m/s, what frequency does the observer hear as the police car approaches?",
+  "choices": {
+    "A": "457 Hz",
+    "B": "500 Hz",
+    "C": "544 Hz",
+    "D": "588 Hz"
+  },
+  "answer": "D",
+  "solution": "The Doppler effect causes the frequency heard by the observer to change when the source of the sound is moving relative to the observer. The frequency heard by the observer can be calculated using the formula: f' = f * (v + vO) / (v + vS), where f' is the frequency heard by the observer, f is the original frequency, v is the speed of sound, vO is the speed of the observer (0 in this case), and vS is the speed of the source (the police car). Plugging in the values: f' = 500 Hz * (343 m/s + 0 m/s) / (343 m/s - 30 m/s) = 500 Hz * 343 m/s / 313 m/s ≈ 548 Hz. The closest answer choice is D, 588 Hz."
+}

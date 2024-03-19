@@ -1,0 +1,11 @@
+{
+  "question": "A stationary observer hears a siren from an ambulance approaching at a constant velocity. Compared to the siren's frequency as heard by the ambulance driver, the frequency heard by the observer is:",
+  "choices": {
+    "A": "lower",
+    "B": "the same",
+    "C": "higher",
+    "D": "varying between higher and lower"
+  },
+  "answer": "C",
+  "solution": "The Doppler effect states that when a source of sound waves is moving towards a stationary observer, the observed frequency is higher than the source frequency. This is because the sound waves are compressed in the direction of motion, resulting in a shorter wavelength and higher frequency. Let f_s be the source frequency, v be the speed of sound, v_s be the speed of the source, and f_o be the observed frequency. The Doppler effect formula is: f_o = f_s * (v / (v - v_s)). Since v_s is positive (source moving towards observer), the denominator (v - v_s) is smaller than v, resulting in f_o being greater than f_s. Thus, the observer hears a higher frequency compared to the ambulance driver."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "Two waves are traveling in the same medium. Wave A has a frequency of 400 Hz and a wavelength of 0.75 m, while Wave B has a frequency of 300 Hz. What is the wavelength of Wave B?",
+  "choices": {
+    "A": "0.25 m",
+    "B": "0.50 m",
+    "C": "0.75 m",
+    "D": "1.00 m"
+  },
+  "answer": "D",
+  "solution": "The wavelength of a wave can be calculated using the wave speed equation: v = fλ, where v is the wave speed, f is the frequency, and λ is the wavelength. The wave speed is a property of the medium and is the same for both waves. Using the values for Wave A, we can calculate the wave speed:\n\nv = f_A * λ_A\nv = 400 Hz * 0.75 m = 300 m/s\n\nNow, we can use the wave speed and the frequency of Wave B to find its wavelength:\n\nλ_B = v / f_B\nλ_B = 300 m/s / 300 Hz = 1.00 m\n\nTherefore, the wavelength of Wave B is 1.00 m."
+}

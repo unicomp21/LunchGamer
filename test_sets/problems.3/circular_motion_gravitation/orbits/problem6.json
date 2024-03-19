@@ -1,0 +1,11 @@
+{
+  "question": "A satellite of mass 1000 kg orbits a planet at a radius of 8000 km. If the satellite's speed is 6.0 km/s, what is the magnitude of the gravitational force exerted on the satellite by the planet?",
+  "choices": {
+    "A": "2.8 × 10^6 N",
+    "B": "3.6 × 10^6 N",
+    "C": "4.5 × 10^6 N",
+    "D": "5.6 × 10^6 N"
+  },
+  "answer": "C",
+  "solution": "For an object in uniform circular motion, the centripetal force is equal to the gravitational force. The formula for centripetal force is F = mv^2 / r, where m is the mass of the satellite (1000 kg), v is its speed (6.0 × 10^3 m/s), and r is the orbital radius (8.0 × 10^6 m). Substituting these values, we get:\n\nF = (1000 kg) × (6.0 × 10^3 m/s)^2 / (8.0 × 10^6 m)\nF = 3.6 × 10^10 kg⋅m/s^2 / (8.0 × 10^6 m)\nF = 4.5 × 10^3 kg⋅m/s^2\nF = 4.5 × 10^6 N\n\nTherefore, the magnitude of the gravitational force exerted on the satellite by the planet is 4.5 × 10^6 N."
+}

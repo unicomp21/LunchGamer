@@ -1,0 +1,11 @@
+{
+  "question": "A transverse wave on a string has an amplitude of 0.02 m and a wavelength of 0.4 m. If the wave travels at a speed of 12 m/s, what is the frequency of the wave?",
+  "choices": {
+    "A": "15 Hz",
+    "B": "20 Hz",
+    "C": "30 Hz",
+    "D": "60 Hz"
+  },
+  "answer": "C",
+  "solution": "The frequency of a wave can be calculated using the equation f = v / λ, where f is the frequency, v is the wave speed, and λ is the wavelength. Given the wave speed (12 m/s) and wavelength (0.4 m), we can calculate the frequency: f = 12 m/s / 0.4 m = 30 Hz. The amplitude does not affect the frequency of the wave."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A ball is thrown horizontally off a cliff with an initial velocity of 10 m/s. Simultaneously, a second ball is dropped from rest from the same height. Neglecting air resistance, how far below the top of the cliff will the two balls be when the thrown ball is 30 m horizontally from the base of the cliff? (Take g = 10 m/s^2)",
+  "choices": {
+    "A": "15 m",
+    "B": "30 m",
+    "C": "45 m",
+    "D": "60 m"
+  },
+  "answer": "C",
+  "solution": "The horizontal motion of the thrown ball is unaffected by gravity, so the time for it to travel 30 m horizontally is t = x / v = 30 m / 10 m/s = 3 s. During this time, both balls will fall vertically under the influence of gravity. The vertical displacement can be found using the formula Δy = 0.5 * g * t^2, where g is the acceleration due to gravity (10 m/s^2) and t is the time (3 s). Thus, Δy = 0.5 * 10 m/s^2 * (3 s)^2 = 45 m. Therefore, after 3 seconds, both balls will be 45 m below the top of the cliff."
+}

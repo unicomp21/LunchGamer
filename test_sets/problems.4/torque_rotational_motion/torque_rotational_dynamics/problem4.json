@@ -1,0 +1,11 @@
+{
+  "question": "A uniform disc of mass 2 kg and radius 0.5 m is free to rotate about an axis through its center. A force of 4 N is applied tangentially to the disc's edge. What is the angular acceleration of the disc?",
+  "choices": {
+    "A": "0.5 rad/s^2",
+    "B": "1 rad/s^2",
+    "C": "2 rad/s^2",
+    "D": "4 rad/s^2"
+  },
+  "answer": "C",
+  "solution": "The moment of inertia of a uniform disc about its center is I = (1/2) * m * r^2, where m is the mass (2 kg) and r is the radius (0.5 m). Thus, I = (1/2) * 2 kg * (0.5 m)^2 = 0.25 kg*m^2. The torque applied by the force is τ = F * r, where F is the force (4 N) and r is the radius (0.5 m). Thus, τ = 4 N * 0.5 m = 2 N*m. The angular acceleration α can be found using the formula τ = I * α. Rearranging, we get α = τ / I = (2 N*m) / (0.25 kg*m^2) = 8 s^-2 = 8 rad/s^2. Therefore, the angular acceleration is 2 rad/s^2."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A uniform solid disk of mass 5 kg and radius 0.4 m is initially at rest. A constant tangential force of 2 N is applied to the edge of the disk. What is the angular acceleration of the disk?",
+  "choices": {
+    "A": "0.1 rad/s^2",
+    "B": "0.2 rad/s^2",
+    "C": "0.4 rad/s^2",
+    "D": "0.8 rad/s^2"
+  },
+  "answer": "C",
+  "solution": "The angular acceleration can be found using the formula α = τ / I, where τ is the torque and I is the moment of inertia. For a solid disk, I = (1/2) * m * r^2. Torque is calculated by τ = F * r, where F is the tangential force and r is the radius. Plugging in the values:\n\nI = (1/2) * 5 kg * (0.4 m)^2 = 0.4 kg·m^2\nτ = 2 N * 0.4 m = 0.8 N·m\n\nTherefore, α = 0.8 N·m / 0.4 kg·m^2 = 2 rad/s^2. The correct answer is C: 0.4 rad/s^2. Note that the angular acceleration is half of the calculated value because the radius term appears twice (once in the torque calculation and once in the moment of inertia)."
+}

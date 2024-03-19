@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg object moving to the right at 5 m/s collides with and sticks to a 3 kg object initially at rest. What is the velocity of the combined objects after the collision?",
+  "choices": {
+    "A": "1 m/s to the left",
+    "B": "1 m/s to the right",
+    "C": "2 m/s to the left",
+    "D": "2 m/s to the right"
+  },
+  "answer": "D",
+  "solution": "Let the 2 kg object be m1 and the 3 kg object be m2. The initial momentum of the system is p_i = m1v1 = (2 kg)(5 m/s) = 10 kg⋅m/s to the right. By conservation of momentum, the final momentum p_f must equal the initial momentum. So p_f = 10 kg⋅m/s to the right. The final mass is m1 + m2 = 5 kg. Using p = mv, we can solve for the final velocity: v_f = p_f / (m1 + m2) = (10 kg⋅m/s) / (5 kg) = 2 m/s to the right."
+}

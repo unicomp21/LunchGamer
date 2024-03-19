@@ -1,0 +1,11 @@
+{
+  "question": "A 1000 kg car travels around a circular curve of radius 50 m at a constant speed of 15 m/s. What is the magnitude of the centripetal force acting on the car?",
+  "choices": {
+    "A": "225 N",
+    "B": "450 N",
+    "C": "4500 N",
+    "D": "9000 N"
+  },
+  "answer": "C",
+  "solution": "The centripetal force is given by the formula F = mv^2/r, where m is the mass (1000 kg), v is the speed (15 m/s), and r is the radius of curvature (50 m). Plugging in the values:\n\nF = (1000 kg)(15 m/s)^2 / (50 m)\nF = (1000 kg)(225 m^2/s^2) / (50 m)\nF = 225000 kg⋅m/s^2 / 50 m\nF = 4500 kg⋅m/s^2/m\nF = 4500 N\n\nThe correct answer is C: the magnitude of the centripetal force acting on the car is 4500 N."
+}

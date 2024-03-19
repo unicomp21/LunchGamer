@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg object moving at 5 m/s collides head-on with a 3 kg object initially at rest. If the two objects stick together after the collision, what is the speed of the combined object after the collision?",
+  "choices": {
+    "A": "1.0 m/s",
+    "B": "1.5 m/s",
+    "C": "2.0 m/s",
+    "D": "2.5 m/s"
+  },
+  "answer": "C",
+  "solution": "Let's use the law of conservation of momentum. The initial momentum is equal to the final momentum:\n\nm1v1 + m2v2 = (m1 + m2)v'\n\nwhere m1 = 2 kg, v1 = 5 m/s, m2 = 3 kg, v2 = 0 m/s, and v' is the final velocity.\n\nSubstituting the values:\n\n(2 kg)(5 m/s) + (3 kg)(0 m/s) = (2 kg + 3 kg)v'\n\n10 kg·m/s = (5 kg)v'\n\nSolving for v':\n\nv' = (10 kg·m/s) / (5 kg) = 2 m/s\n\nTherefore, the speed of the combined object after the collision is 2 m/s."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg ball moving at 5 m/s to the right collides head-on with a 3 kg ball moving at 4 m/s to the left. If the collision is perfectly elastic, what is the velocity of the 2 kg ball after the collision?",
+  "choices": {
+    "A": "1 m/s to the right",
+    "B": "3 m/s to the right",
+    "C": "3 m/s to the left",
+    "D": "5 m/s to the left"
+  },
+  "answer": "C",
+  "solution": "In an elastic collision, both momentum and kinetic energy are conserved. Let v1f and v2f be the final velocities of the 2 kg and 3 kg balls, respectively. By conservation of momentum, m1v1i + m2v2i = m1v1f + m2v2f, where v1i = 5 m/s and v2i = -4 m/s. This gives 2(5) + 3(-4) = 2(v1f) + 3(v2f), or -2 = 2v1f + 3v2f. By conservation of kinetic energy, (1/2)m1v1i^2 + (1/2)m2v2i^2 = (1/2)m1v1f^2 + (1/2)m2v2f^2. Substituting the known values, 25 + 24 = (v1f)^2 + 2(v2f)^2. Solving the system of equations, we find v1f = -3 m/s and v2f = 2 m/s. Thus, the 2 kg ball moves at 3 m/s to the left after the collision."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A figure skater is spinning on the ice with her arms extended. When she pulls her arms in towards her body, which of the following will happen to her angular velocity and angular momentum?",
+  "choices": {
+    "A": "Both angular velocity and angular momentum will increase",
+    "B": "Angular velocity will increase, angular momentum will stay the same",
+    "C": "Angular velocity will stay the same, angular momentum will decrease",
+    "D": "Both angular velocity and angular momentum will decrease"
+  },
+  "answer": "B",
+  "solution": "According to the conservation of angular momentum, when the figure skater pulls her arms in, her moment of inertia decreases. Since angular momentum (L) is the product of moment of inertia (I) and angular velocity (ω), L = Iω, and angular momentum is conserved in this scenario (no external torques), the angular velocity must increase to compensate for the decrease in moment of inertia. Therefore, the figure skater's angular velocity will increase, while her angular momentum will remain the same."
+}

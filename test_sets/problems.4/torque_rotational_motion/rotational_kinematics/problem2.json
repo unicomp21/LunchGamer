@@ -1,0 +1,11 @@
+{
+  "question": "A uniform solid disk of radius R and mass M is mounted on a frictionless vertical axle. A massless string is wrapped around the disk's rim and a block of mass m is suspended from the string. When released, the block accelerates downward, causing the disk to rotate. What is the block's linear acceleration?",
+  "choices": {
+    "A": "mg / (M + m)",
+    "B": "2mg / (M + 2m)",
+    "C": "2mg / (2M + m)",
+    "D": "mg / (2M + m)"
+  },
+  "answer": "C",
+  "solution": "Let α be the disk's angular acceleration and a be the block's linear acceleration. By Newton's 2nd law, mg - T = ma, where T is the tension in the string. The torque on the disk is τ = TR, and its moment of inertia is I = (1/2)MR^2. By Newton's 2nd law for rotation, τ = Iα, so TR = (1/2)MR^2 * α. The block's acceleration is related to the disk's angular acceleration by a = αR. Substituting, we get: mg - (1/2)MRα = ma. Solving for a using α = a/R yields: a = 2mg / (2M + m). Therefore, C is the correct answer."
+}

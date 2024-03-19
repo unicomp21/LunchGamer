@@ -1,0 +1,11 @@
+{
+  "question": "In the circuit shown, the current through the 2 Ω resistor is 2 A. What is the emf of the battery?",
+  "choices": {
+    "A": "2 V",
+    "B": "4 V",
+    "C": "6 V",
+    "D": "8 V"
+  },
+  "answer": "D",
+  "solution": "According to Kirchhoff's voltage law, the sum of the voltage drops across the resistors must equal the emf of the battery. The voltage drop across each resistor can be calculated using Ohm's law, V = IR. For the 2 Ω resistor, the voltage drop is V = (2 A)(2 Ω) = 4 V. For the 1 Ω resistor, the current is the same as in the 2 Ω resistor (since they are in series), so the voltage drop is V = (2 A)(1 Ω) = 2 V. For the 1 Ω resistor in parallel, the voltage drop is the same as the battery emf. The sum of these voltage drops is 4 V + 2 V + emf = emf + 6 V. Therefore, the emf must be 8 V."
+}

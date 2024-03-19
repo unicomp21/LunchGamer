@@ -1,0 +1,11 @@
+{
+  "question": "A uniform rod of length 2.0 m and mass 5.0 kg is pivoted at its center. Two forces, F1 = 10 N and F2 = 20 N, are applied perpendicular to the rod at distances of 0.5 m and 1.0 m from the pivot, respectively. What is the magnitude of the net torque on the rod?",
+  "choices": {
+    "A": "0 N·m",
+    "B": "5 N·m",
+    "C": "10 N·m",
+    "D": "15 N·m"
+  },
+  "answer": "D",
+  "solution": "The net torque is the sum of the individual torques. The torque due to each force is given by τ = r × F, where r is the distance from the pivot to the point where the force is applied. The sign of the torque depends on the direction of the force relative to the pivot.\n\nFor F1: τ1 = (0.5 m) × (10 N) = 5 N·m (counterclockwise)\nFor F2: τ2 = (1.0 m) × (20 N) = 20 N·m (clockwise)\n\nThe net torque is the sum of these torques:\nτnet = τ1 - τ2 = 5 N·m - 20 N·m = -15 N·m\n\nThe negative sign indicates that the net torque is in the clockwise direction. The magnitude of the net torque is |τnet| = 15 N·m."
+}

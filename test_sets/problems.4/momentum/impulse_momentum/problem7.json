@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg ball is kicked with an initial velocity of 5 m/s. If the ball is in contact with the foot for 0.1 seconds, what is the magnitude of the average force exerted on the ball?",
+  "choices": {
+    "A": "10 N",
+    "B": "20 N",
+    "C": "50 N",
+    "D": "100 N"
+  },
+  "answer": "D",
+  "solution": "The impulse-momentum theorem states that the change in momentum (Δp) is equal to the impulse (F⋅Δt), where F is the average force and Δt is the time interval. The change in momentum can be calculated using Δp = m⋅Δv, where m is the mass and Δv is the change in velocity. Given the initial velocity (5 m/s) and the mass (2 kg), we can calculate the change in momentum: Δp = 2 kg ⋅ 5 m/s = 10 kg⋅m/s. Using the impulse-momentum theorem, we have: F⋅Δt = Δp. Substituting the known values: F ⋅ 0.1 s = 10 kg⋅m/s. Solving for F, we get: F = (10 kg⋅m/s) / 0.1 s = 100 N. Therefore, the magnitude of the average force exerted on the ball is 100 N."
+}

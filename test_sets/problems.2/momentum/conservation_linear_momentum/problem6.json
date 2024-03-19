@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg object moving to the right at 5 m/s collides with a 3 kg object moving to the left at 2 m/s. If the objects stick together after the collision, what is the velocity of the combined objects?",
+  "choices": {
+    "A": "0.2 m/s to the right",
+    "B": "0.2 m/s to the left",
+    "C": "1.0 m/s to the right",
+    "D": "1.0 m/s to the left"
+  },
+  "answer": "C",
+  "solution": "Using the law of conservation of linear momentum, the total momentum before the collision equals the total momentum after the collision. Before the collision, the total momentum is (2 kg)(5 m/s) + (3 kg)(-2 m/s) = 4 kg⋅m/s. After the collision, the combined mass is 5 kg, so the final velocity v can be found using the equation (5 kg)v = 4 kg⋅m/s. Solving for v, we get v = 4 kg⋅m/s / 5 kg = 0.8 m/s. Since the total momentum before the collision is positive (to the right), the final velocity must also be to the right. The closest answer is 1.0 m/s to the right."
+}

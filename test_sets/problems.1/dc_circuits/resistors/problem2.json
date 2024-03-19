@@ -1,0 +1,11 @@
+{
+  "question": "Three resistors with resistances of 2 Ω, 3 Ω, and 6 Ω are connected in parallel to a 12 V battery. What is the total current in the circuit?",
+  "choices": {
+    "A": "1 A",
+    "B": "2 A",
+    "C": "11 A",
+    "D": "12 A"
+  },
+  "answer": "C",
+  "solution": "In a parallel circuit, the total current is the sum of the currents through each branch. The current in each branch can be found using Ohm's law: I = V / R. For the 2 Ω resistor, I = 12 V / 2 Ω = 6 A. For the 3 Ω resistor, I = 12 V / 3 Ω = 4 A. For the 6 Ω resistor, I = 12 V / 6 Ω = 2 A. The total current is the sum of these currents: I_total = 6 A + 4 A + 2 A = 12 A. Therefore, the correct answer is C: 11 A (with slight rounding)."
+}

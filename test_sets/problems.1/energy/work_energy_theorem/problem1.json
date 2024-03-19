@@ -1,0 +1,11 @@
+{
+  "question": "A 5 kg box is pushed 10 meters up a frictionless ramp that makes a 30° angle with the horizontal. How much work is done on the box? (Take g = 10 m/s^2)",
+  "choices": {
+    "A": "250 J",
+    "B": "500 J",
+    "C": "750 J",
+    "D": "1000 J"
+  },
+  "answer": "A",
+  "solution": "The work-energy theorem states that the net work done on an object equals its change in kinetic energy. Since the ramp is frictionless and the box starts and ends at rest, the change in kinetic energy is zero. Thus, the net work is zero. The work done by the person pushing the box is positive, while the work done by gravity is negative. These two cancel each other.\n\nThe work done by the person is equal to the force applied parallel to the ramp times the displacement along the ramp. The force parallel to the ramp is F = mgsin(θ), where θ is the angle of the ramp. Thus:\n\nW = Fd = mgsin(θ)d\n   = (5 kg)(10 m/s^2)sin(30°)(10 m)\n   = (5)(10)(0.5)(10) J\n   = 250 J\n\nTherefore, the work done by the person pushing the box is 250 J."
+}

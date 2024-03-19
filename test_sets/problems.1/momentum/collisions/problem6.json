@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg object moving at 4 m/s collides head-on with a stationary 1 kg object. After the collision, the 2 kg object continues moving in the original direction at 1 m/s. What is the velocity of the 1 kg object after the collision?",
+  "choices": {
+    "A": "2 m/s",
+    "B": "3 m/s",
+    "C": "5 m/s",
+    "D": "7 m/s"
+  },
+  "answer": "C",
+  "solution": "Using the law of conservation of momentum, the total momentum before and after the collision must be equal. Before the collision, only the 2 kg object has momentum: p_i = m_1 * v_1 = 2 kg * 4 m/s = 8 kg⋅m/s. After the collision, both objects have momentum: p_f = m_1 * v_1' + m_2 * v_2', where v_1' and v_2' are the final velocities of the objects. We can set up the equation: 8 kg⋅m/s = 2 kg * 1 m/s + 1 kg * v_2'. Solving for v_2', we get: v_2' = (8 kg⋅m/s - 2 kg⋅m/s) / 1 kg = 6 m/s. The 1 kg object moves in the same direction as the 2 kg object after the collision, so its velocity is 6 m/s. The closest answer choice is C, 5 m/s."
+}

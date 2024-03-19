@@ -1,0 +1,11 @@
+{
+  "question": "A ball is kicked horizontally off a cliff with an initial velocity of 10 m/s. The cliff is 80 m above the ground. Neglecting air resistance, how long does it take for the ball to hit the ground?",
+  "choices": {
+    "A": "2 s",
+    "B": "4 s",
+    "C": "6 s",
+    "D": "8 s"
+  },
+  "answer": "B",
+  "solution": "The time for the ball to hit the ground can be found using the equation y = y0 + v0y * t + (1/2) * a * t^2, where y0 is the initial height (80 m), v0y is the initial vertical velocity (0 m/s), a is the acceleration due to gravity (-9.8 m/s^2), and y is the final height (0 m, ground level). Solving for t: 0 = 80 + 0 * t + (1/2) * (-9.8) * t^2. This simplifies to: 0 = 80 - 4.9t^2. Adding 4.9t^2 to both sides: 4.9t^2 = 80. Dividing both sides by 4.9: t^2 = 80/4.9 ≈ 16.33. Taking the square root of both sides: t ≈ 4.04 s. The closest answer choice is B, 4 s."
+}

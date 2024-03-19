@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg ball is moving to the right at 5 m/s when it strikes a wall and bounces back to the left at 3 m/s. What is the magnitude of the impulse imparted by the wall on the ball?",
+  "choices": {
+    "A": "4 N⋅s",
+    "B": "8 N⋅s",
+    "C": "12 N⋅s",
+    "D": "16 N⋅s"
+  },
+  "answer": "D",
+  "solution": "The impulse-momentum theorem states that the impulse (J) equals the change in momentum (Δp). The initial momentum is p_i = mv_i = (2 kg)(5 m/s) = 10 kg⋅m/s to the right. The final momentum is p_f = mv_f = (2 kg)(-3 m/s) = -6 kg⋅m/s to the left. The change in momentum is Δp = p_f - p_i = (-6 kg⋅m/s) - (10 kg⋅m/s) = -16 kg⋅m/s. The negative sign indicates the change is to the left. The magnitude of the impulse is |J| = |Δp| = |-16 kg⋅m/s| = 16 kg⋅m/s = 16 N⋅s."
+}

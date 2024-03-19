@@ -1,0 +1,11 @@
+{
+  "question": "A 12 V battery is connected to two resistors in series. One resistor has a resistance of 6 Ω and the other has a resistance of 3 Ω. What is the current flowing through the 6 Ω resistor?",
+  "choices": {
+    "A": "0.5 A",
+    "B": "1 A",
+    "C": "1.33 A",
+    "D": "2 A"
+  },
+  "answer": "C",
+  "solution": "In a series circuit, the current is the same through all components. The total resistance is the sum of the individual resistances: R_total = 6 Ω + 3 Ω = 9 Ω. Using Ohm's Law, V = IR, we can calculate the current: I = V / R_total = 12 V / 9 Ω = 1.33 A. Therefore, the current flowing through the 6 Ω resistor is also 1.33 A."
+}

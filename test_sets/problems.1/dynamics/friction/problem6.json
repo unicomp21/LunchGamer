@@ -1,0 +1,11 @@
+{
+  "question": "A 10 kg block is at rest on a horizontal surface with a coefficient of static friction of 0.4. What is the minimum horizontal force required to start the block moving?",
+  "choices": {
+    "A": "19.6 N",
+    "B": "39.2 N",
+    "C": "49.0 N",
+    "D": "98.0 N"
+  },
+  "answer": "B",
+  "solution": "The minimum force required to overcome static friction and start the block moving is equal to the maximum static friction force. The formula for maximum static friction is fs,max = μs * N, where μs is the coefficient of static friction and N is the normal force. Since the block is on a horizontal surface, the normal force is equal to the weight of the block, which is given by W = mg, where m is the mass (10 kg) and g is the acceleration due to gravity (9.8 m/s^2). Thus, N = 10 kg * 9.8 m/s^2 = 98 N. Plugging this into the static friction formula, we get fs,max = 0.4 * 98 N = 39.2 N. Therefore, the minimum horizontal force required to start the block moving is 39.2 N."
+}

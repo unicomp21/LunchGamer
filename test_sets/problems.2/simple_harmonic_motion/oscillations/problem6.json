@@ -1,0 +1,11 @@
+{
+  "question": "A mass oscillating on a spring has a period of 2 seconds and an amplitude of 0.5 meters. What is the maximum speed of the mass?",
+  "choices": {
+    "A": "0.25π m/s",
+    "B": "0.5π m/s",
+    "C": "1.0π m/s",
+    "D": "2.0π m/s"
+  },
+  "answer": "B",
+  "solution": "For simple harmonic motion, the maximum speed occurs at the equilibrium position and can be calculated using v_max = A × ω, where A is the amplitude and ω is the angular frequency. The angular frequency ω is related to the period T by ω = 2π / T.\n\nGiven:\n- Period (T) = 2 seconds\n- Amplitude (A) = 0.5 meters\n\nStep 1: Calculate the angular frequency (ω).\nω = 2π / T = 2π / 2 = π rad/s\n\nStep 2: Calculate the maximum speed (v_max).\nv_max = A × ω = 0.5 m × π rad/s = 0.5π m/s\n\nTherefore, the maximum speed of the mass is 0.5π m/s, which corresponds to choice B."
+}

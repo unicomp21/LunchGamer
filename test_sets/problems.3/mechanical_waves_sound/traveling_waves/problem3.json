@@ -1,0 +1,11 @@
+{
+  "question": "A transverse wave on a string has a wavelength of 2 meters and a frequency of 30 Hz. If the wave travels a distance of 120 meters, how much time does it take?",
+  "choices": {
+    "A": "0.5 s",
+    "B": "1.0 s",
+    "C": "2.0 s",
+    "D": "4.0 s"
+  },
+  "answer": "C",
+  "solution": "The wave speed v can be calculated using the wave equation: v = fλ, where f is the frequency and λ is the wavelength. Plugging in the given values, we get: v = (30 Hz)(2 m) = 60 m/s. \n\nTo find the time t taken for the wave to travel 120 meters, we use the equation: d = vt, where d is the distance traveled. Rearranging to solve for t, we get: t = d/v = (120 m)/(60 m/s) = 2.0 s. \n\nTherefore, the correct answer is C. It takes 2.0 seconds for the wave to travel 120 meters."
+}

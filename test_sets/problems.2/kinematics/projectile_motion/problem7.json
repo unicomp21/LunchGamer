@@ -1,0 +1,11 @@
+{
+  "question": "A ball is thrown horizontally off a cliff with an initial velocity of 20 m/s. The cliff is 80 m above the ground. Assuming negligible air resistance, how long does it take for the ball to reach the ground?",
+  "choices": {
+    "A": "2 s",
+    "B": "3 s",
+    "C": "4 s",
+    "D": "5 s"
+  },
+  "answer": "C",
+  "solution": "In projectile motion, the horizontal and vertical components of motion are independent. The time taken to reach the ground depends only on the vertical motion, which is affected by gravity. Using the equation y = y0 + v0y * t + 0.5 * ay * t^2, where y0 is the initial height (80 m), v0y is the initial vertical velocity (0 m/s), ay is the acceleration due to gravity (-9.8 m/s^2), and y is the final height (0 m, ground level), we can solve for time t. Substituting the values, we get: 0 = 80 + 0 * t - 4.9 * t^2. Simplifying, 4.9 * t^2 = 80. Solving for t, we get t ≈ 4.04 s. The closest answer choice is C, 4 s."
+}

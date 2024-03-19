@@ -1,0 +1,11 @@
+{
+  "question": "A 5 kg block is pushed a distance of 3 m up a frictionless incline by a force of 20 N applied parallel to the incline. How much work is done on the block by the applied force?",
+  "choices": {
+    "A": "15 J",
+    "B": "30 J",
+    "C": "45 J",
+    "D": "60 J"
+  },
+  "answer": "D",
+  "solution": "The work done on the block can be found using the formula W = F · d, where F is the applied force (20 N) and d is the displacement (3 m). The force is applied parallel to the incline, which means the force and displacement are in the same direction, so we can use the scalar product. Thus, W = 20 N · 3 m = 60 J. The work done on the block by the applied force is 60 J."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg block is pushed up a 30° incline with a constant force of 20 N parallel to the incline. If the coefficient of kinetic friction between the block and the incline is 0.2, what is the acceleration of the block up the incline? (Take g = 10 m/s^2)",
+  "choices": {
+    "A": "1.7 m/s^2",
+    "B": "2.3 m/s^2",
+    "C": "3.1 m/s^2",
+    "D": "4.5 m/s^2"
+  },
+  "answer": "B",
+  "solution": "First, find the normal force N using the formula N = mg cos θ, where θ is the angle of the incline. Here, N = (2 kg)(10 m/s^2) cos 30° = 17.3 N. The friction force f is given by f = μN, where μ is the coefficient of kinetic friction. So, f = (0.2)(17.3 N) = 3.46 N. Now, apply Newton's second law: ma = F - f - mg sin θ, where F is the applied force. Substituting values, (2 kg)a = 20 N - 3.46 N - (2 kg)(10 m/s^2) sin 30°. Solving for a, we get a = (20 N - 3.46 N - 10 N) / 2 kg = 3.27 N / 2 kg ≈ 2.3 m/s^2 (rounded to the nearest option)."
+}

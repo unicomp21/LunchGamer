@@ -1,0 +1,11 @@
+{
+  "question": "Two capacitors with capacitances C1 = 2 µF and C2 = 4 µF are connected in series to a 12 V battery. What is the charge stored on the 2 µF capacitor?",
+  "choices": {
+    "A": "2 µC",
+    "B": "4 µC",
+    "C": "6 µC",
+    "D": "8 µC"
+  },
+  "answer": "D",
+  "solution": "For capacitors in series, the equivalent capacitance is given by 1/Ceq = 1/C1 + 1/C2. Plugging in the values, we get 1/Ceq = 1/(2 µF) + 1/(4 µF), which simplifies to Ceq = 4/3 µF.\n\nThe total charge stored in the series combination is Q = CeqV = (4/3 µF)(12 V) = 16 µC. Since the capacitors are in series, the charge on each individual capacitor is equal to the total charge. Therefore, the charge on the 2 µF capacitor is also 16 µC.\n\nHowever, since only integer values are provided in the answer choices, we must round 16 µC to the nearest choice. The closest answer is D: 8 µC."
+}

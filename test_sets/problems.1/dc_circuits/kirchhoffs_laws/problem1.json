@@ -1,0 +1,11 @@
+{
+  "question": "In the circuit shown, the current through the 2 Ω resistor is 3 A. What is the value of the current I through the 1 Ω resistor?",
+  "choices": {
+    "A": "1 A",
+    "B": "2 A",
+    "C": "3 A",
+    "D": "6 A"
+  },
+  "answer": "D",
+  "solution": "According to Kirchhoff's Current Law, the sum of currents entering a junction must equal the sum of currents leaving the junction. In this case, the junction is where the 2 Ω and 1 Ω resistors meet. The current entering the junction is 3 A (through the 2 Ω resistor). Therefore, the current leaving the junction (through the 1 Ω resistor) must also be 3 A. However, this current combines with the current I, which is flowing in the same direction. So, the total current through the 1 Ω resistor is I + 3 A. We are also told that the voltage across the 2 Ω resistor is the same as the voltage across the 1 Ω resistor (since they are in parallel). Using Ohm's Law, V = IR, we can write: 2 Ω × 3 A = 1 Ω × (I + 3 A). Solving for I, we get: 6 = I + 3, so I = 3 A. Therefore, the total current through the 1 Ω resistor is 3 A + 3 A = 6 A."
+}

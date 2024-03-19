@@ -1,0 +1,11 @@
+{
+  "question": "In the circuit shown, the current through the 2 Ω resistor is 3 A. What is the value of the voltage source V?",
+  "choices": {
+    "A": "2 V",
+    "B": "6 V",
+    "C": "12 V",
+    "D": "18 V"
+  },
+  "answer": "C",
+  "solution": "Using Kirchhoff's Current Law, the current through the 2 Ω resistor is equal to the current through the voltage source. By Ohm's Law, the voltage drop across the 2 Ω resistor is V = IR = (3 A)(2 Ω) = 6 V. Using Kirchhoff's Voltage Law, the sum of the voltage drops around the loop must equal the voltage source. There are two identical resistors in series, so the total voltage drop is 2 × 6 V = 12 V. Therefore, the voltage source must be 12 V."
+}

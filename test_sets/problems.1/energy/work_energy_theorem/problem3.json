@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg block is pushed 5 meters across a frictionless horizontal surface by a constant force of 10 N. If the block starts from rest, what is its final speed?",
+  "choices": {
+    "A": "2.5 m/s",
+    "B": "5.0 m/s",
+    "C": "7.1 m/s",
+    "D": "10.0 m/s"
+  },
+  "answer": "B",
+  "solution": "According to the work-energy theorem, the net work done on an object is equal to the change in its kinetic energy. The work done by the force is W = Fd = (10 N)(5 m) = 50 J. The change in kinetic energy is ΔKE = (1/2)mv_f^2 - (1/2)mv_i^2, where v_i = 0 (starting from rest). Setting the work equal to the change in kinetic energy: 50 J = (1/2)(2 kg)v_f^2, solving for v_f yields v_f = 5.0 m/s."
+}

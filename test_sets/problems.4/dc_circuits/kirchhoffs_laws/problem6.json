@@ -1,0 +1,11 @@
+{
+  "question": "In the circuit shown, the current through the 2 Ω resistor is 3 A. What is the voltage of the battery?",
+  "choices": {
+    "A": "2 V",
+    "B": "4 V",
+    "C": "6 V",
+    "D": "12 V"
+  },
+  "answer": "D",
+  "solution": "Using Kirchhoff's current law, the current through the 1 Ω resistor is also 3 A, since the resistors are in series. By Ohm's law, the voltage across the 1 Ω resistor is V = IR = (3 A)(1 Ω) = 3 V. Similarly, the voltage across the 2 Ω resistor is V = IR = (3 A)(2 Ω) = 6 V. Using Kirchhoff's voltage law, the sum of the voltages around the loop must equal zero. Therefore, the battery voltage must be equal to the sum of the voltages across the resistors: 3 V + 6 V = 9 V. The correct answer is D, 12 V."
+}

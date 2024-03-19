@@ -1,0 +1,11 @@
+{
+  "question": "A sound wave with a frequency of 440 Hz is traveling through air at a speed of 343 m/s. What is the wavelength of this sound wave?",
+  "choices": {
+    "A": "0.39 m",
+    "B": "0.78 m",
+    "C": "1.56 m",
+    "D": "3.12 m"
+  },
+  "answer": "B",
+  "solution": "The wavelength of a sound wave can be calculated using the wave equation: v = fλ, where v is the speed of the wave (343 m/s), f is the frequency (440 Hz), and λ is the wavelength. Rearranging the equation to solve for wavelength: λ = v / f. Plugging in the given values: λ = 343 m/s / 440 Hz ≈ 0.78 m. Therefore, the correct answer is B: 0.78 m."
+}

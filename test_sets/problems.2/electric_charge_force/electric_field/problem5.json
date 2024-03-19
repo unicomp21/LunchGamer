@@ -1,0 +1,11 @@
+{
+  "question": "Two point charges, q1 = +3 nC and q2 = -6 nC, are separated by a distance of 20 cm. What is the magnitude of the electric force between them?",
+  "choices": {
+    "A": "2.0 × 10^-5 N",
+    "B": "2.7 × 10^-5 N",
+    "C": "4.0 × 10^-5 N",
+    "D": "8.1 × 10^-5 N"
+  },
+  "answer": "B",
+  "solution": "The electric force between two point charges can be calculated using Coulomb's law: F = k × |q1| × |q2| / r^2, where k is Coulomb's constant (8.99 × 10^9 N⋅m^2/C^2), q1 and q2 are the charges, and r is the distance between them. Substituting the values:\n\nF = (8.99 × 10^9 N⋅m^2/C^2) × (3 × 10^-9 C) × (6 × 10^-9 C) / (0.2 m)^2\n  = (8.99 × 10^9) × (18 × 10^-18) / (0.04)\n  = (161.82 × 10^-9) / (0.04)\n  = 4.0455 × 10^-6 / 0.04\n  = 1.011375 × 10^-4\n\nThe magnitude of the force is about 1.0 × 10^-4 N. Since the charges have opposite signs, the force is attractive. The closest answer choice is B, 2.7 × 10^-5 N."
+}

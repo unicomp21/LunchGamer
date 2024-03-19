@@ -1,0 +1,11 @@
+{
+  "question": "A stationary observer hears a fire truck's siren at a frequency of 480 Hz. The fire truck is moving towards the observer at a speed of 30 m/s. If the speed of sound in air is 340 m/s, what is the actual frequency of the siren?",
+  "choices": {
+    "A": "410 Hz",
+    "B": "440 Hz",
+    "C": "460 Hz",
+    "D": "520 Hz"
+  },
+  "answer": "C",
+  "solution": "The Doppler effect formula for a moving source and stationary observer is f' = f * (v / (v ± vs)), where f' is the observed frequency, f is the actual frequency, v is the speed of sound, and vs is the speed of the source (positive if moving away from the observer, negative if moving towards the observer). Rearranging the equation to solve for f, we get f = f' * ((v ± vs) / v). Plugging in the given values, we have f = 480 Hz * ((340 m/s - 30 m/s) / 340 m/s) ≈ 460 Hz."
+}

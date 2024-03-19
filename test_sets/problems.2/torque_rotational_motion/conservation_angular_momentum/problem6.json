@@ -1,0 +1,11 @@
+{
+  "question": "A figure skater is spinning with her arms extended. When she pulls her arms in close to her body, her angular velocity increases. What is the primary reason for this increase in angular velocity?",
+  "choices": {
+    "A": "Her angular momentum increases",
+    "B": "Her rotational inertia decreases",
+    "C": "Her rotational kinetic energy decreases",
+    "D": "The net torque acting on her increases"
+  },
+  "answer": "B",
+  "solution": "According to the law of conservation of angular momentum, when no external torque acts on a system, its angular momentum remains constant. In this case, as the skater pulls her arms in, her rotational inertia (I) decreases because her mass is distributed closer to the axis of rotation. Since angular momentum (L) is conserved and L = Iω, where ω is the angular velocity, a decrease in I must be compensated by an increase in ω to keep L constant. Therefore, the primary reason for the increase in angular velocity is the decrease in the skater's rotational inertia."
+}

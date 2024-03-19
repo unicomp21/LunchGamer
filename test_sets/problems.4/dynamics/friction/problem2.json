@@ -1,0 +1,11 @@
+{
+  "question": "A 10 kg block is initially at rest on a horizontal surface with a coefficient of friction of 0.2. If a 50 N horizontal force is applied to the block, what is the acceleration of the block?",
+  "choices": {
+    "A": "3 m/s^2",
+    "B": "4 m/s^2",
+    "C": "5 m/s^2",
+    "D": "6 m/s^2"
+  },
+  "answer": "C",
+  "solution": "First, find the normal force (N) acting on the block. Since the surface is horizontal, N = mg = 10 kg * 9.8 m/s^2 = 98 N. \n\nNext, calculate the friction force (f) using the formula f = μN, where μ is the coefficient of friction. So, f = 0.2 * 98 N = 19.6 N. \n\nThe net force (F_net) acting on the block is the difference between the applied force and the friction force: F_net = 50 N - 19.6 N = 30.4 N. \n\nFinally, use Newton's second law (F = ma) to find the acceleration (a): a = F_net / m = 30.4 N / 10 kg = 3.04 m/s^2 ≈ 3 m/s^2. \n\nTherefore, the correct answer is C: 3 m/s^2."
+}

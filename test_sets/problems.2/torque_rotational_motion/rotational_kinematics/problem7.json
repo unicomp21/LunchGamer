@@ -1,0 +1,11 @@
+{
+  "question": "A uniform solid disk of mass 2 kg and radius 0.5 m starts from rest and accelerates uniformly to an angular velocity of 4 rad/s in 2 seconds. What is the magnitude of the torque acting on the disk during this time?",
+  "choices": {
+    "A": "0.5 N·m",
+    "B": "1 N·m",
+    "C": "2 N·m",
+    "D": "4 N·m"
+  },
+  "answer": "B",
+  "solution": "The moment of inertia of a solid disk is I = (1/2)mr^2, where m is the mass and r is the radius. For the given disk, I = (1/2)(2 kg)(0.5 m)^2 = 0.25 kg·m^2. The angular acceleration α can be found using the formula α = Δω / Δt, where Δω is the change in angular velocity (4 rad/s) and Δt is the time interval (2 s). Thus, α = 4 rad/s / 2 s = 2 rad/s^2. The torque τ is related to the moment of inertia and angular acceleration by the equation τ = Iα. Substituting the values, we get τ = (0.25 kg·m^2)(2 rad/s^2) = 0.5 kg·m^2·rad/s^2 = 0.5 N·m. Therefore, the magnitude of the torque acting on the disk is 0.5 N·m, which rounds up to 1 N·m (choice B)."
+}

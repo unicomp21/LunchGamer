@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg object moving at 4 m/s to the right collides with a 3 kg object at rest. After the collision, the 3 kg object moves at 2 m/s to the right. What is the velocity of the 2 kg object after the collision?",
+  "choices": {
+    "A": "1 m/s to the left",
+    "B": "1 m/s to the right",
+    "C": "2 m/s to the left",
+    "D": "2 m/s to the right"
+  },
+  "answer": "A",
+  "solution": "Let v represent the velocity of the 2 kg object after the collision. Using conservation of linear momentum: m1v1 + m2v2 = m1v1' + m2v2', where the unprimed quantities are before the collision and the primed quantities are after. Substituting the known values: (2 kg)(4 m/s) + (3 kg)(0 m/s) = (2 kg)(v) + (3 kg)(2 m/s). Simplifying: 8 kg⋅m/s = 2v kg⋅m/s + 6 kg⋅m/s. Solving for v: 8 - 6 = 2v, so 2 = 2v, and v = 1 m/s. The negative sign indicates the 2 kg object is moving to the left after the collision."
+}

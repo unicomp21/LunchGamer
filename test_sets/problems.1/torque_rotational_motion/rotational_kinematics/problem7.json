@@ -1,0 +1,11 @@
+{
+  "question": "A uniform solid disk of mass 2 kg and radius 0.5 m rotates about a fixed axis perpendicular to its center. If the disk has an angular acceleration of 4 rad/s², what is the magnitude of the net torque acting on the disk? (The moment of inertia of a solid disk is ½mr².)",
+  "choices": {
+    "A": "0.5 N⋅m",
+    "B": "1 N⋅m",
+    "C": "2 N⋅m",
+    "D": "4 N⋅m"
+  },
+  "answer": "B",
+  "solution": "The net torque acting on the disk can be found using the rotational form of Newton's second law: τ = Iα, where τ is the net torque, I is the moment of inertia, and α is the angular acceleration. The moment of inertia of a solid disk is I = ½mr², where m is the mass and r is the radius. Substituting the given values, we have:\n\nI = ½ × 2 kg × (0.5 m)² = 0.25 kg⋅m²\n\nNow, using τ = Iα:\nτ = 0.25 kg⋅m² × 4 rad/s² = 1 N⋅m\n\nTherefore, the magnitude of the net torque acting on the disk is 1 N⋅m."
+}

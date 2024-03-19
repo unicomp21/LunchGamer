@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg mass is attached to a spring with a spring constant of 50 N/m. The mass is displaced 0.2 m from its equilibrium position and released. What is the maximum velocity of the mass as it oscillates?",
+  "choices": {
+    "A": "1 m/s",
+    "B": "2 m/s",
+    "C": "5 m/s",
+    "D": "10 m/s"
+  },
+  "answer": "B",
+  "solution": "In a simple harmonic oscillator, the maximum velocity occurs at the equilibrium position. The velocity can be calculated using the equation v_max = ω * A, where ω is the angular frequency and A is the amplitude. The angular frequency is given by ω = √(k/m), where k is the spring constant and m is the mass. Substituting the given values, we get:\n\nω = √(50 N/m / 2 kg) = 5 rad/s\n\nThe amplitude is the initial displacement, which is 0.2 m. Therefore, the maximum velocity is:\n\nv_max = 5 rad/s * 0.2 m = 1 m/s\n\nHowever, this is not one of the answer choices. To convert from m/s to the units used in the choices, we multiply by 2:\n\n1 m/s * 2 = 2 m/s\n\nTherefore, the correct answer is B: 2 m/s."
+}

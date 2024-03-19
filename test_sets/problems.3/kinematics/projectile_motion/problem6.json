@@ -1,0 +1,11 @@
+{
+  "question": "A ball is thrown horizontally from the top of a building with an initial velocity of 10 m/s. If the ball hits the ground 2 seconds later, what is the height of the building? (Assume negligible air resistance and use g = 9.8 m/s^2)",
+  "choices": {
+    "A": "4.9 m",
+    "B": "9.8 m",
+    "C": "19.6 m",
+    "D": "39.2 m"
+  },
+  "answer": "C",
+  "solution": "In projectile motion, the horizontal and vertical components of motion are independent. The time of flight is given, so we can find the vertical displacement using the equation: Δy = v_0y * t + (1/2) * g * t^2, where v_0y is the initial vertical velocity (0 m/s), t is the time of flight (2 s), and g is the acceleration due to gravity (9.8 m/s^2).\n\nSubstituting the values:\nΔy = 0 * 2 + (1/2) * 9.8 * 2^2\nΔy = 0 + 19.6\nΔy = 19.6 m\n\nTherefore, the height of the building is 19.6 m."
+}

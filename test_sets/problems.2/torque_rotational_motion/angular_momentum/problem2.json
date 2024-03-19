@@ -1,0 +1,11 @@
+{
+  "question": "A solid sphere of radius R is rolling without slipping on a flat surface. What is the ratio of its rotational kinetic energy to its translational kinetic energy?",
+  "choices": {
+    "A": "1:2",
+    "B": "2:3",
+    "C": "2:5",
+    "D": "5:7"
+  },
+  "answer": "C",
+  "solution": "For a solid sphere rolling without slipping, the total kinetic energy is the sum of its translational kinetic energy (KE_trans) and rotational kinetic energy (KE_rot). The translational kinetic energy is given by KE_trans = (1/2) * m * v^2, where m is the mass and v is the center of mass velocity. The rotational kinetic energy is given by KE_rot = (1/2) * I * ω^2, where I is the moment of inertia and ω is the angular velocity. For a solid sphere, I = (2/5) * m * R^2. Since the sphere is rolling without slipping, v = ω * R. Substituting this into the rotational kinetic energy equation, we get KE_rot = (1/2) * (2/5) * m * R^2 * (v^2 / R^2) = (1/5) * m * v^2. The ratio of rotational to translational kinetic energy is then KE_rot / KE_trans = ((1/5) * m * v^2) / ((1/2) * m * v^2) = 2/5."
+}

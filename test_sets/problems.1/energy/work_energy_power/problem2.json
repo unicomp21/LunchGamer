@@ -1,0 +1,11 @@
+{
+  "question": "A 5 kg box is pushed 10 meters across a frictionless horizontal surface by a force of 20 N. How much work is done on the box?",
+  "choices": {
+    "A": "50 J",
+    "B": "100 J",
+    "C": "150 J",
+    "D": "200 J"
+  },
+  "answer": "D",
+  "solution": "Work is defined as the product of force and displacement in the direction of the force. In this case, the force (20 N) and the displacement (10 m) are in the same direction, so the work done is simply their product: W = F × d = 20 N × 10 m = 200 J. Therefore, the correct answer is D: 200 J."
+}

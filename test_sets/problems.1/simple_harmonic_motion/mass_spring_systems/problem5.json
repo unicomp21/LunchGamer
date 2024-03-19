@@ -1,0 +1,11 @@
+{
+  "question": "A 0.5 kg mass is attached to a spring with a spring constant of 200 N/m. The mass is displaced 0.1 m from its equilibrium position and released. What is the maximum speed of the mass?",
+  "choices": {
+    "A": "1 m/s",
+    "B": "2 m/s",
+    "C": "4 m/s",
+    "D": "6 m/s"
+  },
+  "answer": "B",
+  "solution": "The maximum speed occurs when the mass passes through the equilibrium position. At this point, all the potential energy (PE) is converted to kinetic energy (KE). We can calculate the maximum speed using conservation of energy.\n\nAt the initial displaced position, PE = (1/2)kx^2, where k is the spring constant and x is the displacement. So PE = (1/2)(200 N/m)(0.1 m)^2 = 1 J.\n\nAt the equilibrium position, KE = (1/2)mv^2, where m is the mass and v is the velocity. Setting this equal to the initial PE:\n(1/2)mv^2 = 1 J\n(1/2)(0.5 kg)v^2 = 1 J\nv^2 = 4 m^2/s^2\nv = 2 m/s\n\nTherefore, the maximum speed of the mass is 2 m/s."
+}

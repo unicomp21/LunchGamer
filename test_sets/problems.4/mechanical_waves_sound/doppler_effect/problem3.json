@@ -1,0 +1,11 @@
+{
+  "question": "A stationary observer hears a police car siren at a frequency of 440 Hz. The police car is moving towards the observer at a speed of 30 m/s. If the speed of sound is 340 m/s, what frequency does the observer hear as the police car approaches?",
+  "choices": {
+    "A": "415 Hz",
+    "B": "440 Hz",
+    "C": "467 Hz",
+    "D": "478 Hz"
+  },
+  "answer": "D",
+  "solution": "The Doppler effect formula for an observer and source moving towards each other is f_o = f_s * ((v + v_o) / (v - v_s)), where f_o is the observed frequency, f_s is the source frequency, v is the speed of sound, v_o is the observer's speed (0 in this case), and v_s is the source speed. Plugging in the values, we get: f_o = 440 Hz * ((340 m/s + 0 m/s) / (340 m/s - 30 m/s)) ≈ 478 Hz. Therefore, the observer hears a frequency of 478 Hz as the police car approaches."
+}

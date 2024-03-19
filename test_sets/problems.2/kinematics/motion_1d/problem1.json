@@ -1,0 +1,11 @@
+{
+  "question": "A ball is thrown straight up with an initial velocity of 25 m/s. Approximately how high does the ball go, assuming negligible air resistance? (Take g = 9.8 m/s^2)",
+  "choices": {
+    "A": "12.8 m",
+    "B": "25.0 m",
+    "C": "31.9 m",
+    "D": "62.5 m"
+  },
+  "answer": "C",
+  "solution": "We can use the equation v_f^2 = v_i^2 + 2aΔx, where v_f is the final velocity (0 m/s at the highest point), v_i is the initial velocity (25 m/s), a is the acceleration due to gravity (-9.8 m/s^2), and Δx is the displacement (height). Rearranging the equation, we get: Δx = (v_f^2 - v_i^2) / (2a). Plugging in the values, we have: Δx = (0^2 - 25^2) / (2 * -9.8) ≈ 31.9 m. Therefore, the ball reaches a height of approximately 31.9 meters."
+}

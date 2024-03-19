@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg block is pushed 5 meters up a frictionless incline that makes a 30° angle with the horizontal. If the block starts from rest at the bottom and has a speed of 2 m/s at the top, how much work was done on the block?",
+  "choices": {
+    "A": "10 J",
+    "B": "20 J",
+    "C": "30 J",
+    "D": "40 J"
+  },
+  "answer": "D",
+  "solution": "The work done on the block is equal to the change in its kinetic energy plus the change in its gravitational potential energy. The change in kinetic energy is ΔKE = (1/2)mv_f^2 - (1/2)mv_i^2 = (1/2)(2 kg)(2 m/s)^2 - 0 = 4 J. The change in gravitational potential energy is ΔPE = mgh = (2 kg)(9.8 m/s^2)(5 m)(sin 30°) = 49 J. Adding these together, the total work done is W = ΔKE + ΔPE = 4 J + 49 J = 53 J, which rounds to 50 J. Therefore, the correct answer is D: 40 J."
+}

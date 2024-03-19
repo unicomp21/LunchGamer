@@ -1,0 +1,11 @@
+{
+  "question": "A simple pendulum consists of a 2.0 kg mass suspended by a 1.5 m long string. If the pendulum is displaced by a small angle from its equilibrium position and released, what is the period of its oscillation? (Assume g = 9.8 m/s^2)",
+  "choices": {
+    "A": "0.78 s",
+    "B": "1.2 s",
+    "C": "2.4 s",
+    "D": "3.1 s"
+  },
+  "answer": "C",
+  "solution": "The period of a simple pendulum is given by the formula T = 2π√(L/g), where L is the length of the pendulum and g is the acceleration due to gravity. Substituting the values, we get:\n\nT = 2π√(1.5 m / 9.8 m/s^2)\nT ≈ 2π√(0.153)\nT ≈ 2π(0.391)\nT ≈ 2.46 s\n\nThe closest answer choice is C, 2.4 s. Note that the mass of the pendulum does not affect its period."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A resistor is connected to a battery with a voltage of 9 V. If the current flowing through the resistor is 0.5 A, what is the resistance of the resistor?",
+  "choices": {
+    "A": "4.5 Ω",
+    "B": "9 Ω",
+    "C": "18 Ω",
+    "D": "27 Ω"
+  },
+  "answer": "C",
+  "solution": "According to Ohm's law, the resistance (R) is equal to the voltage (V) divided by the current (I), or R = V / I. In this case, the voltage is 9 V and the current is 0.5 A. Therefore, the resistance is R = 9 V / 0.5 A = 18 Ω."
+}

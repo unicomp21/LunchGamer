@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg block is lifted vertically 5 meters at a constant speed. If the acceleration due to gravity is 9.8 m/s^2, how much work is done on the block?",
+  "choices": {
+    "A": "19.6 J",
+    "B": "49.0 J",
+    "C": "98.0 J",
+    "D": "196.0 J"
+  },
+  "answer": "C",
+  "solution": "The work done on the block can be calculated using the formula W = Fd, where F is the force applied and d is the displacement. In this case, the force is equal to the weight of the block, which is given by F = mg, where m is the mass (2 kg) and g is the acceleration due to gravity (9.8 m/s^2). Therefore, F = 2 kg × 9.8 m/s^2 = 19.6 N. The displacement is the vertical distance the block is lifted, which is 5 meters. Thus, the work done is W = 19.6 N × 5 m = 98.0 J."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "In the circuit shown, R1 = 10 Ω, R2 = 20 Ω, and R3 = 30 Ω. The current through the 20 Ω resistor is 0.5 A. What is the voltage of the battery?",
+  "choices": {
+    "A": "10 V",
+    "B": "15 V",
+    "C": "20 V",
+    "D": "30 V"
+  },
+  "answer": "C",
+  "solution": "Using Kirchhoff's current law, the current through R1 and R3 must sum to the current through R2. Let the current through R1 be I1 and through R3 be I3. Then I1 + 0.5 A + I3 = 0.5 A, so I1 = I3. \nUsing Kirchhoff's voltage law, the voltage drops across the resistors must sum to the battery voltage V. So V - 10I1 - 20(0.5) - 30I3 = 0. \nSubstituting I1 = I3 and solving, we get: \nV - 10I1 - 10 - 30I1 = 0\nV - 40I1 = 10\nThe current through R1 doesn't matter for this question. The voltage drop across R2 is 20(0.5) = 10 V. So the battery voltage must be 10 V higher, which is 20 V. Therefore, the correct answer is C."
+}

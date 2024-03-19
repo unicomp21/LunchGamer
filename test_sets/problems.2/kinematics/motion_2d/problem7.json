@@ -1,0 +1,11 @@
+{
+  "question": "A ball is kicked with an initial velocity of 20 m/s at an angle of 30° above the horizontal. Neglecting air resistance, what is the maximum height reached by the ball? (Take g = 10 m/s^2)",
+  "choices": {
+    "A": "5.0 m",
+    "B": "7.5 m",
+    "C": "10.0 m",
+    "D": "12.5 m"
+  },
+  "answer": "A",
+  "solution": "To find the maximum height, we use the equation: h = (v_y0^2) / (2g), where v_y0 is the initial vertical velocity and g is the acceleration due to gravity.\n\nFirst, we find v_y0 using the given angle: v_y0 = v0 * sin(θ) = 20 m/s * sin(30°) = 10 m/s.\n\nNow, we can calculate the maximum height: h = (10 m/s)^2 / (2 * 10 m/s^2) = 100 / 20 = 5.0 m.\n\nTherefore, the correct answer is A: 5.0 m."
+}

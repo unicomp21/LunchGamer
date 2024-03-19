@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg block initially at rest on a frictionless horizontal surface is pulled by a 10 N force acting at an angle of 30° above the horizontal. What is the acceleration of the block?",
+  "choices": {
+    "A": "3.0 m/s^2",
+    "B": "4.3 m/s^2",
+    "C": "5.0 m/s^2",
+    "D": "8.7 m/s^2"
+  },
+  "answer": "B",
+  "solution": "The horizontal component of the force is F_x = 10 N × cos(30°) ≈ 8.66 N. By Newton's Second Law, the acceleration is a = F_net / m. Since the surface is frictionless, the net force is equal to F_x. Thus, a = 8.66 N / 2 kg ≈ 4.3 m/s^2."
+}

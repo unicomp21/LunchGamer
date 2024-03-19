@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg ball is dropped from a height of 5 meters. Assuming negligible air resistance, what is the speed of the ball just before it hits the ground?",
+  "choices": {
+    "A": "5 m/s",
+    "B": "10 m/s",
+    "C": "20 m/s",
+    "D": "25 m/s"
+  },
+  "answer": "B",
+  "solution": "Using the work-energy theorem, we know that the change in the ball's kinetic energy (ΔKE) is equal to the work done by gravity (W). The ball starts from rest, so its initial kinetic energy is zero. The work done by gravity is the product of the ball's weight (mg) and the height (h) it falls. Thus, ΔKE = W = mgh.\n\nGiven:\nm = 2 kg\nh = 5 m\ng = 9.8 m/s^2\n\nΔKE = mgh = (2 kg)(9.8 m/s^2)(5 m) = 98 J\n\nNow, we can use the kinetic energy formula, KE = (1/2)mv^2, to find the ball's speed just before hitting the ground. Since the final kinetic energy is 98 J:\n\n98 J = (1/2)(2 kg)v^2\n\nSolving for v:\nv = √(2 × 98 J ÷ 2 kg) = √98 m^2/s^2 ≈ 9.9 m/s\n\nTherefore, the speed of the ball just before it hits the ground is approximately 10 m/s."
+}

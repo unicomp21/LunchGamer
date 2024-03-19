@@ -1,0 +1,11 @@
+{
+  "question": "A uniform circular disk of mass 5 kg and radius 0.5 m is free to rotate about an axis through its center. A constant tangential force of 10 N is applied to the edge of the disk. What is the angular acceleration of the disk?",
+  "choices": {
+    "A": "1 rad/s^2",
+    "B": "2 rad/s^2",
+    "C": "4 rad/s^2",
+    "D": "8 rad/s^2"
+  },
+  "answer": "C",
+  "solution": "The moment of inertia of a uniform circular disk is given by I = (1/2) * m * r^2, where m is the mass and r is the radius. For the given disk, I = (1/2) * 5 kg * (0.5 m)^2 = 0.625 kg·m^2. The torque applied by the tangential force is τ = F * r = 10 N * 0.5 m = 5 N·m. Using the rotational analog of Newton's second law, τ = I * α, where α is the angular acceleration. Solving for α, we get α = τ / I = 5 N·m / 0.625 kg·m^2 = 8 rad/s^2. Therefore, the correct answer is C."
+}

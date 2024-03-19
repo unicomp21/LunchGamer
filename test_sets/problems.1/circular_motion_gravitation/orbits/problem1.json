@@ -1,0 +1,11 @@
+{
+  "question": "A satellite of mass m orbits a planet of mass M at a radius R. If the radius of the orbit is doubled while the mass of the planet remains constant, what happens to the satellite's orbital speed?",
+  "choices": {
+    "A": "It becomes 4 times faster",
+    "B": "It becomes 2 times faster",
+    "C": "It becomes $\\sqrt{2}$ times faster",
+    "D": "It becomes $\\frac{1}{\\sqrt{2}}$ times as fast"
+  },
+  "answer": "D",
+  "solution": "The orbital speed of a satellite is given by $v = \\sqrt{\\frac{GM}{R}}$, where G is the gravitational constant, M is the mass of the planet, and R is the radius of the orbit. If the radius is doubled (2R), then the new orbital speed will be $v_{new} = \\sqrt{\\frac{GM}{2R}} = \\sqrt{\\frac{1}{2}}\\sqrt{\\frac{GM}{R}} = \\frac{1}{\\sqrt{2}}v$. Therefore, the orbital speed will become $\\frac{1}{\\sqrt{2}}$ times as fast when the orbital radius is doubled."
+}

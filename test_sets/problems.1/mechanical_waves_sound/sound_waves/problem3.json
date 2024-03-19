@@ -1,0 +1,11 @@
+{
+  "question": "A sound wave traveling through air at 343 m/s has a frequency of 2.5 kHz. What is the wavelength of this sound wave?",
+  "choices": {
+    "A": "0.0686 m",
+    "B": "0.1372 m",
+    "C": "0.0343 m",
+    "D": "0.1715 m"
+  },
+  "answer": "B",
+  "solution": "The wavelength of a wave can be calculated using the wave equation: v = fλ, where v is the wave speed, f is the frequency, and λ is the wavelength. Rearranging the equation to solve for wavelength: λ = v / f. Substituting the given values: λ = 343 m/s / 2500 Hz = 343 m/s / 2500 s^-1 = 0.1372 m. Therefore, the correct answer is B."
+}

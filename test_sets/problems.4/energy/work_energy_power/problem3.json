@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg box is pushed 3 meters across a frictionless horizontal surface by a force of 10 N. How much work is done on the box by the force?",
+  "choices": {
+    "A": "6 J",
+    "B": "20 J",
+    "C": "30 J",
+    "D": "60 J"
+  },
+  "answer": "C",
+  "solution": "Work is calculated using the formula W = F × d × cos(θ), where F is the force, d is the displacement, and θ is the angle between the force and the displacement. In this case, the force and displacement are in the same direction, so θ = 0° and cos(0°) = 1. Therefore, the work done is W = 10 N × 3 m × 1 = 30 J."
+}

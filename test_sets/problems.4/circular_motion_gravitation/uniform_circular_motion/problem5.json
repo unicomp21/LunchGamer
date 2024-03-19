@@ -1,0 +1,11 @@
+{
+  "question": "A satellite of mass 500 kg orbits Earth at a constant speed in a circular orbit of radius 8000 km. What is the magnitude of the centripetal force acting on the satellite? (Take the mass of Earth as 6.0 × 10^24 kg and the gravitational constant G as 6.67 × 10^-11 N⋅m^2/kg^2)",
+  "choices": {
+    "A": "2.6 × 10^3 N",
+    "B": "3.1 × 10^3 N",
+    "C": "4.2 × 10^3 N",
+    "D": "5.2 × 10^3 N"
+  },
+  "answer": "B",
+  "solution": "For uniform circular motion, the centripetal force is provided by gravity. Using Newton's law of universal gravitation, F = GMm/r^2, where G is the gravitational constant, M is the mass of Earth, m is the mass of the satellite, and r is the orbital radius. Plugging in the given values, we get:\n\nF = (6.67 × 10^-11 N⋅m^2/kg^2) × (6.0 × 10^24 kg) × (500 kg) / (8000 km)^2\n  = (6.67 × 10^-11) × (6.0 × 10^24) × (500) / (8.0 × 10^6)^2\n  = (2.0 × 10^14) / (6.4 × 10^13)\n  ≈ 3.125 × 10^3 N\n\nTherefore, the magnitude of the centripetal force acting on the satellite is approximately 3.1 × 10^3 N, which corresponds to choice B."
+}

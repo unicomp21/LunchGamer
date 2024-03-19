@@ -1,0 +1,11 @@
+{
+  "question": "A uniform rod of length 2 m and mass 5 kg is pivoted at its center. Two forces, each of magnitude 10 N, are applied perpendicular to the rod on opposite ends. What is the magnitude of the net torque on the rod?",
+  "choices": {
+    "A": "0 N·m",
+    "B": "5 N·m",
+    "C": "10 N·m",
+    "D": "20 N·m"
+  },
+  "answer": "D",
+  "solution": "The torque due to each force can be calculated using the formula τ = r × F, where r is the distance from the pivot to the point where the force is applied, and F is the force. The distance from the pivot to each end of the rod is half the length of the rod, which is 1 m. The magnitude of each torque is: τ = (1 m) × (10 N) = 10 N·m. Since the forces are applied in the same direction (both clockwise or both counterclockwise), the net torque is the sum of the individual torques: τ_net = 10 N·m + 10 N·m = 20 N·m."
+}

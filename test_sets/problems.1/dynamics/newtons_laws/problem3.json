@@ -1,0 +1,11 @@
+{
+  "question": "A force of 20 N is applied to a 5 kg mass on a frictionless horizontal surface. What is the acceleration of the mass?",
+  "choices": {
+    "A": "1 m/s^2",
+    "B": "2 m/s^2",
+    "C": "4 m/s^2",
+    "D": "10 m/s^2"
+  },
+  "answer": "C",
+  "solution": "According to Newton's Second Law, the acceleration of an object is equal to the net force acting on it divided by its mass: a = F / m. In this case, the net force is the applied force of 20 N, and the mass is 5 kg. Substituting these values into the equation, we get a = 20 N / 5 kg = 4 m/s^2. Therefore, the correct answer is C."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "Two resistors with resistances of 10 Ω and 20 Ω are connected in parallel to a 12 V battery. What is the total current flowing through the circuit?",
+  "choices": {
+    "A": "0.4 A",
+    "B": "1.2 A",
+    "C": "2.0 A",
+    "D": "3.2 A"
+  },
+  "answer": "C",
+  "solution": "In a parallel circuit, the total resistance can be found using the formula 1/Rtotal = 1/R1 + 1/R2. Substituting the given values, we get 1/Rtotal = 1/10 Ω + 1/20 Ω, which simplifies to 1/Rtotal = 3/20 Ω. Taking the reciprocal of both sides, Rtotal = 20/3 Ω ≈ 6.67 Ω. Using Ohm's law, I = V/R, we can find the total current: I = 12 V / (20/3 Ω) = 1.8 A, which rounds to 2.0 A. Therefore, the correct answer is C."
+}

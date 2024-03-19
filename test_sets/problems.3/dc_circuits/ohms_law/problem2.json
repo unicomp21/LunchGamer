@@ -1,0 +1,11 @@
+{
+  "question": "A circuit consists of a 12 V battery connected to a 4 Ω resistor and a 6 Ω resistor in series. What is the current flowing through the 4 Ω resistor?",
+  "choices": {
+    "A": "0.5 A",
+    "B": "1.0 A",
+    "C": "1.2 A",
+    "D": "1.5 A"
+  },
+  "answer": "C",
+  "solution": "In a series circuit, the current is the same through all components. The total resistance is the sum of the individual resistances: R_total = 4 Ω + 6 Ω = 10 Ω. Using Ohm's law, V = IR, the current can be calculated as I = V / R_total = 12 V / 10 Ω = 1.2 A. Therefore, the current flowing through the 4 Ω resistor is also 1.2 A."
+}

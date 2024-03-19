@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg block is pushed 5 meters up a frictionless incline that makes a 30° angle with the horizontal. How much work is done on the block? (Take g = 10 m/s^2)",
+  "choices": {
+    "A": "50 J",
+    "B": "100 J",
+    "C": "50 N",
+    "D": "100 N"
+  },
+  "answer": "A",
+  "solution": "The work done on the block is equal to the change in its gravitational potential energy. The change in height is Δh = 5 m × sin(30°) = 2.5 m. The change in gravitational potential energy is ΔU = mgΔh = (2 kg) × (10 m/s^2) × (2.5 m) = 50 J. Therefore, the work done on the block is 50 J."
+}

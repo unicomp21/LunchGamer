@@ -1,0 +1,11 @@
+{
+  "question": "Two spherical objects, each with mass M, are separated by a distance r. What is the magnitude of the gravitational force between them?",
+  "choices": {
+    "A": "F = GMm / r",
+    "B": "F = GM^2 / r^2",
+    "C": "F = GMm / r^2",
+    "D": "F = GM^2 / r"
+  },
+  "answer": "B",
+  "solution": "Newton's law of universal gravitation states that the magnitude of the gravitational force between two objects is given by F = GM₁M₂ / r², where G is the gravitational constant, M₁ and M₂ are the masses of the two objects, and r is the distance between their centers. In this case, both objects have mass M, so the force magnitude is F = G(M)(M) / r² = GM² / r²."
+}

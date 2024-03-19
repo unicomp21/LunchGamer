@@ -1,0 +1,11 @@
+{
+  "question": "A 5 kg box initially at rest slides down a frictionless 3 m long ramp inclined at an angle of 30° above the horizontal. What is the speed of the box when it reaches the bottom of the ramp? (Take g = 10 m/s^2)",
+  "choices": {
+    "A": "3 m/s",
+    "B": "4 m/s",
+    "C": "5 m/s",
+    "D": "6 m/s"
+  },
+  "answer": "B",
+  "solution": "Using the work-energy theorem, the change in kinetic energy equals the net work done on the box. The only force doing work is gravity. The work done by gravity is W = mgΔh, where Δh is the vertical height change. With the ramp length of 3 m and angle of 30°, Δh = 3sin(30°) = 1.5 m. The change in kinetic energy is ΔKE = (1/2)mv^2 - 0 = (1/2)mv^2 (as initial velocity is zero). Setting this equal to the work done by gravity: (1/2)mv^2 = mgΔh. Solving for v: v = sqrt(2gΔh) = sqrt(2 * 10 * 1.5) = 4 m/s."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg ball moving at 5 m/s to the right collides head-on with a 3 kg ball that is initially at rest. After the collision, the 2 kg ball moves at 2 m/s to the right. What is the velocity of the 3 kg ball after the collision?",
+  "choices": {
+    "A": "1 m/s to the left",
+    "B": "2 m/s to the left",
+    "C": "3 m/s to the right",
+    "D": "4 m/s to the right"
+  },
+  "answer": "D",
+  "solution": "Using conservation of linear momentum, the initial momentum of the system (p_i) equals the final momentum (p_f). The initial momentum is (2 kg)(5 m/s) = 10 kg⋅m/s to the right. Let v be the velocity of the 3 kg ball after collision. The final momentum is (2 kg)(2 m/s) + (3 kg)(v). Setting these equal: 10 kg⋅m/s = 4 kg⋅m/s + 3v kg⋅m/s. Solving for v, we get v = 2 m/s. The positive value indicates the 3 kg ball moves to the right after the collision. Thus, the correct answer is D: 4 m/s to the right."
+}

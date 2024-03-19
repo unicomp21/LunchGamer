@@ -1,0 +1,11 @@
+{
+  "question": "Two small charged spheres are separated by a distance of 0.5 meters. If the magnitude of the force between them is 0.36 N and the charge on one sphere is +2 μC, what is the charge on the other sphere?",
+  "choices": {
+    "A": "-6 μC",
+    "B": "-3 μC",
+    "C": "+3 μC",
+    "D": "+6 μC"
+  },
+  "answer": "B",
+  "solution": "Using Coulomb's law, F = k * |q1| * |q2| / r^2, where F is the force, k is Coulomb's constant (8.99 × 10^9 N⋅m^2/C^2), q1 and q2 are the charges on the spheres, and r is the distance between them. Rearranging the equation to solve for q2, we get: q2 = (F * r^2) / (k * |q1|). Substituting the given values, q2 = (0.36 N * (0.5 m)^2) / (8.99 × 10^9 N⋅m^2/C^2 * 2 × 10^-6 C) = -3 × 10^-6 C = -3 μC. Therefore, the charge on the other sphere is -3 μC."
+}

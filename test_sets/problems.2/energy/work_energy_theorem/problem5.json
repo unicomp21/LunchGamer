@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg block is pushed 3 meters up a frictionless incline by a force of 20 N parallel to the incline. If the block starts from rest, what is its speed at the top of the incline?",
+  "choices": {
+    "A": "3 m/s",
+    "B": "4 m/s",
+    "C": "5 m/s",
+    "D": "6 m/s"
+  },
+  "answer": "C",
+  "solution": "The work-energy theorem states that the net work done on an object is equal to the change in its kinetic energy. The work done by the force is W = Fd = 20 N × 3 m = 60 J. Since the incline is frictionless, this is the net work. The change in kinetic energy is ΔKE = (1/2)mv² - (1/2)mv₀², where v₀ is the initial velocity (zero in this case). Setting the net work equal to the change in kinetic energy: 60 J = (1/2)(2 kg)v² - 0. Solving for v, we get v = √(60 J / (1 kg)) = √(60 m²/s²) ≈ 5 m/s."
+}

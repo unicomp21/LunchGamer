@@ -1,0 +1,11 @@
+{
+  "question": "A solid cylinder of mass 2 kg and radius 0.5 m rotates about its central axis with an angular acceleration of 4 rad/s^2. What is the magnitude of the net torque acting on the cylinder?",
+  "choices": {
+    "A": "0.25 N·m",
+    "B": "0.5 N·m",
+    "C": "1 N·m",
+    "D": "2 N·m"
+  },
+  "answer": "C",
+  "solution": "The moment of inertia of a solid cylinder about its central axis is given by I = (1/2) * m * r^2, where m is the mass and r is the radius. Substituting the given values, we get I = (1/2) * 2 kg * (0.5 m)^2 = 0.25 kg·m^2. The net torque is related to the moment of inertia and angular acceleration by the equation τ = I * α, where τ is the net torque, I is the moment of inertia, and α is the angular acceleration. Substituting the values, we get τ = 0.25 kg·m^2 * 4 rad/s^2 = 1 N·m. Therefore, the magnitude of the net torque acting on the cylinder is 1 N·m."
+}

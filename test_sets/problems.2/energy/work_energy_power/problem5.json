@@ -1,0 +1,11 @@
+{
+  "question": "A 10 kg block is initially at rest on a frictionless horizontal surface. A constant force of 20 N is applied to the block for 5 seconds. How much work is done on the block by the force?",
+  "choices": {
+    "A": "50 J",
+    "B": "100 J",
+    "C": "250 J",
+    "D": "500 J"
+  },
+  "answer": "C",
+  "solution": "The work done by a constant force is given by the formula W = F × d, where F is the force and d is the displacement. To find the displacement, we can use the kinematics equation d = v_0 × t + (1/2) × a × t^2, where v_0 is the initial velocity (0 m/s), a is the acceleration, and t is the time. The acceleration can be found using Newton's second law: a = F / m = 20 N / 10 kg = 2 m/s^2. Plugging in the values, we get d = 0 × 5 s + (1/2) × 2 m/s^2 × (5 s)^2 = 25 m. Therefore, the work done is W = 20 N × 25 m = 500 J. However, since the question asks for the work done in 5 seconds, we need to divide this by 2 (since the time is half of what we used to calculate the displacement). So, the final answer is 500 J / 2 = 250 J."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "Two objects with masses m1 and m2 are separated by a distance r. If the mass of each object is doubled and the distance between them is halved, the gravitational force between the objects will be:",
+  "choices": {
+    "A": "the same",
+    "B": "twice as large",
+    "C": "four times as large",
+    "D": "eight times as large"
+  },
+  "answer": "D",
+  "solution": "According to Newton's law of gravitation, the force of gravity between two objects is given by F = G * (m1 * m2) / r^2, where G is the gravitational constant, m1 and m2 are the masses of the objects, and r is the distance between their centers. If the masses are doubled, the force will increase by a factor of 4 (2^2). If the distance is halved, the force will increase by another factor of 4 (1/2)^(-2). Therefore, the overall change in the gravitational force will be an increase by a factor of 4 * 4 = 16. Since 8 is the closest answer choice to 16, the correct answer is D."
+}

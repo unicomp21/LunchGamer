@@ -1,0 +1,11 @@
+{
+  "question": "A ball is thrown horizontally with an initial speed of 20 m/s from the top of a cliff that is 125 m high. Approximately how far from the base of the cliff will the ball land? (Assume negligible air resistance and use g = 9.8 m/s^2)",
+  "choices": {
+    "A": "51 m",
+    "B": "71 m",
+    "C": "102 m",
+    "D": "142 m"
+  },
+  "answer": "C",
+  "solution": "1. Recognize that the horizontal and vertical motions are independent.\n2. For the horizontal motion, use the formula x = v₀t, where v₀ is the initial horizontal speed and t is the time.\n3. For the vertical motion, use the formula y = (1/2)gt², where g is the acceleration due to gravity and t is the time. We also know the initial height, y₀ = 125 m.\n4. To find the time, use the vertical motion equation: 125 = (1/2)(9.8)t², solve for t. This gives t ≈ 5.05 s.\n5. Now, use the time in the horizontal motion equation: x = (20 m/s)(5.05 s) ≈ 101 m.\nTherefore, the ball will land approximately 102 m (rounding to the nearest answer choice) from the base of the cliff."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A stationary observer hears a siren from an ambulance traveling towards them. If the speed of sound is 340 m/s, the siren's frequency is 400 Hz, and the ambulance is moving at 30 m/s, what frequency does the observer hear?",
+  "choices": {
+    "A": "365 Hz",
+    "B": "400 Hz",
+    "C": "435 Hz",
+    "D": "470 Hz"
+  },
+  "answer": "C",
+  "solution": "The Doppler effect formula for a moving source and stationary observer is f_obs = f_src * (v_sound / (v_sound - v_src)), where f_obs is the observed frequency, f_src is the source frequency, v_sound is the speed of sound, and v_src is the speed of the source. Substituting the given values: f_obs = 400 Hz * (340 m/s / (340 m/s - 30 m/s)) ≈ 435 Hz. Therefore, the observer hears a frequency of approximately 435 Hz."
+}

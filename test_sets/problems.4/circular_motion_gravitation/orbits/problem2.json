@@ -1,0 +1,11 @@
+{
+  "question": "A satellite orbits a planet in a circular orbit. If the radius of the orbit is doubled while the mass of the planet remains the same, how does the orbital period change?",
+  "choices": {
+    "A": "The period is multiplied by √2",
+    "B": "The period is multiplied by 2",
+    "C": "The period is multiplied by 2√2",
+    "D": "The period is multiplied by 4"
+  },
+  "answer": "C",
+  "solution": "The orbital period T of a satellite in a circular orbit is given by the formula T = 2π√(r³/GM), where r is the orbital radius, G is the gravitational constant, and M is the mass of the planet. If the radius is doubled (2r), the period becomes T_new = 2π√((2r)³/GM) = 2π√(8r³/GM) = 2π√8√(r³/GM) = 2√2 · 2π√(r³/GM) = 2√2 · T. Therefore, doubling the orbital radius multiplies the period by 2√2 (approximately 2.83)."
+}

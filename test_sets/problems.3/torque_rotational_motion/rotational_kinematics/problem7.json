@@ -1,0 +1,11 @@
+{
+  "question": "A solid cylinder of mass 5 kg and radius 0.2 m starts from rest and rotates with a constant angular acceleration of 2 rad/s^2. What is the angular velocity of the cylinder after 3 seconds?",
+  "choices": {
+    "A": "3 rad/s",
+    "B": "4 rad/s",
+    "C": "6 rad/s",
+    "D": "12 rad/s"
+  },
+  "answer": "C",
+  "solution": "The angular velocity can be found using the rotational kinematics equation ω = ω_0 + αt, where ω is the final angular velocity, ω_0 is the initial angular velocity (0 in this case), α is the angular acceleration (2 rad/s^2), and t is the time interval (3 s). Plugging in the values, we get:\n\nω = 0 + (2 rad/s^2)(3 s)\nω = 6 rad/s\n\nTherefore, the correct answer is C: 6 rad/s."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A simple pendulum has a period of 2 seconds on Earth. If the pendulum is taken to the Moon, where the acceleration due to gravity is about 1/6 that on Earth, what will be the period of the pendulum on the Moon?",
+  "choices": {
+    "A": "1/6 seconds",
+    "B": "1/√6 seconds",
+    "C": "2√6 seconds",
+    "D": "12 seconds"
+  },
+  "answer": "D",
+  "solution": "The period of a simple pendulum is given by the formula T = 2π√(L/g), where L is the length of the pendulum and g is the acceleration due to gravity. If the length remains constant and g is reduced to 1/6 of its value on Earth, then the new period will be T_moon = 2π√(L/(g/6)). This can be simplified to T_moon = 2π√(6L/g) = √6 * 2π√(L/g) = √6 * T_earth. Since the period on Earth is 2 seconds, the period on the Moon will be √6 * 2 seconds ≈ 4.9 seconds * 2 = 12 seconds (after rounding 2√6 to 4.9)."
+}

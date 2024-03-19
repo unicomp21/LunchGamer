@@ -1,0 +1,11 @@
+{
+  "question": "A 5 kg box is pushed 3 meters across a frictionless horizontal surface by a force of 10 N. If the box starts from rest, what is its final speed?",
+  "choices": {
+    "A": "1.0 m/s",
+    "B": "2.0 m/s",
+    "C": "2.4 m/s",
+    "D": "3.0 m/s"
+  },
+  "answer": "C",
+  "solution": "The work-energy theorem states that the net work done on an object is equal to the change in its kinetic energy. In this case, the net work is done by the 10 N force over a distance of 3 meters, so: W = F × d = 10 N × 3 m = 30 J. The change in kinetic energy is equal to the final kinetic energy (since the initial kinetic energy is zero due to the box starting at rest). Using the kinetic energy formula, KE = (1/2) × m × v^2, we can set up the equation: 30 J = (1/2) × 5 kg × v^2. Solving for v, we get: v = √(2 × 30 J ÷ 5 kg) = √(12 m^2/s^2) ≈ 2.4 m/s. Therefore, the correct answer is C."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A 5 kg block is pushed along a frictionless horizontal surface with a force of 20 N. What is the acceleration of the block?",
+  "choices": {
+    "A": "1 m/s^2",
+    "B": "2 m/s^2",
+    "C": "4 m/s^2",
+    "D": "5 m/s^2"
+  },
+  "answer": "C",
+  "solution": "According to Newton's second law of motion, the acceleration (a) of an object is directly proportional to the net force (F) acting on it and inversely proportional to its mass (m). The formula is a = F / m. In this problem, the net force is 20 N (the pushing force, as the surface is frictionless), and the mass is 5 kg. By substituting these values, we get: a = 20 N / 5 kg = 4 m/s^2. Therefore, the correct answer is C: 4 m/s^2."
+}

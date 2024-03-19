@@ -1,0 +1,11 @@
+{
+  "question": "A stationary observer hears a sound with a frequency of 440 Hz emitted by a source moving towards the observer at a speed of 20 m/s. If the speed of sound in air is 340 m/s, what frequency does the observer hear?",
+  "choices": {
+    "A": "415 Hz",
+    "B": "440 Hz",
+    "C": "467 Hz",
+    "D": "495 Hz"
+  },
+  "answer": "C",
+  "solution": "The Doppler effect equation for a moving source and stationary observer is f_observed = f_source * (v_sound / (v_sound - v_source)), where f_observed is the frequency heard by the observer, f_source is the original frequency of the source, v_sound is the speed of sound, and v_source is the speed of the source relative to the observer. Plugging in the given values, we get: f_observed = 440 Hz * (340 m/s / (340 m/s - 20 m/s)) ≈ 467 Hz. Therefore, the observer hears a frequency of approximately 467 Hz."
+}

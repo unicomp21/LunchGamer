@@ -1,0 +1,11 @@
+{
+  "question": "Two waves traveling in the same medium have frequencies of 200 Hz and 250 Hz, respectively. If the wavelength of the 200 Hz wave is 1.5 m, what is the wavelength of the 250 Hz wave?",
+  "choices": {
+    "A": "0.8 m",
+    "B": "1.0 m",
+    "C": "1.2 m",
+    "D": "1.5 m"
+  },
+  "answer": "C",
+  "solution": "The speed of a wave can be found using the formula v = fλ, where v is the wave speed, f is the frequency, and λ is the wavelength. Since both waves are traveling in the same medium, they have the same wave speed. Let's call this speed v. For the 200 Hz wave: v = 200 Hz × 1.5 m = 300 m/s. Now, using the same speed for the 250 Hz wave, we can find its wavelength: 300 m/s = 250 Hz × λ. Solving for λ, we get: λ = 300 m/s ÷ 250 Hz = 1.2 m. Therefore, the wavelength of the 250 Hz wave is 1.2 m."
+}

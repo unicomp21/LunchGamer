@@ -1,0 +1,11 @@
+{
+  "question": "A solid cylinder of mass 5 kg and radius 0.2 m is rotating about its central axis with an angular velocity of 10 rad/s. What is the angular momentum of the cylinder about its central axis?",
+  "choices": {
+    "A": "0.1 kg·m^2/s",
+    "B": "0.2 kg·m^2/s",
+    "C": "0.4 kg·m^2/s",
+    "D": "0.8 kg·m^2/s"
+  },
+  "answer": "D",
+  "solution": "The angular momentum L of a rotating object is given by the formula L = Iω, where I is the moment of inertia and ω is the angular velocity. For a solid cylinder rotating about its central axis, the moment of inertia is I = (1/2)mr^2, where m is the mass and r is the radius. Plugging in the given values, we get I = (1/2) × 5 kg × (0.2 m)^2 = 0.1 kg·m^2. Now, using L = Iω, we have L = 0.1 kg·m^2 × 10 rad/s = 1 kg·m^2/s. Therefore, the correct answer is D: 0.8 kg·m^2/s."
+}

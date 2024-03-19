@@ -1,0 +1,11 @@
+{
+  "question": "A satellite orbits Earth in a circular orbit with a radius of 8000 km. If the mass of Earth is 5.97 × 10^24 kg, what is the orbital speed of the satellite?",
+  "choices": {
+    "A": "5.58 × 10^3 m/s",
+    "B": "6.67 × 10^3 m/s",
+    "C": "7.76 × 10^3 m/s",
+    "D": "8.85 × 10^3 m/s"
+  },
+  "answer": "C",
+  "solution": "For a circular orbit, the centripetal force is provided by the gravitational force. The centripetal acceleration is given by a = v^2 / r, where v is the orbital speed and r is the orbital radius. The gravitational force is given by F = GMm / r^2, where G is the gravitational constant (6.67 × 10^-11 N⋅m^2/kg^2), M is the mass of Earth, and m is the mass of the satellite. Setting these equal, we get: GMm / r^2 = mv^2 / r. Solving for v, we get: v = √(GM / r). Plugging in the values, we have: v = √((6.67 × 10^-11 N⋅m^2/kg^2) × (5.97 × 10^24 kg) / (8000 × 10^3 m)) ≈ 7.76 × 10^3 m/s. Therefore, the correct answer is C."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A solid cylinder with a moment of inertia of 0.5 kg⋅m^2 is initially at rest. A constant torque of 2 N⋅m is applied to the cylinder. After 5 seconds, what is the angular velocity of the cylinder?",
+  "choices": {
+    "A": "2 rad/s",
+    "B": "5 rad/s",
+    "C": "10 rad/s",
+    "D": "20 rad/s"
+  },
+  "answer": "D",
+  "solution": "The angular acceleration (α) can be found using the formula τ = Iα, where τ is the applied torque (2 N⋅m) and I is the moment of inertia (0.5 kg⋅m^2). Solving for α, we get: α = τ / I = 2 N⋅m / 0.5 kg⋅m^2 = 4 rad/s^2. \n\nTo find the angular velocity (ω) after 5 seconds, we use the equation ω = ω_0 + αt, where ω_0 is the initial angular velocity (0 rad/s), α is the angular acceleration (4 rad/s^2), and t is the time (5 s). Plugging in the values: ω = 0 rad/s + (4 rad/s^2)(5 s) = 20 rad/s."
+}

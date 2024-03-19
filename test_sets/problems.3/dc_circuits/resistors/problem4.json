@@ -1,0 +1,11 @@
+{
+  "question": "Two resistors, R1 = 6 Ω and R2 = 3 Ω, are connected in series to a 9 V battery. What is the current flowing through the circuit?",
+  "choices": {
+    "A": "0.5 A",
+    "B": "1 A",
+    "C": "1.5 A",
+    "D": "2 A"
+  },
+  "answer": "B",
+  "solution": "In a series circuit, the total resistance is the sum of the individual resistances: Rtotal = R1 + R2 = 6 Ω + 3 Ω = 9 Ω. Using Ohm's Law, V = IR, we can calculate the current: I = V / R = 9 V / 9 Ω = 1 A. Therefore, the current flowing through the circuit is 1 A."
+}

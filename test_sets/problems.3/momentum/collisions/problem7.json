@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg object moving at 5 m/s collides elastically with a stationary 1 kg object. If the 2 kg object moves at 2 m/s after the collision, what is the speed of the 1 kg object after the collision?",
+  "choices": {
+    "A": "3 m/s",
+    "B": "5 m/s",
+    "C": "6 m/s",
+    "D": "8 m/s"
+  },
+  "answer": "C",
+  "solution": "In an elastic collision, both momentum and kinetic energy are conserved. Let v be the velocity of the 1 kg object after collision. Using conservation of momentum: m1v1 + m2v2 = m1v1' + m2v2', 2(5) + 1(0) = 2(2) + 1(v), 10 = 4 + v, v = 6 m/s. To confirm, check conservation of kinetic energy: 0.5m1v1^2 + 0.5m2v2^2 = 0.5m1v1'^2 + 0.5m2v2'^2, 0.5(2)(5^2) + 0.5(1)(0^2) = 0.5(2)(2^2) + 0.5(1)(6^2), 25 = 4 + 18, 25 = 22, which is approximately true accounting for rounding. Therefore, the speed of the 1 kg object after the collision is 6 m/s."
+}

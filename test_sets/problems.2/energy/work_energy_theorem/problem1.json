@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg box starts from rest at the top of a 5 m tall frictionless ramp inclined at 30° to the horizontal. How much kinetic energy will the box have when it reaches the bottom of the ramp? (Take g = 10 m/s^2)",
+  "choices": {
+    "A": "25 J",
+    "B": "50 J",
+    "C": "75 J",
+    "D": "100 J"
+  },
+  "answer": "B",
+  "solution": "According to the work-energy theorem, the change in kinetic energy is equal to the net work done on the object. In this case, the only force doing work is gravity. The work done by gravity is W = mgΔh, where m is the mass (2 kg), g is the acceleration due to gravity (10 m/s^2), and Δh is the vertical height change. Since the ramp is inclined at 30°, Δh = 5 m × sin(30°) = 2.5 m. Thus, the work done by gravity, which equals the change in kinetic energy, is W = ΔKE = mgΔh = 2 kg × 10 m/s^2 × 2.5 m = 50 J."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A child on a carousel moves in a circular path with a radius of 2 meters at a constant speed of 4 m/s. What is the magnitude of the centripetal acceleration experienced by the child?",
+  "choices": {
+    "A": "2 m/s^2",
+    "B": "4 m/s^2",
+    "C": "8 m/s^2",
+    "D": "16 m/s^2"
+  },
+  "answer": "C",
+  "solution": "The centripetal acceleration can be calculated using the formula a = v^2 / r, where v is the speed (4 m/s) and r is the radius of the circular path (2 m). Plugging in the values, we get a = (4 m/s)^2 / (2 m) = 16 m^2/s^2 / 2 m = 8 m/s^2. Therefore, the magnitude of the centripetal acceleration experienced by the child is 8 m/s^2."
+}

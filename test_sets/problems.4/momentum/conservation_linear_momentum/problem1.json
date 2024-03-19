@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg ball traveling at 5 m/s to the right collides elastically with a stationary 3 kg ball. After the collision, the 2 kg ball moves at 2 m/s to the right. What is the velocity of the 3 kg ball after the collision?",
+  "choices": {
+    "A": "1 m/s to the left",
+    "B": "2 m/s to the left",
+    "C": "3 m/s to the right",
+    "D": "4 m/s to the right"
+  },
+  "answer": "D",
+  "solution": "Using conservation of linear momentum, the total momentum before and after the collision must be equal. Before the collision, the total momentum is (2 kg)(5 m/s) = 10 kg⋅m/s to the right. Let v be the velocity of the 3 kg ball after the collision. After the collision, the total momentum is (2 kg)(2 m/s) + (3 kg)(v) = 4 kg⋅m/s + 3v kg⋅m/s. Setting these equal: 10 kg⋅m/s = 4 kg⋅m/s + 3v kg⋅m/s. Solving for v: 3v = 6, so v = 2 m/s. The positive value indicates the 3 kg ball is moving to the right. Checking the choices, this matches 4 m/s to the right."
+}

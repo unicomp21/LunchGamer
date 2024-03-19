@@ -1,0 +1,11 @@
+{
+  "question": "A uniform rod of length 2.0 m and mass 5.0 kg rotates in the horizontal plane about a vertical axis through its center. If the rod has an angular speed of 3.0 rad/s when the end of the rod is 1.0 m from the axis of rotation, what is the magnitude of the net torque acting on the rod?",
+  "choices": {
+    "A": "0 N·m",
+    "B": "7.5 N·m",
+    "C": "15 N·m",
+    "D": "30 N·m"
+  },
+  "answer": "A",
+  "solution": "Since the rod is rotating at a constant angular speed, the net torque acting on the rod must be zero. This is because torque is related to angular acceleration, not angular velocity. From the rotational form of Newton's second law, τ = Iα, where τ is the net torque, I is the moment of inertia, and α is the angular acceleration. If the angular velocity is constant, the angular acceleration is zero, and thus the net torque must also be zero. Therefore, the correct answer is A: 0 N·m."
+}

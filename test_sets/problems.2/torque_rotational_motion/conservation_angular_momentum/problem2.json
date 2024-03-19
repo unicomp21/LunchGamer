@@ -1,0 +1,11 @@
+{
+  "question": "A figure skater with a moment of inertia of 2 kg⋅m^2 is spinning at an angular velocity of 4 rad/s with her arms extended. When she pulls her arms in, her moment of inertia decreases to 1 kg⋅m^2. What is her new angular velocity, assuming no external torque acts on her?",
+  "choices": {
+    "A": "2 rad/s",
+    "B": "4 rad/s",
+    "C": "6 rad/s",
+    "D": "8 rad/s"
+  },
+  "answer": "D",
+  "solution": "Since no external torque acts on the skater, her angular momentum is conserved. The initial angular momentum is L_i = I_i × ω_i, where I_i is the initial moment of inertia (2 kg⋅m^2) and ω_i is the initial angular velocity (4 rad/s). So, L_i = 2 kg⋅m^2 × 4 rad/s = 8 kg⋅m^2⋅rad/s. The final angular momentum is L_f = I_f × ω_f, where I_f is the final moment of inertia (1 kg⋅m^2) and ω_f is the final angular velocity (unknown). Setting L_i = L_f: 8 kg⋅m^2⋅rad/s = 1 kg⋅m^2 × ω_f. Solving for ω_f: ω_f = 8 kg⋅m^2⋅rad/s ÷ 1 kg⋅m^2 = 8 rad/s."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg ball is thrown directly upward with an initial speed of 10 m/s. If the ball is in contact with the thrower's hand for 0.1 seconds during the throw, what is the magnitude of the average force exerted on the ball by the thrower?",
+  "choices": {
+    "A": "20 N",
+    "B": "50 N",
+    "C": "100 N",
+    "D": "200 N"
+  },
+  "answer": "D",
+  "solution": "The impulse-momentum theorem states that the change in momentum of an object is equal to the impulse applied to it. Impulse (J) is defined as the product of the average force (F) and the time interval (Δt) over which the force acts: J = FΔt. The change in momentum (Δp) is equal to the mass (m) times the change in velocity (Δv): Δp = mΔv. Setting these equal, we get: FΔt = mΔv. The initial velocity is 0 m/s, and the final velocity is 10 m/s, so Δv = 10 m/s. Substituting the known values: F(0.1 s) = (2 kg)(10 m/s). Solving for F, we get: F = (2 kg)(10 m/s) / (0.1 s) = 200 N."
+}

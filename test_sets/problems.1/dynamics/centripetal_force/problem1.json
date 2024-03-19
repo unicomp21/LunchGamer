@@ -1,0 +1,11 @@
+{
+  "question": "A 1.2 kg ball is attached to a string and swung in a horizontal circle with a radius of 0.8 m, making one complete revolution every 1.5 seconds. What is the magnitude of the centripetal force acting on the ball?",
+  "choices": {
+    "A": "2.1 N",
+    "B": "4.2 N",
+    "C": "6.3 N",
+    "D": "8.4 N"
+  },
+  "answer": "C",
+  "solution": "To find the centripetal force, we can use the formula F_c = mv^2 / r. First, we need to calculate the velocity using v = 2πr / T, where r is the radius (0.8 m) and T is the period (1.5 s). \n\nv = 2π(0.8 m) / 1.5 s ≈ 3.35 m/s \n\nNow, we can calculate the centripetal force:\n\nF_c = (1.2 kg)(3.35 m/s)^2 / (0.8 m) ≈ 6.3 N\n\nTherefore, the correct answer is C: 6.3 N."
+}

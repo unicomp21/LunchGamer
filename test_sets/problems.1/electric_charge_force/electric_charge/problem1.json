@@ -1,0 +1,11 @@
+{
+  "question": "Two point charges, q1 and q2, are separated by a distance r. If the magnitude of q1 is doubled and the magnitude of q2 is tripled, while the distance between them is halved, what happens to the magnitude of the electric force between the charges?",
+  "choices": {
+    "A": "The force increases by a factor of 3",
+    "B": "The force increases by a factor of 6",
+    "C": "The force increases by a factor of 12",
+    "D": "The force increases by a factor of 24"
+  },
+  "answer": "D",
+  "solution": "The electric force between two point charges is given by Coulomb's law: F = k * |q1| * |q2| / r^2, where k is Coulomb's constant. If |q1| is doubled (2|q1|) and |q2| is tripled (3|q2|), the numerator becomes 6|q1||q2|. When the distance is halved (r/2), the denominator becomes (r/2)^2 = r^2/4. Thus, the new force is: \nF_new = k * 6|q1||q2| / (r^2/4) \n      = (k * 6|q1||q2| / r^2) * 4 \n      = 24 * (k * |q1||q2| / r^2) \n      = 24 * F_initial\nTherefore, the force increases by a factor of 24."
+}

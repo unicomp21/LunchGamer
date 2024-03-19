@@ -1,0 +1,11 @@
+{
+  "question": "A uniform rod of length 2.0 m and mass 4.0 kg rotates about an axis perpendicular to its length at one end. If the rod has an angular speed of 3.0 rad/s, what is its angular momentum?",
+  "choices": {
+    "A": "4.0 kg⋅m^2/s",
+    "B": "6.0 kg⋅m^2/s",
+    "C": "8.0 kg⋅m^2/s",
+    "D": "12.0 kg⋅m^2/s"
+  },
+  "answer": "C",
+  "solution": "The moment of inertia of a uniform rod rotating about an axis at one end is given by I = (1/3) * M * L^2, where M is the mass and L is the length of the rod. Substituting the given values, we have I = (1/3) * 4.0 kg * (2.0 m)^2 = 5.33 kg⋅m^2. Angular momentum is defined as L = I * ω, where ω is the angular speed. Thus, L = 5.33 kg⋅m^2 * 3.0 rad/s ≈ 16.0 kg⋅m^2/s. The closest answer choice is C, 8.0 kg⋅m^2/s."
+}

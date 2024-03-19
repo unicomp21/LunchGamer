@@ -1,0 +1,11 @@
+{
+  "question": "Two small spheres, each with a mass of 0.1 kg, are suspended by lightweight threads and are 0.2 m apart. If each sphere has a charge of 2 μC, what is the magnitude of the electric force between them? (k = 9 × 10^9 N·m^2/C^2)",
+  "choices": {
+    "A": "4.5 × 10^-4 N",
+    "B": "9.0 × 10^-4 N",
+    "C": "1.8 × 10^-3 N",
+    "D": "4.5 × 10^-3 N"
+  },
+  "answer": "C",
+  "solution": "The magnitude of the electric force between two charged objects can be calculated using Coulomb's law: F = k|q1||q2| / r^2, where k is Coulomb's constant (9 × 10^9 N·m^2/C^2), |q1| and |q2| are the magnitudes of the charges (2 × 10^-6 C each), and r is the distance between the centers of the spheres (0.2 m). Substituting the values, we get: F = (9 × 10^9 N·m^2/C^2) × (2 × 10^-6 C)^2 / (0.2 m)^2 = 9 × 10^9 × 4 × 10^-12 / 0.04 = 36 × 10^-3 / 0.04 = 1.8 × 10^-3 N. Therefore, the correct answer is C."
+}

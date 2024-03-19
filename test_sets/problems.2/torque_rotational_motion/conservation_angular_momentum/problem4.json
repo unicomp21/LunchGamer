@@ -1,0 +1,11 @@
+{
+  "question": "A figure skater with a moment of inertia of 2 kg⋅m^2 is spinning at an angular speed of 3 rad/s with her arms extended. When she pulls her arms in, her moment of inertia decreases to 1 kg⋅m^2. What is her new angular speed, assuming no external torque acts on her?",
+  "choices": {
+    "A": "1.5 rad/s",
+    "B": "3 rad/s",
+    "C": "4.5 rad/s",
+    "D": "6 rad/s"
+  },
+  "answer": "D",
+  "solution": "Since there is no external torque, angular momentum is conserved. Initial angular momentum L1 = I1 × ω1 = 2 kg⋅m^2 × 3 rad/s = 6 kg⋅m^2⋅rad/s. Final angular momentum L2 = I2 × ω2 = 1 kg⋅m^2 × ω2. Setting them equal: 6 kg⋅m^2⋅rad/s = 1 kg⋅m^2 × ω2. Solving for ω2: ω2 = 6 kg⋅m^2⋅rad/s ÷ 1 kg⋅m^2 = 6 rad/s."
+}

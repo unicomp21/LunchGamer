@@ -1,0 +1,11 @@
+{
+  "question": "A ball is thrown horizontally off a cliff with an initial velocity of 10 m/s. If the ball hits the ground 4 seconds later, what is the approximate height of the cliff? (Assume negligible air resistance and g = 9.8 m/s^2)",
+  "choices": {
+    "A": "19.6 m",
+    "B": "39.2 m",
+    "C": "78.4 m",
+    "D": "156.8 m"
+  },
+  "answer": "C",
+  "solution": "In projectile motion, the horizontal and vertical components of motion are independent. The time of flight is given, so we can focus on the vertical motion to find the height of the cliff. The vertical displacement Δy is given by the equation Δy = v_0y * t + (1/2) * a_y * t^2, where v_0y is the initial vertical velocity (0 m/s in this case), a_y is the vertical acceleration (-9.8 m/s^2), and t is the time (4 s). Plugging in the values, we get: Δy = 0 * 4 + (1/2) * (-9.8) * 4^2 = -78.4 m. The negative sign indicates that the ball is below its initial position. Therefore, the approximate height of the cliff is 78.4 m."
+}

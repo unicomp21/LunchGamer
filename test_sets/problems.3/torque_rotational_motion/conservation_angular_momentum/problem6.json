@@ -1,0 +1,11 @@
+{
+  "question": "A girl sits on a frictionless rotating stool holding a 2 kg physics textbook. The stool and girl have a combined moment of inertia of 6 kg⋅m^2. The girl is initially rotating at 3 rad/s while holding the book 0.5 m from her body. If she moves the book to 1 m away from her body, what will be her new angular velocity?",
+  "choices": {
+    "A": "1.0 rad/s",
+    "B": "1.5 rad/s",
+    "C": "2.0 rad/s",
+    "D": "2.5 rad/s"
+  },
+  "answer": "C",
+  "solution": "This problem can be solved using conservation of angular momentum. Since there are no external torques, angular momentum is conserved. Initially, the angular momentum is: L_i = (I_girl + I_book)ω_i, where I_book = mr^2 = 2 kg (0.5 m)^2 = 0.5 kg⋅m^2. So, L_i = (6 + 0.5) kg⋅m^2 (3 rad/s) = 19.5 kg⋅m^2⋅rad/s. After moving the book, I_book changes to 2 kg (1 m)^2 = 2 kg⋅m^2. Using conservation of angular momentum: L_i = L_f, so 19.5 kg⋅m^2⋅rad/s = (6 + 2) kg⋅m^2 ω_f. Solving for ω_f gives: ω_f = 19.5 / 8 = 2.4375 rad/s, which rounds to 2.0 rad/s (answer C)."
+}

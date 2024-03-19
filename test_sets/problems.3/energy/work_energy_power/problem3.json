@@ -1,0 +1,11 @@
+{
+  "question": "A 5 kg box is pushed 3 meters up a frictionless ramp that makes a 30° angle with the horizontal. If the box starts from rest at the bottom of the ramp, what is its speed at the top of the ramp?",
+  "choices": {
+    "A": "2.0 m/s",
+    "B": "2.4 m/s",
+    "C": "3.0 m/s",
+    "D": "3.4 m/s"
+  },
+  "answer": "B",
+  "solution": "This problem can be solved using the work-energy theorem. The work done by the force pushing the box up the ramp is converted into the box's kinetic energy at the top of the ramp.\n\nWork done = Force × Displacement × cos(θ)\nWork done = mgd × cos(θ), where m is mass, g is acceleration due to gravity, d is displacement, and θ is the angle of the ramp.\nWork done = 5 kg × 9.8 m/s^2 × 3 m × cos(30°) = 127.4 J\n\nFrom the work-energy theorem, the work done is equal to the change in kinetic energy:\nWork done = ΔKE = 0.5 × m × v^2, where v is the speed at the top of the ramp.\n\n127.4 J = 0.5 × 5 kg × v^2\nv^2 = 127.4 J ÷ (0.5 × 5 kg) = 50.96 m^2/s^2\nv ≈ 2.4 m/s"
+}

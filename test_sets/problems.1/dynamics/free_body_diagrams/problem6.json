@@ -1,0 +1,11 @@
+{
+  "question": "A box of mass 5 kg sits on a frictionless incline at an angle of 30° to the horizontal. What is the magnitude of the normal force exerted by the incline on the box? (Take g = 10 m/s^2)",
+  "choices": {
+    "A": "25 N",
+    "B": "43 N",
+    "C": "50 N",
+    "D": "87 N"
+  },
+  "answer": "B",
+  "solution": "Let's analyze the forces acting on the box using a free body diagram. The forces are:\n1. The weight of the box (mg) acting vertically downward.\n2. The normal force (N) exerted by the incline, perpendicular to the surface.\n\nThe weight can be resolved into two components:\n- mg sin(30°) parallel to the incline\n- mg cos(30°) perpendicular to the incline\n\nSince the box is not accelerating perpendicular to the incline, the normal force must balance the perpendicular component of the weight:\n\nN = mg cos(30°)\n  = 5 kg × 10 m/s^2 × cos(30°)\n  = 50 kg⋅m/s^2 × (√3/2)\n  ≈ 43 N\n\nTherefore, the magnitude of the normal force is approximately 43 N."
+}

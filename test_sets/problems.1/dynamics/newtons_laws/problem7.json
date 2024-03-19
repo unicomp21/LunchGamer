@@ -1,0 +1,11 @@
+{
+  "question": "A 5 kg block initially at rest is pushed by a 20 N force for 3 seconds on a frictionless surface. What is the final velocity of the block?",
+  "choices": {
+    "A": "4 m/s",
+    "B": "8 m/s",
+    "C": "12 m/s",
+    "D": "16 m/s"
+  },
+  "answer": "C",
+  "solution": "Using Newton's second law, F = ma, we can find the acceleration of the block: a = F / m = 20 N / 5 kg = 4 m/s^2. Since the block starts from rest (u = 0 m/s), we can use the equation v = u + at to find the final velocity after 3 seconds: v = 0 + 4 m/s^2 × 3 s = 12 m/s. Therefore, the correct answer is C."
+}

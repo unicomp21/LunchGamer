@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg block is initially at rest on a frictionless horizontal surface. A constant horizontal force of 10 N is applied to the block, causing it to move a distance of 5 m. What is the change in the block's kinetic energy?",
+  "choices": {
+    "A": "25 J",
+    "B": "50 J",
+    "C": "100 J",
+    "D": "200 J"
+  },
+  "answer": "B",
+  "solution": "According to the work-energy theorem, the work done on an object is equal to the change in its kinetic energy. The work done by the force is W = F × d, where F is the force (10 N) and d is the distance moved (5 m). Thus, W = 10 N × 5 m = 50 J. Since the block starts from rest (initial kinetic energy is zero) and the surface is frictionless, the work done by the force is entirely converted into the block's kinetic energy. Therefore, the change in the block's kinetic energy is equal to the work done, which is 50 J."
+}

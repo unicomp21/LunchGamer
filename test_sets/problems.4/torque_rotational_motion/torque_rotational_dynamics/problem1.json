@@ -1,0 +1,11 @@
+{
+  "question": "A uniform rod of length 2.0 m and mass 5.0 kg is pivoted at its center. Two forces, each of magnitude 10 N, are applied perpendicular to the rod at its ends. What is the magnitude of the net torque on the rod?",
+  "choices": {
+    "A": "0 N⋅m",
+    "B": "10 N⋅m",
+    "C": "20 N⋅m",
+    "D": "40 N⋅m"
+  },
+  "answer": "A",
+  "solution": "The net torque on the rod is the sum of the torques produced by each force. The torque is given by τ = r × F, where r is the distance from the pivot to the point of application of the force, and F is the force vector. In this case, the forces are applied at the ends of the rod, each at a distance of 1.0 m from the pivot (half the length of the rod). The forces are perpendicular to the rod, so the magnitude of the torque produced by each force is τ = rF = (1.0 m)(10 N) = 10 N⋅m. However, the forces are applied in opposite directions, so they produce torques in opposite directions. Since the rod is uniform and the forces are of equal magnitude, the torques cancel each other out, resulting in a net torque of zero. Therefore, the correct answer is A: 0 N⋅m."
+}

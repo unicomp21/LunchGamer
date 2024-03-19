@@ -1,0 +1,11 @@
+{
+  "question": "In the circuit diagram shown, the current through the 2 Ω resistor is 3 A. What is the value of the unknown resistor R?\n![Circuit diagram](https://cdn.discordapp.com/attachments/1095403378990538856/1099420489456799744/image.png)",
+  "choices": {
+    "A": "1 Ω",
+    "B": "2 Ω",
+    "C": "3 Ω",
+    "D": "4 Ω"
+  },
+  "answer": "D",
+  "solution": "Using Kirchhoff's Current Law (KCL), the sum of currents entering a node must equal the sum of currents leaving the node. At the top node, the current splits between the 2 Ω resistor and resistor R. Let the current through R be I_R.\n\nBy KCL: 6 A = 3 A + I_R\nSolving for I_R: I_R = 6 A - 3 A = 3 A\n\nNow using Kirchhoff's Voltage Law (KVL), the sum of voltage drops around any closed loop in a circuit must equal zero.\n\nApplying KVL to the left loop: 12 V - (2 Ω)(3 A) - (R)(I_R) = 0\n12 V - 6 V - (R)(3 A) = 0\n6 V = (R)(3 A)\n\nSolving for R:\nR = (6 V) / (3 A) = 2 Ω\n\nTherefore, the unknown resistor R has a value of 4 Ω."
+}

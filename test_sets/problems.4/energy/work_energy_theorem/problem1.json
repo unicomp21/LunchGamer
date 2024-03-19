@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg block is pushed 3 meters across a frictionless surface by a constant force of 5 N. How much work is done on the block?",
+  "choices": {
+    "A": "5 J",
+    "B": "10 J",
+    "C": "15 J",
+    "D": "30 J"
+  },
+  "answer": "C",
+  "solution": "The work done on the block can be calculated using the work-energy theorem: W = Fd, where F is the force applied (5 N) and d is the displacement of the block (3 m). Plugging in the values, we get W = 5 N × 3 m = 15 J. Therefore, the correct answer is C: 15 J."
+}

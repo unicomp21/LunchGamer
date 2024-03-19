@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg mass, initially at rest, is acted upon by a constant force of 10 N for 4 seconds. What is the final velocity of the mass?",
+  "choices": {
+    "A": "5 m/s",
+    "B": "10 m/s",
+    "C": "20 m/s",
+    "D": "40 m/s"
+  },
+  "answer": "C",
+  "solution": "We can find the final velocity using the impulse-momentum theorem: Δp = FΔt, where Δp is the change in momentum, F is the force, and Δt is the time interval. Since the mass starts at rest, the change in momentum is equal to the final momentum (p_f). Thus, p_f = FΔt. We can then use the formula p = mv to find the final velocity (v_f). Substituting the given values: p_f = FΔt = (10 N)(4 s) = 40 N⋅s. Then, v_f = p_f / m = (40 N⋅s) / (2 kg) = 20 m/s."
+}

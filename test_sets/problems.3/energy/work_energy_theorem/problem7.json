@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg block starts from rest at the top of a 5 m tall frictionless ramp inclined at 30° to the horizontal. How much work is done by gravity on the block as it slides down the ramp?",
+  "choices": {
+    "A": "20 J",
+    "B": "40 J",
+    "C": "50 J",
+    "D": "100 J"
+  },
+  "answer": "C",
+  "solution": "The work-energy theorem states that the net work done on an object equals its change in kinetic energy. Since the block starts from rest (initial KE = 0) and there is no friction, the net work is just the work done by gravity.\n\nThe work done by gravity is W = mgΔh, where m is mass, g is acceleration due to gravity (9.8 m/s^2), and Δh is the vertical height change.\n\nThe ramp forms a 30-60-90 triangle, so the vertical height is half the ramp length. Δh = 0.5 * 5 m = 2.5 m\n\nW = mgΔh = (2 kg)(9.8 m/s^2)(2.5 m) = 49 J ≈ 50 J\n\nTherefore, the correct answer is C: 50 J."
+}

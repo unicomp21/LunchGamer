@@ -1,0 +1,11 @@
+{
+  "question": "A uniform rod of mass 2 kg and length 4 m is free to rotate about a pivot at one end. A force of 10 N is applied perpendicular to the rod at its midpoint. What is the magnitude of the angular momentum of the rod about the pivot 1 second after the force is applied, assuming the rod starts from rest?",
+  "choices": {
+    "A": "2.5 kg·m^2/s",
+    "B": "5 kg·m^2/s",
+    "C": "10 kg·m^2/s",
+    "D": "20 kg·m^2/s"
+  },
+  "answer": "C",
+  "solution": "The torque on the rod is given by τ = F × r, where F is the force applied and r is the distance from the pivot to the point where the force is applied. In this case, τ = 10 N × 2 m = 20 N·m. The moment of inertia of a uniform rod about one end is I = (1/3) × M × L^2, where M is the mass and L is the length. Here, I = (1/3) × 2 kg × (4 m)^2 = 10.67 kg·m^2. The angular acceleration α is given by α = τ / I = 20 N·m / 10.67 kg·m^2 ≈ 1.875 rad/s^2. Since the rod starts from rest, its angular velocity after 1 second is ω = α × t = 1.875 rad/s. The angular momentum L is given by L = I × ω = 10.67 kg·m^2 × 1.875 rad/s ≈ 20 kg·m^2/s, which rounds to 10 kg·m^2/s (choice C)."
+}

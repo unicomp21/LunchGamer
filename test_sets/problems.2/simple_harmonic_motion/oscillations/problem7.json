@@ -1,0 +1,11 @@
+{
+  "question": "A mass hanging from a spring oscillates with a period of 2 seconds. If the spring constant is doubled and the mass is halved, what is the new period of oscillation?",
+  "choices": {
+    "A": "0.5 seconds",
+    "B": "1 second",
+    "C": "2 seconds",
+    "D": "4 seconds"
+  },
+  "answer": "A",
+  "solution": "The period of a mass-spring system is given by T = 2π√(m/k), where m is the mass and k is the spring constant. If k is doubled, it becomes 2k, and if m is halved, it becomes m/2. Substituting these into the equation: T_new = 2π√((m/2)/(2k)) = 2π√(m/(4k)). The original period was T = 2π√(m/k), so T_new = T/2 = (2 seconds)/2 = 1 second. Therefore, the new period is 0.5 seconds."
+}

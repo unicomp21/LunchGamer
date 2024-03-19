@@ -1,0 +1,11 @@
+{
+  "question": "A figure skater is spinning on the ice with her arms extended. When she pulls her arms in close to her body, her rotational speed increases. Which of the following best explains this phenomenon?",
+  "choices": {
+    "A": "Her angular momentum increases as she pulls her arms in.",
+    "B": "Her moment of inertia increases as she pulls her arms in.",
+    "C": "Her angular momentum is conserved, but her moment of inertia decreases.",
+    "D": "Her rotational kinetic energy decreases as she pulls her arms in."
+  },
+  "answer": "C",
+  "solution": "The skater's angular momentum, L, is conserved because there is no external torque acting on her. Angular momentum is given by L = Iω, where I is the moment of inertia and ω is the angular velocity. As the skater pulls her arms in, her moment of inertia decreases because her mass is distributed closer to the axis of rotation (I = Σmr², where m is mass and r is the distance from the axis of rotation). Since L is conserved and L = Iω, if I decreases, ω must increase to keep L constant. Therefore, the skater's rotational speed increases as she pulls her arms in."
+}

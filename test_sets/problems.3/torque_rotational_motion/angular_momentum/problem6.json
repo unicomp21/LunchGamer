@@ -1,0 +1,11 @@
+{
+  "question": "A uniform solid disk of mass 5 kg and radius 0.5 m rotates about a fixed axis perpendicular to its center with an angular speed of 10 rad/s. What is the magnitude of the disk's angular momentum?",
+  "choices": {
+    "A": "2.5 kg⋅m^2/s",
+    "B": "5.0 kg⋅m^2/s",
+    "C": "6.25 kg⋅m^2/s",
+    "D": "12.5 kg⋅m^2/s"
+  },
+  "answer": "C",
+  "solution": "The angular momentum L of a rotating object is given by the formula L = I⋅ω, where I is the moment of inertia and ω is the angular speed. For a solid disk rotating about its center, the moment of inertia is I = (1/2)⋅m⋅r^2, where m is the mass and r is the radius. Substituting the given values, we get:\n\nI = (1/2) × 5 kg × (0.5 m)^2 = 0.625 kg⋅m^2\n\nNow, we can calculate the angular momentum:\n\nL = 0.625 kg⋅m^2 × 10 rad/s = 6.25 kg⋅m^2/s\n\nTherefore, the correct answer is C: 6.25 kg⋅m^2/s."
+}

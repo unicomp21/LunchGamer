@@ -1,0 +1,11 @@
+{
+  "question": "A solid disk of radius 0.5 m and mass 10 kg is rotating about its center at 6 rad/s. What is the rotational kinetic energy of the disk? (Moment of inertia for a solid disk is 0.5MR^2)",
+  "choices": {
+    "A": "45 J",
+    "B": "60 J",
+    "C": "75 J",
+    "D": "90 J"
+  },
+  "answer": "D",
+  "solution": "The rotational kinetic energy is given by the formula KE = (1/2) * I * ω^2, where I is the moment of inertia and ω is the angular velocity. The moment of inertia for a solid disk is I = 0.5MR^2 = 0.5 * 10 kg * (0.5 m)^2 = 1.25 kg·m^2. Substituting the values, we get: KE = (1/2) * 1.25 kg·m^2 * (6 rad/s)^2 = 22.5 kg·m^2·rad^2/s^2 = 22.5 J·s^2·rad^2 = 90 J. Therefore, the correct answer is D: 90 J."
+}

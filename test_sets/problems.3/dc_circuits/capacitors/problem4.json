@@ -1,0 +1,11 @@
+{
+  "question": "Two capacitors with capacitances C1 and C2 are connected in series. If C1 = 4 μF and C2 = 6 μF, what is the equivalent capacitance of the system?",
+  "choices": {
+    "A": "1.5 μF",
+    "B": "2.4 μF",
+    "C": "10 μF",
+    "D": "24 μF"
+  },
+  "answer": "B",
+  "solution": "When capacitors are connected in series, the equivalent capacitance (Ceq) is given by the formula: 1/Ceq = 1/C1 + 1/C2. Substituting the given values, we get:\n\n1/Ceq = 1/(4 μF) + 1/(6 μF)\n1/Ceq = 3/12 + 2/12 = 5/12\n\nTo find Ceq, we take the reciprocal of both sides:\n\nCeq = 12/5 μF = 2.4 μF\n\nTherefore, the correct answer is B: 2.4 μF."
+}

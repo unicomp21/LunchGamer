@@ -1,0 +1,11 @@
+{
+  "question": "A wave traveling along a string has an amplitude of 0.02 m and a wavelength of 0.4 m. If the frequency of the wave is 20 Hz, what is the speed of the wave?",
+  "choices": {
+    "A": "0.8 m/s",
+    "B": "4 m/s",
+    "C": "8 m/s",
+    "D": "16 m/s"
+  },
+  "answer": "C",
+  "solution": "The speed of a wave can be calculated using the wave speed equation: v = fλ, where v is the wave speed, f is the frequency, and λ is the wavelength. Given the frequency (20 Hz) and the wavelength (0.4 m), we can calculate the wave speed: v = 20 Hz × 0.4 m = 8 m/s. The amplitude does not affect the wave speed, so it is not needed in this calculation."
+}

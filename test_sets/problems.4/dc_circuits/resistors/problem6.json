@@ -1,0 +1,11 @@
+{
+  "question": "Two resistors, R1 = 6 Ω and R2 = 3 Ω, are connected in series to a 12 V battery. What is the current flowing through the resistor R1?",
+  "choices": {
+    "A": "0.5 A",
+    "B": "1.0 A",
+    "C": "1.5 A",
+    "D": "2.0 A"
+  },
+  "answer": "C",
+  "solution": "In a series circuit, the current is the same through all components. The total resistance is the sum of individual resistances: R_total = R1 + R2 = 6 Ω + 3 Ω = 9 Ω. Using Ohm's Law, V = IR, we can calculate the current: I = V / R_total = 12 V / 9 Ω = 1.33 A. Rounding to the nearest answer choice gives 1.5 A, which is choice C."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "In a series circuit with three resistors, the current through each resistor is 2 A when connected to a 12 V battery. If one of the resistors has a resistance of 2 Ω, what is the equivalent resistance of the circuit?",
+  "choices": {
+    "A": "2 Ω",
+    "B": "4 Ω",
+    "C": "6 Ω",
+    "D": "12 Ω"
+  },
+  "answer": "C",
+  "solution": "In a series circuit, the current is the same through each resistor, and the total voltage is equal to the sum of the voltage drops across each resistor (Kirchhoff's voltage law). Using Ohm's law (V = IR), we can find the voltage drop across the 2 Ω resistor: V = (2 A)(2 Ω) = 4 V. Since the total voltage is 12 V, the remaining voltage drop across the other two resistors is 12 V - 4 V = 8 V. Using Ohm's law again, the equivalent resistance of the other two resistors is R = V / I = 8 V / 2 A = 4 Ω. The total resistance of resistors in series is the sum of their individual resistances, so the equivalent resistance of the entire circuit is 2 Ω + 4 Ω = 6 Ω."
+}

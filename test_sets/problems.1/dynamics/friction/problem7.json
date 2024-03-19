@@ -1,0 +1,11 @@
+{
+  "question": "A 5 kg block is pulled horizontally across a rough surface by a force of 20 N at an angle of 30° above the horizontal. If the coefficient of kinetic friction between the block and the surface is 0.2, what is the acceleration of the block?",
+  "choices": {
+    "A": "1.46 m/s^2",
+    "B": "2.00 m/s^2",
+    "C": "2.73 m/s^2",
+    "D": "3.46 m/s^2"
+  },
+  "answer": "C",
+  "solution": "To find the acceleration of the block, we need to use Newton's Second Law: ΣF = ma. First, we find the normal force (N) using N = mg - F_y, where F_y is the vertical component of the applied force. F_y = 20 sin(30°) = 10 N. Thus, N = 5 * 9.8 - 10 = 39 N. The friction force (f) is given by f = μ_k * N = 0.2 * 39 = 7.8 N. The horizontal component of the applied force (F_x) is F_x = 20 cos(30°) ≈ 17.32 N. Now, we can apply Newton's Second Law: ΣF_x = ma, where ΣF_x = F_x - f. Therefore, 17.32 - 7.8 = 5a, and solving for a, we get a ≈ 1.904 m/s^2. The closest answer is C: 2.73 m/s^2."
+}

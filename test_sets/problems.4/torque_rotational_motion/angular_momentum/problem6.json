@@ -1,0 +1,11 @@
+{
+  "question": "A solid disk of radius 0.5 m and mass 10 kg rotates about a fixed axis through its center with an angular velocity of 4 rad/s. What is the magnitude of the disk's angular momentum?",
+  "choices": {
+    "A": "2.5 kg·m^2/s",
+    "B": "5 kg·m^2/s",
+    "C": "10 kg·m^2/s",
+    "D": "20 kg·m^2/s"
+  },
+  "answer": "B",
+  "solution": "The disk's angular momentum can be calculated using the formula L = I × ω, where I is the moment of inertia and ω is the angular velocity. For a solid disk rotating about its center, the moment of inertia is given by I = (1/2) × m × r^2, where m is the mass and r is the radius. Plugging in the values, we get:\nI = (1/2) × 10 kg × (0.5 m)^2 = 1.25 kg·m^2\nNow, we can calculate the angular momentum:\nL = 1.25 kg·m^2 × 4 rad/s = 5 kg·m^2/s\nTherefore, the correct answer is B: 5 kg·m^2/s."
+}

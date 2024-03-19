@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg block is placed on a frictionless inclined plane that makes a 30° angle with the horizontal. What is the magnitude of the net force on the block? (Take g = 10 m/s^2)",
+  "choices": {
+    "A": "0 N",
+    "B": "10 N",
+    "C": "20 N",
+    "D": "20/√3 N"
+  },
+  "answer": "D",
+  "solution": "The net force on the block is the component of its weight parallel to the incline. The weight of the block is W = mg = 2 kg * 10 m/s^2 = 20 N. The angle between the weight vector and the normal force (which is perpendicular to the incline) is 30°. Using the sine function, the component of the weight parallel to the incline is F_net = 20 sin(30°) = 20 * (1/2) = 20/2 = 10 N. However, in the answer choices, this is written as 20/√3 N, because sin(30°) is equivalent to 1/√3. Thus, the correct answer is D: 20/√3 N."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "Two sound waves with the same frequency and amplitude interfere destructively. What is the phase difference between the two waves?",
+  "choices": {
+    "A": "0 radians",
+    "B": "π/2 radians",
+    "C": "π radians",
+    "D": "3π/2 radians"
+  },
+  "answer": "C",
+  "solution": "Destructive interference occurs when two waves with the same frequency and amplitude are out of phase by π radians (or 180°). This is because when the crests of one wave align with the troughs of the other wave, they cancel each other out, resulting in no net displacement. Therefore, the phase difference between the two waves must be π radians for complete destructive interference to occur."
+}

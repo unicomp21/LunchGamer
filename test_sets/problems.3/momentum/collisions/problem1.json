@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg ball moving at 5 m/s to the right collides head-on with a 3 kg ball that is initially at rest. After the collision, the 2 kg ball moves to the left at 2 m/s. What is the velocity of the 3 kg ball after the collision?",
+  "choices": {
+    "A": "1 m/s to the right",
+    "B": "2 m/s to the right",
+    "C": "3 m/s to the right",
+    "D": "4 m/s to the right"
+  },
+  "answer": "C",
+  "solution": "Using the law of conservation of momentum, the total momentum before the collision must equal the total momentum after the collision. Before the collision, only the 2 kg ball has momentum: p_i = mv = (2 kg)(5 m/s) = 10 kg⋅m/s to the right. After the collision, the 2 kg ball has momentum: p_1 = mv = (2 kg)(-2 m/s) = -4 kg⋅m/s (negative sign indicates the ball is moving to the left). Let the velocity of the 3 kg ball after collision be v_2. Then, the total momentum after collision is: p_f = -4 kg⋅m/s + (3 kg)(v_2). Setting the initial and final momenta equal: 10 kg⋅m/s = -4 kg⋅m/s + (3 kg)(v_2). Solving for v_2: v_2 = (10 kg⋅m/s + 4 kg⋅m/s) / (3 kg) = 14/3 m/s ≈ 4.67 m/s to the right. The closest answer is 3 m/s to the right (choice C)."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A satellite of mass m orbits a planet of mass M at a constant radius r. If the mass of the planet is doubled and the radius is halved, how does the orbital speed of the satellite change?",
+  "choices": {
+    "A": "Increases by a factor of 2",
+    "B": "Increases by a factor of √2",
+    "C": "Remains the same",
+    "D": "Decreases by a factor of √2"
+  },
+  "answer": "B",
+  "solution": "The orbital speed of a satellite is given by v = √(GM/r), where G is the gravitational constant. If the mass M is doubled and the radius r is halved, the new orbital speed v_new is: v_new = √(G(2M)/(r/2)) = √(4GM/r) = 2√(GM/r) = 2v. Therefore, the orbital speed increases by a factor of √2."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "Two objects, A and B, with masses of 2 kg and 3 kg respectively, are moving towards each other along a straight line. Object A has a velocity of 4 m/s to the right, while object B has a velocity of 2 m/s to the left. If the objects collide and stick together, what is the velocity of the combined object after the collision?",
+  "choices": {
+    "A": "0.4 m/s to the right",
+    "B": "0.8 m/s to the right",
+    "C": "1.2 m/s to the left",
+    "D": "1.6 m/s to the left"
+  },
+  "answer": "A",
+  "solution": "Using the law of conservation of linear momentum, the total momentum before the collision must equal the total momentum after the collision. The initial momentum is calculated as (2 kg)(4 m/s) - (3 kg)(2 m/s) = 2 kg⋅m/s. The final momentum is (m_A + m_B)v_f, where v_f is the final velocity. Setting the initial and final momenta equal: 2 kg⋅m/s = (2 kg + 3 kg)v_f. Solving for v_f, we get v_f = 2 kg⋅m/s / 5 kg = 0.4 m/s. The positive value indicates the combined object moves to the right after the collision."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A 5 kg box is pushed 3 meters across a frictionless floor by a force of 10 N. How much work is done on the box?",
+  "choices": {
+    "A": "6 J",
+    "B": "15 J",
+    "C": "30 J",
+    "D": "150 J"
+  },
+  "answer": "C",
+  "solution": "Work is calculated using the formula W = F × d, where F is the force applied and d is the displacement. In this case, F = 10 N and d = 3 m. Thus, the work done is: W = 10 N × 3 m = 30 J. Therefore, the correct answer is C: 30 J."
+}

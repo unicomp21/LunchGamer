@@ -1,0 +1,11 @@
+{
+  "question": "A uniform rod of length 2.0 m and mass 5.0 kg is pivoted at one end. A force of 10 N is applied perpendicularly to the other end of the rod. What is the magnitude of the torque about the pivot point?",
+  "choices": {
+    "A": "5.0 N·m",
+    "B": "10 N·m",
+    "C": "20 N·m",
+    "D": "40 N·m"
+  },
+  "answer": "C",
+  "solution": "The magnitude of the torque is given by τ = r × F, where r is the distance from the pivot point to the point where the force is applied, and F is the applied force. Since the rod is 2.0 m long and the force is applied at the end of the rod, r = 2.0 m. The force is perpendicular to the rod, so the angle between r and F is 90°. Thus, τ = rF sin θ = (2.0 m)(10 N)(sin 90°) = 20 N·m."
+}

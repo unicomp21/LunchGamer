@@ -1,0 +1,11 @@
+{
+  "question": "A uniform solid disk of mass M and radius R is rotating about a fixed axis through its center perpendicular to its plane with an angular speed ω. What is the angular momentum of the disk about this axis?",
+  "choices": {
+    "A": "1/4 * M * R^2 * ω",
+    "B": "1/2 * M * R^2 * ω",
+    "C": "3/4 * M * R^2 * ω",
+    "D": "M * R^2 * ω"
+  },
+  "answer": "B",
+  "solution": "The angular momentum L of a rotating object is given by the formula L = I * ω, where I is the object's moment of inertia and ω is its angular speed. For a uniform solid disk rotating about a fixed axis through its center perpendicular to its plane, the moment of inertia I is given by 1/2 * M * R^2. Substituting this into the angular momentum formula, we get L = 1/2 * M * R^2 * ω. Therefore, the correct answer is B."
+}

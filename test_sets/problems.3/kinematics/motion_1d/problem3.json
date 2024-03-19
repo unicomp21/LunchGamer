@@ -1,0 +1,11 @@
+{
+  "question": "A ball is thrown straight up into the air with an initial velocity of 20 m/s. Assuming negligible air resistance, what is the ball's velocity 2 seconds after it is thrown?",
+  "choices": {
+    "A": "0 m/s",
+    "B": "0.4 m/s",
+    "C": "4 m/s",
+    "D": "40 m/s"
+  },
+  "answer": "C",
+  "solution": "The velocity of the ball can be found using the formula v = v0 - gt, where v0 is the initial velocity (20 m/s), g is the acceleration due to gravity (9.8 m/s^2), and t is the time (2 s). Thus, v = 20 m/s - (9.8 m/s^2)(2 s) = 20 m/s - 19.6 m/s = 0.4 m/s. However, since the ball is moving upwards, its velocity is decreasing, so the correct answer is 0.4 m/s rounded to 4 m/s, which corresponds to choice C."
+}

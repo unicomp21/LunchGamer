@@ -1,0 +1,11 @@
+{
+  "question": "A wave on a string has a frequency of 60 Hz and a wavelength of 0.5 m. What is the speed of the wave?",
+  "choices": {
+    "A": "15 m/s",
+    "B": "20 m/s",
+    "C": "30 m/s",
+    "D": "120 m/s"
+  },
+  "answer": "C",
+  "solution": "The speed of a wave can be found using the wave equation: v = λf, where v is the wave speed, λ is the wavelength, and f is the frequency. Plugging in the given values, we get: v = (0.5 m)(60 Hz) = 30 m/s. Therefore, the speed of the wave is 30 m/s."
+}

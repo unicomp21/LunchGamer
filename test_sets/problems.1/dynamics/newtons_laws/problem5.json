@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg object is acted upon by two forces: a 5 N force to the right and a 7 N force to the left. What is the acceleration of the object?",
+  "choices": {
+    "A": "1 m/s^2 to the left",
+    "B": "1 m/s^2 to the right",
+    "C": "2.5 m/s^2 to the left",
+    "D": "3.5 m/s^2 to the right"
+  },
+  "answer": "A",
+  "solution": "The net force on the object is the vector sum of the two forces: F_net = 5 N - 7 N = -2 N. The negative sign indicates that the net force is to the left. Using Newton's Second Law, F_net = ma, we can find the acceleration: a = F_net / m = -2 N / 2 kg = -1 m/s^2. The negative sign indicates that the acceleration is to the left, so the correct answer is A."
+}

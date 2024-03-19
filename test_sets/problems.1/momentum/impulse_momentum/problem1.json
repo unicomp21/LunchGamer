@@ -1,0 +1,11 @@
+{
+  "question": "A 0.5 kg ball is thrown with an initial velocity of 10 m/s. It collides with a wall and bounces back with a velocity of -8 m/s. What is the magnitude of the impulse exerted on the ball by the wall?",
+  "choices": {
+    "A": "1 N⋅s",
+    "B": "4 N⋅s",
+    "C": "9 N⋅s",
+    "D": "18 N⋅s"
+  },
+  "answer": "C",
+  "solution": "Impulse (J) is equal to the change in momentum (Δp). The initial momentum is p_i = mv_i = 0.5 kg × 10 m/s = 5 kg⋅m/s. The final momentum is p_f = mv_f = 0.5 kg × (-8 m/s) = -4 kg⋅m/s. The change in momentum is Δp = p_f - p_i = -4 kg⋅m/s - 5 kg⋅m/s = -9 kg⋅m/s. The magnitude of the impulse is |J| = |Δp| = |-9 kg⋅m/s| = 9 kg⋅m/s = 9 N⋅s."
+}

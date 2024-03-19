@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg object moving at 4 m/s to the right collides head-on with a 3 kg object moving at 2 m/s to the left. If the objects stick together after the collision, what is the velocity of the combined objects after the collision?",
+  "choices": {
+    "A": "0.4 m/s to the right",
+    "B": "0.4 m/s to the left",
+    "C": "2.0 m/s to the right",
+    "D": "2.0 m/s to the left"
+  },
+  "answer": "A",
+  "solution": "First, calculate the initial total momentum of the system. The 2 kg object has a momentum of (2 kg)(4 m/s) = 8 kg⋅m/s to the right, and the 3 kg object has a momentum of (3 kg)(-2 m/s) = -6 kg⋅m/s to the left (negative because it's moving left). The total initial momentum is 8 kg⋅m/s + (-6 kg⋅m/s) = 2 kg⋅m/s to the right.\n\nBy conservation of momentum, the total momentum after the collision must also be 2 kg⋅m/s to the right. The total mass after the collision is 2 kg + 3 kg = 5 kg. Using the formula p = mv, where p is momentum, m is mass, and v is velocity, we can solve for the final velocity:\n\n2 kg⋅m/s = (5 kg)(v)\nv = (2 kg⋅m/s) / (5 kg) = 0.4 m/s\n\nThe positive value indicates the direction is to the right. Therefore, the correct answer is A: 0.4 m/s to the right."
+}

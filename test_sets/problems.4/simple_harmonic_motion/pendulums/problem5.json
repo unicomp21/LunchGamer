@@ -1,0 +1,11 @@
+{
+  "question": "A simple pendulum with a length of 1.0 m and a mass of 0.5 kg is displaced 10° from its equilibrium position and released. What is the approximate period of the pendulum's motion? (Assume small angle approximation and take g = 9.8 m/s^2)",
+  "choices": {
+    "A": "0.64 s",
+    "B": "1.0 s",
+    "C": "2.0 s",
+    "D": "3.2 s"
+  },
+  "answer": "C",
+  "solution": "For a simple pendulum undergoing small oscillations, the period T is given by the formula T = 2π √(L/g), where L is the length of the pendulum and g is the acceleration due to gravity. Substituting the given values, we get:\n\nT = 2π √(1.0 m / 9.8 m/s^2)\nT ≈ 2.0 s\n\nThe amplitude of the oscillation (10° in this case) does not affect the period for small angles. Therefore, the correct answer is C: 2.0 s."
+}

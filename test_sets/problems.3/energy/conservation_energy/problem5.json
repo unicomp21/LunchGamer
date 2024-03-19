@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg ball is dropped from a height of 5 meters. Neglecting air resistance, what is the ball's speed just before it hits the ground?",
+  "choices": {
+    "A": "5 m/s",
+    "B": "10 m/s",
+    "C": "20 m/s",
+    "D": "25 m/s"
+  },
+  "answer": "B",
+  "solution": "By the conservation of energy, the ball's initial potential energy is converted to kinetic energy just before hitting the ground. The initial potential energy is PE = mgh = (2 kg)(9.8 m/s^2)(5 m) = 98 J. This becomes the kinetic energy, KE = (1/2)mv^2 = 98 J. Solving for v, we get: v = sqrt(2KE/m) = sqrt(2(98 J)/(2 kg)) = sqrt(98) ≈ 9.9 m/s, which rounds to 10 m/s."
+}

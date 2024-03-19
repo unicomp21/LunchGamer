@@ -1,0 +1,11 @@
+{
+  "question": "A satellite of mass 500 kg orbits Earth at a constant speed in a circular orbit of radius 8000 km. If the gravitational force acting on the satellite is 3062.5 N, what is the speed of the satellite?",
+  "choices": {
+    "A": "5.0 km/s",
+    "B": "6.0 km/s",
+    "C": "7.0 km/s",
+    "D": "8.0 km/s"
+  },
+  "answer": "C",
+  "solution": "In uniform circular motion, the centripetal force is provided by the gravitational force. The centripetal force is given by F = mv^2 / r, where m is the mass of the satellite, v is the speed of the satellite, and r is the radius of the orbit. Rearranging this equation to solve for v, we get: v = sqrt(F * r / m). Plugging in the given values: v = sqrt(3062.5 N * 8000 km / 500 kg) = sqrt(49,000,000 m^2/s^2) ≈ 7000 m/s = 7.0 km/s. Therefore, the speed of the satellite is 7.0 km/s."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A satellite of mass 500 kg orbits the Earth at a constant speed in a circular orbit of radius 8000 km. If the gravitational force acting on the satellite is the only force providing the centripetal force, what is the speed of the satellite?",
+  "choices": {
+    "A": "5.0 km/s",
+    "B": "6.3 km/s",
+    "C": "7.9 km/s",
+    "D": "10.0 km/s"
+  },
+  "answer": "C",
+  "solution": "The centripetal force on the satellite is provided by Earth's gravitational force: F_c = G * M_E * m / r^2, where G is the gravitational constant (6.67 × 10^-11 N⋅m^2/kg^2), M_E is Earth's mass (5.97 × 10^24 kg), m is the satellite's mass (500 kg), and r is the orbit radius (8000 km). We also know that the centripetal force is related to the satellite's speed (v) by F_c = m * v^2 / r. Equating these two expressions and solving for v: v = sqrt(G * M_E / r). Plugging in the values: v = sqrt((6.67 × 10^-11 N⋅m^2/kg^2) * (5.97 × 10^24 kg) / (8000 × 10^3 m)) ≈ 7.9 × 10^3 m/s = 7.9 km/s."
+}

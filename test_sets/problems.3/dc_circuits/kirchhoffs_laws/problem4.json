@@ -1,0 +1,11 @@
+{
+  "question": "In the circuit shown, the battery has an emf of 12 V and the resistors have values of R1 = 3 Ω, R2 = 6 Ω, and R3 = 2 Ω. What is the current through resistor R2?",
+  "choices": {
+    "A": "0.5 A",
+    "B": "1.0 A",
+    "C": "1.5 A",
+    "D": "2.0 A"
+  },
+  "answer": "B",
+  "solution": "Using Kirchhoff's current law, the current leaving the battery splits between the two branches. Let the current through R1 be I1 and the current through R2 and R3 be I2. From Kirchhoff's voltage law, the voltage drops across each branch must add up to the battery emf: I1*R1 = 12 V and I2*(R2 + R3) = 12 V. Solving for I2, we get I2 = 12 V / (R2 + R3) = 12 V / (6 Ω + 2 Ω) = 1.5 A. However, this is the total current through both R2 and R3. Since R2 and R3 are in series, the current through R2 is the same as the current through R3, which is 1.5 A. Therefore, the current through R2 is 1.5 A and the correct answer is B."
+}

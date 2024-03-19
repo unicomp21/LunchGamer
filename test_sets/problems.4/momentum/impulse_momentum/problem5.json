@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg ball is traveling at 5 m/s when it is struck by a bat, changing its velocity to 10 m/s in the opposite direction. If the ball and bat are in contact for 0.1 seconds, what is the magnitude of the average force exerted on the ball by the bat?",
+  "choices": {
+    "A": "30 N",
+    "B": "60 N",
+    "C": "150 N",
+    "D": "300 N"
+  },
+  "answer": "D",
+  "solution": "The impulse-momentum theorem states that the change in momentum of an object is equal to the impulse applied to it. Impulse (J) is defined as the product of the average force (F) and the time interval (Δt) over which the force acts: J = FΔt. The change in momentum (Δp) is the difference between the final momentum (p_f) and initial momentum (p_i): Δp = p_f - p_i. Setting these equal, we have: FΔt = mΔv, where m is the mass of the object and Δv is the change in velocity. Here, m = 2 kg, Δv = 10 m/s - (-5 m/s) = 15 m/s (note the change in direction), and Δt = 0.1 s. Solving for F, we get: F = mΔv / Δt = (2 kg)(15 m/s) / (0.1 s) = 300 N."
+}

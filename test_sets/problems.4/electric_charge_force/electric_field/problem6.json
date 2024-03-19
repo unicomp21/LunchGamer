@@ -1,0 +1,11 @@
+{
+  "question": "Two positive point charges, each with a charge of 2 μC, are separated by a distance of 3 cm. What is the magnitude of the electric field at a point midway between the two charges?",
+  "choices": {
+    "A": "0 N/C",
+    "B": "4 × 10^5 N/C",
+    "C": "8 × 10^5 N/C",
+    "D": "1.2 × 10^6 N/C"
+  },
+  "answer": "A",
+  "solution": "At the midpoint between two equal positive charges, the electric fields created by each charge cancel out due to symmetry. The charges exert equal and opposite forces on a test charge placed at the midpoint. As a result, the net electric field at the midpoint is zero."
+}

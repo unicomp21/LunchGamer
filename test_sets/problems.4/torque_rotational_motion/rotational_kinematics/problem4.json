@@ -1,0 +1,11 @@
+{
+  "question": "A pulley with a radius of 0.2 m rotates from rest, uniformly accelerating to an angular velocity of 15 rad/s in 3 seconds. What is the angular acceleration of the pulley?",
+  "choices": {
+    "A": "0.5 rad/s^2",
+    "B": "2.5 rad/s^2",
+    "C": "5.0 rad/s^2",
+    "D": "7.5 rad/s^2"
+  },
+  "answer": "C",
+  "solution": "The angular acceleration can be calculated using the formula α = Δω / Δt, where Δω is the change in angular velocity (15 rad/s - 0 rad/s = 15 rad/s) and Δt is the time interval (3 s). Substituting the values, we get: α = 15 rad/s / 3 s = 5 rad/s^2. Therefore, the correct answer is C."
+}

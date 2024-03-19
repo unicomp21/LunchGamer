@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg ball initially moving at 4 m/s to the right is struck by a bat, resulting in the ball moving to the left at 3 m/s. What is the impulse delivered by the bat to the ball?",
+  "choices": {
+    "A": "-6 N·s",
+    "B": "-7 N·s",
+    "C": "-12 N·s",
+    "D": "-14 N·s"
+  },
+  "answer": "D",
+  "solution": "Impulse is the change in momentum, which can be calculated using the formula J = Δp = pf - pi, where pf is the final momentum and pi is the initial momentum. Initial momentum is pi = mv = (2 kg)(4 m/s) = 8 kg·m/s to the right. Final momentum is pf = mv = (2 kg)(-3 m/s) = -6 kg·m/s (to the left). Thus, the impulse is J = pf - pi = (-6 kg·m/s) - (8 kg·m/s) = -14 kg·m/s = -14 N·s. The negative sign indicates the impulse is to the left."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A satellite orbits Earth in a circular orbit of radius 2R, where R is the radius of Earth. If the acceleration due to gravity at the surface of Earth is g, what is the orbital speed of the satellite?",
+  "choices": {
+    "A": "sqrt(g * R / 2)",
+    "B": "sqrt(g * R)",
+    "C": "sqrt(g * R / 4)",
+    "D": "sqrt(2 * g * R)"
+  },
+  "answer": "A",
+  "solution": "For a circular orbit, the centripetal acceleration is provided by the gravitational force. The centripetal acceleration is v^2 / r, where v is the orbital speed and r is the orbital radius. The gravitational acceleration at a distance r from the center of Earth is g * (R / r)^2, where g is the acceleration due to gravity at the surface of Earth and R is Earth's radius. Setting these equal: v^2 / (2R) = g * (R / (2R))^2. Simplifying: v^2 / (2R) = g / 4. Solving for v: v = sqrt(g * R / 2). Therefore, the orbital speed is sqrt(g * R / 2), so the correct answer is A."
+}

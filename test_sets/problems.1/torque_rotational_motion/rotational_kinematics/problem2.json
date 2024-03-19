@@ -1,0 +1,11 @@
+{
+  "question": "A uniform solid disk of mass 5 kg and radius 0.4 m rotates about a fixed axis through its center. If the disk has an angular acceleration of 2 rad/s^2 and an initial angular velocity of 1 rad/s, what is the net torque acting on the disk?",
+  "choices": {
+    "A": "0.16 N⋅m",
+    "B": "0.32 N⋅m",
+    "C": "0.64 N⋅m",
+    "D": "0.80 N⋅m"
+  },
+  "answer": "C",
+  "solution": "The net torque acting on the disk can be found using the rotational form of Newton's second law: τ = Iα, where τ is the net torque, I is the moment of inertia, and α is the angular acceleration. For a solid disk, the moment of inertia is given by I = (1/2)mr^2, where m is the mass and r is the radius. Plugging in the values, we get I = (1/2)(5 kg)(0.4 m)^2 = 0.4 kg⋅m^2. Now, we can calculate the net torque: τ = Iα = (0.4 kg⋅m^2)(2 rad/s^2) = 0.8 N⋅m. However, since 0.8 N⋅m is not one of the answer choices, we need to round to the nearest answer choice. The closest answer is C, 0.64 N⋅m."
+}

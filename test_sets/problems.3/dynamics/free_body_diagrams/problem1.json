@@ -1,0 +1,11 @@
+{
+  "question": "A block of mass 5 kg is pulled along a horizontal frictionless surface by a force of 20 N at an angle of 30° above the horizontal. What is the acceleration of the block?",
+  "choices": {
+    "A": "2.0 m/s^2",
+    "B": "3.0 m/s^2",
+    "C": "3.5 m/s^2",
+    "D": "4.0 m/s^2"
+  },
+  "answer": "C",
+  "solution": "To find the acceleration, we need to determine the net force acting on the block in the horizontal direction. Let's break the force into its horizontal and vertical components:\n\nHorizontal component: F_x = 20 cos(30°) ≈ 17.3 N\nVertical component: F_y = 20 sin(30°) = 10 N\n\nThe vertical component is balanced by the normal force, so it does not contribute to the acceleration. The net force is equal to the horizontal component.\n\nUsing Newton's Second Law, F_net = ma, we can find the acceleration:\n\na = F_net / m\na = 17.3 N / 5 kg\na ≈ 3.5 m/s^2\n\nTherefore, the acceleration of the block is approximately 3.5 m/s^2."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg block is released from rest at the top of a frictionless ramp that is 5 m high. What is the speed of the block when it reaches the bottom of the ramp? (Assume g = 10 m/s^2)",
+  "choices": {
+    "A": "5 m/s",
+    "B": "10 m/s",
+    "C": "20 m/s",
+    "D": "100 m/s"
+  },
+  "answer": "B",
+  "solution": "Using the law of conservation of energy, the initial potential energy of the block at the top of the ramp is converted into kinetic energy at the bottom. The initial potential energy is PE = mgh = 2 kg × 10 m/s^2 × 5 m = 100 J. At the bottom, all of this energy is kinetic energy, KE = (1/2)mv^2. Setting these equal, 100 J = (1/2) × 2 kg × v^2. Solving for v, we get v = √(100 J / (2 kg × 0.5)) = √(100 J / 1 kg) = √(100 m^2/s^2) = 10 m/s."
+}

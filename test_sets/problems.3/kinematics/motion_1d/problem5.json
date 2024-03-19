@@ -1,0 +1,11 @@
+{
+  "question": "A ball is thrown straight up with an initial velocity of 20 m/s. Neglecting air resistance, how high will the ball be 2 seconds after it is thrown?",
+  "choices": {
+    "A": "20 m",
+    "B": "30 m",
+    "C": "40 m",
+    "D": "50 m"
+  },
+  "answer": "C",
+  "solution": "The height of the ball can be found using the formula y = y0 + v0*t - (1/2)*g*t^2, where y0 is the initial height (0 m), v0 is the initial velocity (20 m/s), t is the time (2 s), and g is the acceleration due to gravity (9.8 m/s^2). Plugging in the values, we get: y = 0 + 20*2 - (1/2)*9.8*2^2 = 40 - 19.6 = 20.4 m. Since 20.4 m is closest to 20 m, the correct answer is C."
+}

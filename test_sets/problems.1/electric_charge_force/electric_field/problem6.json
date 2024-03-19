@@ -1,0 +1,11 @@
+{
+  "question": "Two positive point charges, each with a charge of +Q, are separated by a distance r. If the distance between the charges is doubled to 2r while keeping the charges the same, what happens to the magnitude of the electric force between them?",
+  "choices": {
+    "A": "The force becomes 4 times larger",
+    "B": "The force becomes 2 times larger",
+    "C": "The force becomes 1/2 times as large",
+    "D": "The force becomes 1/4 times as large"
+  },
+  "answer": "D",
+  "solution": "The electric force between two point charges is given by Coulomb's law: F = k * |Q1| * |Q2| / r^2, where k is Coulomb's constant, |Q1| and |Q2| are the magnitudes of the charges, and r is the distance between them. If the distance is doubled from r to 2r while the charges remain the same, the force will decrease by a factor of (1/2)^2 = 1/4. This is because the force is inversely proportional to the square of the distance between the charges. Therefore, when the distance is doubled, the force becomes 1/4 times as large."
+}

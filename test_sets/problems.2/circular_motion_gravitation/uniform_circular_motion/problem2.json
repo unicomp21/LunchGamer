@@ -1,0 +1,11 @@
+{
+  "question": "A satellite orbits a planet with uniform circular motion. If the satellite's speed is doubled while its distance from the center of the planet remains constant, what happens to the centripetal force acting on the satellite?",
+  "choices": {
+    "A": "The centripetal force becomes 2 times larger",
+    "B": "The centripetal force becomes 4 times larger",
+    "C": "The centripetal force becomes √2 times larger",
+    "D": "The centripetal force remains the same"
+  },
+  "answer": "B",
+  "solution": "The centripetal force is given by the formula F = mv^2/r, where m is the mass of the satellite, v is its speed, and r is the radius of the circular orbit. If the speed is doubled (v → 2v) while the radius remains constant, then the centripetal force will increase by a factor of (2v)^2/v^2 = 4. Therefore, the centripetal force becomes 4 times larger."
+}

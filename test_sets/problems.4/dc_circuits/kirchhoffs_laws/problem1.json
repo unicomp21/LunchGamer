@@ -1,0 +1,11 @@
+{
+  "question": "In the circuit shown, all resistors have equal resistance R. What is the equivalent resistance between points X and Y?",
+  "choices": {
+    "A": "R/4",
+    "B": "R/3",
+    "C": "R/2",
+    "D": "R"
+  },
+  "answer": "B",
+  "solution": "The circuit can be solved using Kirchhoff's current law and parallel and series resistance formulas. The two resistors on the left are in parallel, giving an equivalent resistance of R/2. This R/2 resistance is in series with the single resistor, giving a total of 3R/2. Now, this 3R/2 resistance is in parallel with the resistor on the right. Using the parallel resistance formula, 1/Req = 1/(3R/2) + 1/R, which simplifies to 1/Req = 2/3R + 1/R = 5/3R. Solving for Req gives 3R/5. Therefore, the equivalent resistance between points X and Y is R/3."
+}

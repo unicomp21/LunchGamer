@@ -1,0 +1,11 @@
+{
+  "question": "In the circuit diagram shown, the current through the 2 Ω resistor is 3 A. What is the voltage of the power supply?\n\n[A circuit diagram is shown with a power supply connected in series to a 2 Ω resistor and a 4 Ω resistor. The resistors are connected in parallel to each other.]",
+  "choices": {
+    "A": "6 V",
+    "B": "9 V",
+    "C": "12 V",
+    "D": "18 V"
+  },
+  "answer": "C",
+  "solution": "According to Kirchhoff's current law, the sum of currents entering a junction must equal the sum of currents leaving the junction. Therefore, the current through the 4 Ω resistor must also be 3 A, as it is in parallel with the 2 Ω resistor.\n\nUsing Ohm's law (V = IR), we can calculate the voltage across the 2 Ω resistor:\nV₂ = (3 A)(2 Ω) = 6 V\n\nSimilarly, the voltage across the 4 Ω resistor is:\nV₄ = (3 A)(4 Ω) = 12 V\n\nAccording to Kirchhoff's voltage law, the sum of voltages around any closed loop in a circuit must equal zero. In this case, the voltage of the power supply must be equal to the voltage across either resistor, as they are in parallel. Therefore, the voltage of the power supply is 12 V."
+}

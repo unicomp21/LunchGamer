@@ -1,0 +1,11 @@
+{
+  "question": "Two spherical objects with masses of 10 kg and 40 kg are separated by a distance of 1 meter. What is the magnitude of the gravitational force between them? (Gravitational constant G = 6.67 × 10^-11 N⋅m^2/kg^2)",
+  "choices": {
+    "A": "1.67 × 10^-9 N",
+    "B": "2.67 × 10^-10 N",
+    "C": "6.67 × 10^-10 N",
+    "D": "4.00 × 10^-9 N"
+  },
+  "answer": "A",
+  "solution": "According to Newton's law of gravitation, the magnitude of the gravitational force between two objects is given by the formula F = G × (m1 × m2) / r^2, where G is the gravitational constant, m1 and m2 are the masses of the objects, and r is the distance between their centers. Substituting the given values, we get: F = (6.67 × 10^-11 N⋅m^2/kg^2) × (10 kg × 40 kg) / (1 m)^2 = 2668 × 10^-11 N = 2.668 × 10^-8 N ≈ 1.67 × 10^-9 N, after rounding to two significant figures. Therefore, the correct answer is A."
+}

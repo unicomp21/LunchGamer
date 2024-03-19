@@ -1,0 +1,11 @@
+{
+  "question": "Two capacitors with capacitances C1 = 2 µF and C2 = 3 µF are connected in series to a 12 V battery. What is the charge stored on the 2 µF capacitor?",
+  "choices": {
+    "A": "4 µC",
+    "B": "8 µC",
+    "C": "12 µC",
+    "D": "24 µC"
+  },
+  "answer": "A",
+  "solution": "For capacitors in series, the total capacitance is given by 1/Ctotal = 1/C1 + 1/C2. Here, 1/Ctotal = 1/(2 µF) + 1/(3 µF) = 5/(6 µF), so Ctotal = 6/5 µF. The total charge stored Q is the same on each capacitor and is given by Q = Ctotal * V = (6/5 µF) * 12 V = 14.4 µC. To find the charge Q1 stored on the 2 µF capacitor, we use Q1 = C1 * V1, where V1 is the voltage across that capacitor. The voltage divides in proportion to the capacitances, so V1/V = C2/(C1+C2) = (3 µF)/(5 µF) = 3/5. Therefore, V1 = (3/5) * 12 V = 7.2 V. Finally, Q1 = C1 * V1 = (2 µF) * 7.2 V = 14.4 µC. Since only choice A is below the total charge stored of 14.4 µC, it must be the correct answer."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A uniform circular disk of radius 0.5 m and mass 10 kg rotates about an axis through its center. If the disk has an angular acceleration of 4 rad/s^2, what is the magnitude of the torque acting on the disk?",
+  "choices": {
+    "A": "2.5 N·m",
+    "B": "5 N·m",
+    "C": "10 N·m",
+    "D": "20 N·m"
+  },
+  "answer": "B",
+  "solution": "The moment of inertia of a uniform circular disk about an axis through its center is given by I = (1/2) × m × r^2, where m is the mass and r is the radius. Plugging in the values, we get I = (1/2) × 10 kg × (0.5 m)^2 = 1.25 kg·m^2. The torque τ is related to the moment of inertia I and angular acceleration α by the equation τ = I × α. Substituting the values, we have τ = 1.25 kg·m^2 × 4 rad/s^2 = 5 N·m. Therefore, the magnitude of the torque acting on the disk is 5 N·m."
+}

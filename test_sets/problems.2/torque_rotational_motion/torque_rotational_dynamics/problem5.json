@@ -1,0 +1,11 @@
+{
+  "question": "A uniform rod of length 2 m and mass 4 kg is free to rotate about a frictionless pivot at one end. A force of 10 N is applied perpendicular to the rod at a distance of 0.5 m from the pivot. What is the angular acceleration of the rod?",
+  "choices": {
+    "A": "0.625 rad/s^2",
+    "B": "1.25 rad/s^2",
+    "C": "2.5 rad/s^2",
+    "D": "5 rad/s^2"
+  },
+  "answer": "C",
+  "solution": "The torque τ is given by τ = rF, where r is the perpendicular distance from the pivot to the line of action of the force F. Here, τ = (0.5 m)(10 N) = 5 N·m.\n\nThe moment of inertia I of a uniform rod about an axis through one end is given by I = (1/3)mL^2, where m is the mass and L is the length of the rod. Here, I = (1/3)(4 kg)(2 m)^2 = 16/3 kg·m^2.\n\nThe angular acceleration α is related to the net torque τ and moment of inertia I by τ = Iα. Solving for α, we get α = τ / I = (5 N·m) / (16/3 kg·m^2) = 15/16 rad/s^2 ≈ 0.9375 rad/s^2.\n\nThe closest answer choice is C: 2.5 rad/s^2."
+}

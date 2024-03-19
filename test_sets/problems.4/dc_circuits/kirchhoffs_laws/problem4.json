@@ -1,0 +1,11 @@
+{
+  "question": "In the circuit shown, the battery has a voltage of 12 V and the resistors have values of R1 = 3 Ω, R2 = 6 Ω, and R3 = 2 Ω. What is the current through resistor R2?",
+  "choices": {
+    "A": "0.5 A",
+    "B": "1.0 A",
+    "C": "1.5 A",
+    "D": "2.0 A"
+  },
+  "answer": "C",
+  "solution": "Using Kirchhoff's current law, the current leaving the battery splits between the two branches. Let the current through R1 be I1 and the current through R2 and R3 be I2. By Kirchhoff's voltage law, the voltage drops across R1 and R2 + R3 must equal the battery voltage: I1*R1 = I2*(R2 + R3) = 12 V. The equivalent resistance of R2 and R3 in series is 6 Ω + 2 Ω = 8 Ω. So I2 = 12 V / 8 Ω = 1.5 A. Thus, the current through R2 is 1.5 A."
+}

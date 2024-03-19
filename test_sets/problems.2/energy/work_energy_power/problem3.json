@@ -1,0 +1,11 @@
+{
+  "question": "A 50 kg child descends a 3 m high slide, starting from rest. If the child and slide have a combined 60% efficiency in converting potential energy to kinetic energy, what is the child's speed at the bottom of the slide? (Neglect air resistance and assume g = 10 m/s^2)",
+  "choices": {
+    "A": "3.0 m/s",
+    "B": "3.9 m/s",
+    "C": "4.4 m/s",
+    "D": "5.5 m/s"
+  },
+  "answer": "C",
+  "solution": "1. Calculate the initial potential energy (PE) of the child at the top of the slide:\nPE = mgh = 50 kg × 10 m/s^2 × 3 m = 1500 J\n\n2. With a 60% efficiency, the amount of kinetic energy (KE) at the bottom of the slide is:\nKE = 0.60 × PE = 0.60 × 1500 J = 900 J\n\n3. Use the kinetic energy formula to find the child's speed (v) at the bottom:\nKE = (1/2)mv^2\n900 J = (1/2) × 50 kg × v^2\nv^2 = (2 × 900 J) / 50 kg = 36 m^2/s^2\nv = √36 m^2/s^2 ≈ 4.4 m/s\n\nTherefore, the child's speed at the bottom of the slide is approximately 4.4 m/s."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A resistor with a resistance of 10 Ω is connected to a 9 V battery. What is the current flowing through the resistor?",
+  "choices": {
+    "A": "0.09 A",
+    "B": "0.9 A",
+    "C": "9 A",
+    "D": "90 A"
+  },
+  "answer": "B",
+  "solution": "According to Ohm's law, the current I through a resistor is equal to the voltage V across the resistor divided by its resistance R, i.e., I = V / R. In this case, the voltage is 9 V and the resistance is 10 Ω. Substituting these values into the equation, we get I = 9 V / 10 Ω = 0.9 A. Therefore, the current flowing through the resistor is 0.9 A."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A 10 Ω resistor is connected in series with a 20 Ω resistor. If a 30 V battery is connected across the pair of resistors, what is the current through the 20 Ω resistor?",
+  "choices": {
+    "A": "0.5 A",
+    "B": "1.0 A",
+    "C": "1.5 A",
+    "D": "2.0 A"
+  },
+  "answer": "A",
+  "solution": "In a series circuit, the current is the same through all components. The total resistance is the sum of the individual resistances: R_total = R_1 + R_2 = 10 Ω + 20 Ω = 30 Ω. Using Ohm's Law, V = IR, we can find the current: I = V / R_total = 30 V / 30 Ω = 1.0 A. This 1.0 A current flows through both the 10 Ω and 20 Ω resistors. To find the voltage across the 20 Ω resistor, we use Ohm's Law again: V_20 = IR_20 = (1.0 A)(20 Ω) = 20 V. The current through the 20 Ω resistor is the same as the total current, which is 1.0 A."
+}

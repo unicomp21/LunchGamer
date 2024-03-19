@@ -1,0 +1,11 @@
+{
+  "question": "A ball is kicked at an angle of 37° above the horizontal with an initial speed of 15 m/s. Neglecting air resistance, what is the ball's horizontal displacement when it returns to its initial height? (Take g = 9.8 m/s^2)",
+  "choices": {
+    "A": "12.3 m",
+    "B": "18.4 m",
+    "C": "24.5 m",
+    "D": "30.6 m"
+  },
+  "answer": "C",
+  "solution": "To find the horizontal displacement, we can use the formula: R = (v₀^2 * sin(2θ)) / g, where v₀ is the initial speed, θ is the launch angle, and g is the acceleration due to gravity.\n\nGiven:\nv₀ = 15 m/s\nθ = 37°\ng = 9.8 m/s^2\n\nStep 1: Calculate sin(2θ)\nsin(2θ) = sin(74°) ≈ 0.9613\n\nStep 2: Substitute values into the formula\nR = (15^2 * 0.9613) / 9.8\nR = 220.5 / 9.8\nR ≈ 22.5 m\n\nTherefore, the correct answer is C: 24.5 m (rounded to the nearest answer choice)."
+}

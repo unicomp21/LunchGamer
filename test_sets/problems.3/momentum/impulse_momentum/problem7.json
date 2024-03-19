@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg ball is thrown straight up into the air with an initial velocity of 20 m/s. If the ball experiences an average force of 40 N from the thrower's hand over a time of 0.1 seconds, what is the impulse imparted to the ball?",
+  "choices": {
+    "A": "2 N⋅s",
+    "B": "4 N⋅s",
+    "C": "20 N⋅s",
+    "D": "40 N⋅s"
+  },
+  "answer": "B",
+  "solution": "Impulse is defined as the change in momentum, which is equal to the product of the average force and the time interval over which the force acts. In this case, the impulse is calculated as: \nImpulse = F⋅Δt \nImpulse = 40 N ⋅ 0.1 s \nImpulse = 4 N⋅s \nAlternatively, we can calculate the change in momentum using the initial and final velocities: \nΔp = m⋅Δv \nΔp = 2 kg ⋅ 20 m/s \nΔp = 40 kg⋅m/s \nSince impulse is equal to the change in momentum, we get the same result: 4 N⋅s."
+}

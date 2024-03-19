@@ -1,0 +1,11 @@
+{
+  "question": "A 1000 kg car traveling at a constant speed of 20 m/s takes a turn around a circular curve of radius 50 m. What is the magnitude of the centripetal force acting on the car during the turn?",
+  "choices": {
+    "A": "2000 N",
+    "B": "4000 N",
+    "C": "8000 N",
+    "D": "16000 N"
+  },
+  "answer": "C",
+  "solution": "The centripetal force on an object moving in uniform circular motion is given by the formula F = mv^2 / r, where m is the mass of the object, v is its velocity, and r is the radius of the circular path. Plugging in the given values, we get:\n\nF = (1000 kg) * (20 m/s)^2 / (50 m)\n  = (1000 kg) * (400 m^2/s^2) / (50 m)\n  = 400000 kg⋅m/s^2 / 50 m\n  = 8000 kg⋅m/s^2/m\n  = 8000 N\n\nTherefore, the magnitude of the centripetal force acting on the car is 8000 N."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A solid disk of mass M and radius R rotates about a fixed axis through its center with angular velocity ω. What is the angular momentum of the disk?",
+  "choices": {
+    "A": "(1/4)MR^2ω",
+    "B": "(1/2)MR^2ω",
+    "C": "(3/4)MR^2ω",
+    "D": "MR^2ω"
+  },
+  "answer": "B",
+  "solution": "The angular momentum of a rotating object is given by the formula L = Iω, where I is the moment of inertia and ω is the angular velocity. For a solid disk rotating about its center, the moment of inertia is I = (1/2)MR^2. Substituting this into the angular momentum formula yields L = (1/2)MR^2ω, which corresponds to choice B."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A figure skater is spinning on the ice with her arms extended. When she pulls her arms in close to her body, her angular velocity increases. Which of the following best explains this phenomenon?",
+  "choices": {
+    "A": "Her angular momentum increases as she pulls her arms in.",
+    "B": "Her rotational inertia decreases, so her angular velocity must increase to conserve angular momentum.",
+    "C": "The torque acting on her increases as she pulls her arms in.",
+    "D": "The centripetal force acting on her increases as she pulls her arms in."
+  },
+  "answer": "B",
+  "solution": "The figure skater's angular momentum is conserved because there is no external torque acting on her. Angular momentum is given by L = Iω, where I is the rotational inertia and ω is the angular velocity. As she pulls her arms in, her rotational inertia decreases because more of her mass is concentrated closer to the axis of rotation (I = Σmr², where m is mass and r is the distance from the axis of rotation). Since angular momentum is conserved (ΔL = 0), a decrease in I must be compensated by an increase in ω to keep L constant. Therefore, her angular velocity increases as she pulls her arms in."
+}

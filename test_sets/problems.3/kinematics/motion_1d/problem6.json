@@ -1,0 +1,11 @@
+{
+  "question": "A ball is thrown straight upward with an initial velocity of 20 m/s. After how many seconds will the ball reach its maximum height? (Assume g = 10 m/s^2)",
+  "choices": {
+    "A": "1 s",
+    "B": "2 s",
+    "C": "4 s",
+    "D": "5 s"
+  },
+  "answer": "B",
+  "solution": "To find the time at which the ball reaches its maximum height, we can use the equation v_f = v_i - gt, where v_f is the final velocity (0 m/s at the top), v_i is the initial velocity (20 m/s), g is the acceleration due to gravity (10 m/s^2), and t is the time. Setting v_f to 0 and solving for t: 0 = 20 - 10t, which gives t = 20/10 = 2 s. Therefore, the ball will reach its maximum height after 2 seconds."
+}

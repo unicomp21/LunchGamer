@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg ball is moving to the right at 5 m/s when it is struck by a bat, causing the ball to move to the left at 10 m/s. What is the magnitude of the impulse delivered by the bat to the ball?",
+  "choices": {
+    "A": "10 kg⋅m/s",
+    "B": "20 kg⋅m/s",
+    "C": "30 kg⋅m/s",
+    "D": "40 kg⋅m/s"
+  },
+  "answer": "C",
+  "solution": "Impulse is equal to the change in momentum of an object. Initial momentum is p_i = mv_i = (2 kg)(5 m/s) = 10 kg⋅m/s to the right. Final momentum is p_f = mv_f = (2 kg)(-10 m/s) = -20 kg⋅m/s (negative sign indicates direction to the left). The change in momentum is Δp = p_f - p_i = (-20 kg⋅m/s) - (10 kg⋅m/s) = -30 kg⋅m/s. The negative sign indicates the impulse is to the left. The magnitude of the impulse is |Δp| = 30 kg⋅m/s."
+}

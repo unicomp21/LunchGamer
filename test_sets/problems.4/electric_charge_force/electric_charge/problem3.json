@@ -1,0 +1,11 @@
+{
+  "question": "Two point charges, q1 = 2 μC and q2 = -4 μC, are separated by a distance of 0.5 m. What is the magnitude of the electric force between them?",
+  "choices": {
+    "A": "14.4 N",
+    "B": "28.8 N",
+    "C": "57.6 N",
+    "D": "115.2 N"
+  },
+  "answer": "C",
+  "solution": "The electric force between two point charges can be calculated using Coulomb's law: F = k * |q1| * |q2| / r^2, where k is Coulomb's constant (8.99 × 10^9 N⋅m^2/C^2), q1 and q2 are the charges, and r is the distance between them. Plugging in the values: F = (8.99 × 10^9 N⋅m^2/C^2) * (2 × 10^-6 C) * (4 × 10^-6 C) / (0.5 m)^2 = 57.6 N. The magnitude of the force is the absolute value, so the answer is C: 57.6 N."
+}

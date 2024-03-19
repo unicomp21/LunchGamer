@@ -1,0 +1,11 @@
+{
+  "question": "A wave travels along a stretched string with a speed of 30 m/s. If the frequency of the wave is 50 Hz, what is the wavelength of the wave?",
+  "choices": {
+    "A": "0.3 m",
+    "B": "0.6 m",
+    "C": "1.5 m",
+    "D": "60 m"
+  },
+  "answer": "B",
+  "solution": "The wavelength can be found using the wave equation: v = fλ, where v is the wave speed (30 m/s), f is the frequency (50 Hz), and λ is the wavelength. Rearranging the equation to solve for wavelength: λ = v / f. Substituting the given values: λ = 30 m/s / 50 Hz = 0.6 m. Therefore, the wavelength of the wave is 0.6 m."
+}

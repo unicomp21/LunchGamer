@@ -1,0 +1,11 @@
+{
+  "question": "In the circuit shown, the 10 μF capacitor is initially uncharged. The switch is then closed. What is the charge on the capacitor once it reaches steady state?",
+  "choices": {
+    "A": "10 μC",
+    "B": "20 μC",
+    "C": "30 μC",
+    "D": "40 μC"
+  },
+  "answer": "C",
+  "solution": "The charge on the capacitor at steady state can be found using the formula Q = CV, where C is the capacitance (10 μF) and V is the voltage across the capacitor. At steady state, the capacitor acts like an open switch, so all the voltage from the battery (3 V) will be across the capacitor. Thus, Q = (10 × 10^-6 F)(3 V) = 30 × 10^-6 C = 30 μC."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A satellite of mass 500 kg orbits Earth in a circular orbit at an altitude of 400 km above Earth's surface. If the radius of Earth is 6400 km, what is the speed of the satellite in its orbit?",
+  "choices": {
+    "A": "5.5 km/s",
+    "B": "6.8 km/s",
+    "C": "7.7 km/s",
+    "D": "8.2 km/s"
+  },
+  "answer": "C",
+  "solution": "For uniform circular motion, the centripetal acceleration is given by a = v^2 / r, where v is the speed and r is the radius of the orbit. The centripetal force is provided by Earth's gravity, so F = G * (M * m) / r^2 = m * v^2 / r, where G is the gravitational constant, M is Earth's mass, and m is the satellite's mass. Solving for v, we get: v = sqrt((G * M) / r). The radius of the orbit is Earth's radius plus the altitude: r = 6400 km + 400 km = 6800 km = 6.8 * 10^6 m. Using G = 6.67 * 10^-11 N*m^2/kg^2 and M = 5.97 * 10^24 kg, we get: v = sqrt((6.67 * 10^-11 N*m^2/kg^2 * 5.97 * 10^24 kg) / (6.8 * 10^6 m)) ≈ 7.7 km/s."
+}

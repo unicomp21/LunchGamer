@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg object is sliding along a frictionless horizontal surface with an initial velocity of 5 m/s. If a constant force of 6 N is applied to the object in the direction of motion for 3 seconds, what is the final velocity of the object?",
+  "choices": {
+    "A": "11 m/s",
+    "B": "14 m/s",
+    "C": "17 m/s",
+    "D": "20 m/s"
+  },
+  "answer": "B",
+  "solution": "Using Newton's second law, F = ma, we can find the acceleration: a = F / m = 6 N / 2 kg = 3 m/s^2. The acceleration is constant, so we can use the equation v_f = v_i + at, where v_f is the final velocity, v_i is the initial velocity (5 m/s), a is the acceleration (3 m/s^2), and t is the time interval (3 s). Substituting the values, we get: v_f = 5 m/s + (3 m/s^2)(3 s) = 5 m/s + 9 m/s = 14 m/s. Therefore, the final velocity of the object is 14 m/s."
+}

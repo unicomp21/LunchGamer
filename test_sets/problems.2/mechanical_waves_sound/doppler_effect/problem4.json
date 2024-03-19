@@ -1,0 +1,11 @@
+{
+  "question": "A train emitting a sound at 400 Hz is moving towards a stationary observer at a speed of 30 m/s. If the speed of sound is 340 m/s, what frequency does the observer hear?",
+  "choices": {
+    "A": "365 Hz",
+    "B": "400 Hz",
+    "C": "435 Hz",
+    "D": "470 Hz"
+  },
+  "answer": "C",
+  "solution": "The frequency heard by the observer can be calculated using the Doppler effect formula for a moving source and stationary observer: f_observed = f_source * (v_sound / (v_sound - v_source)), where f_source is the original frequency (400 Hz), v_sound is the speed of sound (340 m/s), and v_source is the speed of the train (30 m/s). Plugging in the values, we get: f_observed = 400 Hz * (340 m/s / (340 m/s - 30 m/s)) ≈ 435 Hz. Therefore, the observer hears a frequency of approximately 435 Hz."
+}

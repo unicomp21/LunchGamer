@@ -1,0 +1,11 @@
+{
+  "question": "Two point charges, q1 = +2 μC and q2 = -4 μC, are separated by a distance of 0.3 m. What is the magnitude of the electrostatic force between them? (k = 9 × 10^9 N·m^2/C^2)",
+  "choices": {
+    "A": "40 N",
+    "B": "80 N",
+    "C": "120 N",
+    "D": "160 N"
+  },
+  "answer": "B",
+  "solution": "The magnitude of the electrostatic force between two point charges can be found using Coulomb's law: F = k × |q1| × |q2| / r^2, where k is Coulomb's constant (9 × 10^9 N·m^2/C^2), q1 and q2 are the charges in coulombs (C), and r is the distance between the charges in meters (m). Substituting the given values: F = (9 × 10^9 N·m^2/C^2) × (2 × 10^-6 C) × (4 × 10^-6 C) / (0.3 m)^2 = (9 × 10^9) × (8 × 10^-12) / (9 × 10^-2) = 72 × 10^9 × 10^-12 / 10^-2 = 72 × 10^-1 = 80 N. Therefore, the magnitude of the electrostatic force between the two point charges is 80 N."
+}

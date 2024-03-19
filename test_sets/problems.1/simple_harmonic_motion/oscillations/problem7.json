@@ -1,0 +1,11 @@
+{
+  "question": "A 2.0 kg mass is attached to a spring with a spring constant of 50 N/m and undergoes simple harmonic motion. What is the period of oscillation?",
+  "choices": {
+    "A": "0.20 s",
+    "B": "0.40 s",
+    "C": "0.63 s",
+    "D": "1.26 s"
+  },
+  "answer": "D",
+  "solution": "The period of a mass-spring system undergoing simple harmonic motion is given by the formula T = 2π√(m/k), where m is the mass and k is the spring constant. Plugging in the given values, we get: T = 2π√(2.0 kg / 50 N/m) = 2π√(0.04 s^2) ≈ 1.26 s. Therefore, the correct answer is D."
+}

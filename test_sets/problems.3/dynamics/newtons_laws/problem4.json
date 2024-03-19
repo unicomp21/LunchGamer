@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg block is pushed along a frictionless surface with a force of 10 N. What is the acceleration of the block?",
+  "choices": {
+    "A": "2 m/s^2",
+    "B": "5 m/s^2",
+    "C": "10 m/s^2",
+    "D": "20 m/s^2"
+  },
+  "answer": "B",
+  "solution": "According to Newton's Second Law, F = ma, where F is the net force, m is the mass, and a is the acceleration. Rearranging the equation, we get a = F / m. Given the force of 10 N and the mass of 2 kg, the acceleration can be calculated as follows: a = 10 N / 2 kg = 5 m/s^2. Therefore, the correct answer is choice B, 5 m/s^2."
+}

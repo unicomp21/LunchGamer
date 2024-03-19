@@ -1,0 +1,11 @@
+{
+  "question": "A block of mass 2 kg is placed on a frictionless inclined plane that makes an angle of 30° with the horizontal. What is the magnitude of the normal force exerted by the incline on the block? (Take g = 10 m/s^2)",
+  "choices": {
+    "A": "10 N",
+    "B": "20 N",
+    "C": "20/√3 N",
+    "D": "20√3 N"
+  },
+  "answer": "D",
+  "solution": "Let's break this down step by step:\n1. Draw the free body diagram: The forces acting on the block are its weight (mg) and the normal force (N) exerted by the incline.\n2. Resolve the weight into components: The component of weight parallel to the incline is mgsin(30°), and the component perpendicular to the incline is mgcos(30°).\n3. Apply Newton's Second Law: Since the block is not moving, the net force must be zero. In the direction perpendicular to the incline, this means N - mgcos(30°) = 0.\n4. Solve for N: N = mgcos(30°) = (2 kg)(10 m/s^2)cos(30°) = 20cos(30°) = 20(√3/2) = 20√3/2 ≈ 17.3 N.\nTherefore, the correct answer is D: 20√3 N."
+}

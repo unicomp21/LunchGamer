@@ -1,0 +1,11 @@
+{
+  "question": "A spring-mass system oscillates with a period of 0.5 seconds. If the mass is doubled while the spring constant remains unchanged, what will be the new period of oscillation?",
+  "choices": {
+    "A": "0.25 s",
+    "B": "0.35 s",
+    "C": "0.50 s",
+    "D": "0.71 s"
+  },
+  "answer": "D",
+  "solution": "The period of a spring-mass system is given by T = 2π√(m/k), where m is the mass and k is the spring constant. If the mass is doubled (m → 2m) while the spring constant remains the same, the new period will be T_new = 2π√(2m/k) = 2π√(2)√(m/k) = √2 * T_original. Since the original period was 0.5 s, the new period will be T_new = √2 * 0.5 s ≈ 0.71 s."
+}

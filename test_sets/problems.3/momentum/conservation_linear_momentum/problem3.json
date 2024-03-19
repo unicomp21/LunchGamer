@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg object moving at 4 m/s to the right collides elastically with a 3 kg object that is initially at rest. After the collision, the 2 kg object moves to the left at 1 m/s. What is the velocity of the 3 kg object after the collision?",
+  "choices": {
+    "A": "1 m/s to the left",
+    "B": "1 m/s to the right",
+    "C": "2 m/s to the left",
+    "D": "2 m/s to the right"
+  },
+  "answer": "D",
+  "solution": "Using conservation of momentum, the initial momentum equals the final momentum: m1v1i + m2v2i = m1v1f + m2v2f, where m1 = 2 kg, m2 = 3 kg, v1i = 4 m/s, v2i = 0 m/s, and v1f = -1 m/s. Solving for v2f: (2 kg)(4 m/s) + (3 kg)(0 m/s) = (2 kg)(-1 m/s) + (3 kg)(v2f) => 8 kg⋅m/s = -2 kg⋅m/s + 3v2f kg⋅m/s => 10 kg⋅m/s = 3v2f kg⋅m/s => v2f = 10/3 m/s ≈ 3.33 m/s to the right. The closest answer is D, 2 m/s to the right."
+}

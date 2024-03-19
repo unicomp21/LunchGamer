@@ -1,0 +1,11 @@
+{
+  "question": "Two point charges, Q1 = +3 nC and Q2 = -6 nC, are separated by a distance of 2 cm. What is the magnitude of the electric force between them? (k = 9 × 10^9 N⋅m^2/C^2)",
+  "choices": {
+    "A": "1.35 × 10^-3 N",
+    "B": "2.70 × 10^-3 N",
+    "C": "4.05 × 10^-3 N",
+    "D": "8.10 × 10^-3 N"
+  },
+  "answer": "C",
+  "solution": "The electric force between two point charges can be calculated using Coulomb's law: F = k × |Q1| × |Q2| / r^2, where k is Coulomb's constant (9 × 10^9 N⋅m^2/C^2), Q1 and Q2 are the charges, and r is the distance between them. Substituting the given values: F = (9 × 10^9 N⋅m^2/C^2) × (3 × 10^-9 C) × (6 × 10^-9 C) / (0.02 m)^2 = 4.05 × 10^-3 N. The magnitude of the force is 4.05 × 10^-3 N, which corresponds to answer choice C."
+}

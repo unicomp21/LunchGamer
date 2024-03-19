@@ -1,0 +1,11 @@
+{
+  "question": "Two point charges, +q and -2q, are separated by a distance d. At what distance from the positive charge, along the line connecting the charges, is the net electric field equal to zero?",
+  "choices": {
+    "A": "d/3",
+    "B": "d/2",
+    "C": "2d/3",
+    "D": "3d/4"
+  },
+  "answer": "A",
+  "solution": "The electric field due to the positive charge is E₁ = kq/r₁², directed away from the charge, where r₁ is the distance from the positive charge. The electric field due to the negative charge is E₂ = -k(2q)/r₂², directed toward the charge, where r₂ is the distance from the negative charge. For the net electric field to be zero, the magnitudes of the two fields must be equal: kq/r₁² = k(2q)/r₂². Since r₁ + r₂ = d, we can substitute r₂ = d - r₁. Solving the equation, we get: r₁²(d - r₁)² = 2r₁⁴. This simplifies to: r₁² = d²/3. Taking the square root of both sides, we find r₁ = d/√3. Therefore, the net electric field is zero at a distance of d/3 from the positive charge."
+}

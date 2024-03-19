@@ -1,0 +1,11 @@
+{
+  "question": "A 5 kg box is pushed 3 meters along a frictionless horizontal surface by a constant force of 10 N. How much work is done on the box by the force?",
+  "choices": {
+    "A": "6 J",
+    "B": "15 J",
+    "C": "30 J",
+    "D": "150 J"
+  },
+  "answer": "C",
+  "solution": "Work is defined as the product of force and displacement in the direction of the force. In this case, the force (10 N) and displacement (3 m) are in the same direction, so the work done is simply their product: W = F × d = 10 N × 3 m = 30 J. The mass of the box is irrelevant because the surface is frictionless, so it does not affect the work done by the force."
+}

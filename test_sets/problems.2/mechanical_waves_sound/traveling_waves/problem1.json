@@ -1,0 +1,11 @@
+{
+  "question": "A transverse wave on a string has an amplitude of 2 cm and a wavelength of 10 cm. If the wave travels at a speed of 50 cm/s, what is the period of the wave?",
+  "choices": {
+    "A": "0.1 s",
+    "B": "0.2 s",
+    "C": "0.4 s",
+    "D": "0.5 s"
+  },
+  "answer": "B",
+  "solution": "The period (T) of a wave can be found using the formula T = λ / v, where λ is the wavelength and v is the wave speed. Given λ = 10 cm and v = 50 cm/s, we can calculate the period as follows: T = 10 cm / 50 cm/s = 0.2 s. Therefore, the correct answer is B: 0.2 s."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg mass is attached to a spring with a spring constant of 50 N/m. If the mass is displaced 0.1 m from its equilibrium position and released, what is the period of the resulting simple harmonic motion?",
+  "choices": {
+    "A": "0.2π s",
+    "B": "0.4π s",
+    "C": "0.8π s",
+    "D": "1.2π s"
+  },
+  "answer": "C",
+  "solution": "The period (T) of a mass-spring system undergoing simple harmonic motion can be calculated using the formula T = 2π√(m/k), where m is the mass and k is the spring constant. Plugging in the given values: T = 2π√(2 kg / 50 N/m) = 2π√(0.04 s^2) = 2π(0.2 s) = 0.4π s. Therefore, the correct answer is C: 0.8π s, which is equal to 2(0.4π s)."
+}

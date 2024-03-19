@@ -1,0 +1,11 @@
+{
+  "question": "A 1000 kg car is traveling around a circular track of radius 50 m at a constant speed of 20 m/s. What is the magnitude of the centripetal force acting on the car?",
+  "choices": {
+    "A": "4000 N",
+    "B": "6000 N",
+    "C": "8000 N",
+    "D": "10000 N"
+  },
+  "answer": "C",
+  "solution": "The centripetal force is given by the formula F = mv^2 / r, where m is the mass of the car (1000 kg), v is its speed (20 m/s), and r is the radius of the circular track (50 m). Plugging in the values, we get: F = (1000 kg) * (20 m/s)^2 / (50 m) = 400000 kg*m/s^2 / 50 m = 8000 N. Therefore, the magnitude of the centripetal force acting on the car is 8000 N."
+}

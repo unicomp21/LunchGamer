@@ -1,0 +1,11 @@
+{
+  "question": "A ball is kicked with an initial velocity of 20 m/s at an angle of 30° above the horizontal. Neglecting air resistance, what is the ball's time of flight? (Take g = 10 m/s^2)",
+  "choices": {
+    "A": "1.0 s",
+    "B": "1.5 s",
+    "C": "2.0 s",
+    "D": "3.0 s"
+  },
+  "answer": "C",
+  "solution": "For projectile motion, the time of flight can be found using t = 2v_y / g, where v_y is the vertical component of the initial velocity. To find v_y, we use v_y = v_0 * sin(θ), where v_0 is the initial velocity (20 m/s) and θ is the launch angle (30°). Thus, v_y = 20 m/s * sin(30°) = 10 m/s. Plugging into the time of flight equation: t = 2 * (10 m/s) / (10 m/s^2) = 2 s."
+}

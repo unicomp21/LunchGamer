@@ -1,0 +1,11 @@
+{
+  "question": "A satellite orbits a planet in a circular orbit with radius R. If the radius of the orbit is doubled to 2R while the mass of the planet remains constant, what happens to the orbital velocity of the satellite?",
+  "choices": {
+    "A": "It remains the same",
+    "B": "It increases by a factor of √2",
+    "C": "It decreases by a factor of √2",
+    "D": "It decreases by a factor of 2"
+  },
+  "answer": "C",
+  "solution": "In a circular orbit, the orbital velocity v is given by the formula v = √(GM/R), where G is the gravitational constant, M is the mass of the central body (in this case, the planet), and R is the radius of the orbit. When the radius is doubled from R to 2R, the orbital velocity becomes v_new = √(GM/(2R)). We can rewrite this as v_new = √((GM/R)/2) = √(GM/R) / √2 = v / √2. Therefore, the orbital velocity decreases by a factor of √2 when the orbital radius is doubled."
+}

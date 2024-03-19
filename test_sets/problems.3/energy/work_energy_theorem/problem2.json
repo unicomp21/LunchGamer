@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg block is pushed 5 meters up a frictionless incline by a constant force of 20 N parallel to the incline. What is the change in the block's kinetic energy?",
+  "choices": {
+    "A": "0 J",
+    "B": "50 J",
+    "C": "100 J",
+    "D": "200 J"
+  },
+  "answer": "C",
+  "solution": "The work-energy theorem states that the net work done on an object is equal to the change in its kinetic energy. In this case, the work done by the force is W = F × d × cos(θ), where F is the force (20 N), d is the displacement (5 m), and θ is the angle between the force and the displacement (0° since the force is parallel to the incline). Thus, the work done is W = 20 N × 5 m × cos(0°) = 100 J. Since the incline is frictionless, there is no other force doing work on the block, so the net work is equal to the work done by the force. According to the work-energy theorem, the change in kinetic energy is equal to the net work, so ΔKE = 100 J."
+}

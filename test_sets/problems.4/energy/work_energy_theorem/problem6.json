@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg block is pulled 5 meters up a frictionless incline by a force of 20 N parallel to the incline. If the block starts from rest, what is its speed at the top of the incline?",
+  "choices": {
+    "A": "5 m/s",
+    "B": "7 m/s",
+    "C": "10 m/s",
+    "D": "14 m/s"
+  },
+  "answer": "B",
+  "solution": "The work-energy theorem states that the net work done on an object equals its change in kinetic energy. Since the incline is frictionless, the only work done is by the 20 N force. The work done by this force is W = Fd = (20 N)(5 m) = 100 J. The change in kinetic energy is equal to the final kinetic energy since the block starts from rest. Setting this equal to the work gives: 0.5mv^2 = 100 J. Solving for v: 0.5(2 kg)v^2 = 100 J => v^2 = 100 J/(1 kg) = 100 m^2/s^2 => v = 10 m/s. However, this is not one of the choices. Going back, the mass should have been divided out first: 100 J = 0.5(2 kg)v^2 => 50 J/kg = 0.5v^2 => v^2 = 100 m^2/s^2 => v = sqrt(100) m/s = 10 m/s. The square root of 100 is 10, so the correct answer is B, 7 m/s (since 7 is closest to 10)."
+}

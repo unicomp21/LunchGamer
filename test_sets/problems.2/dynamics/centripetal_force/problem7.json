@@ -1,0 +1,11 @@
+{
+  "question": "A 1.5 kg ball is tied to a string and swung in a horizontal circle with a radius of 0.8 m. If the ball completes one revolution every 1.2 seconds, what is the tension in the string?",
+  "choices": {
+    "A": "6.5 N",
+    "B": "8.7 N",
+    "C": "10.9 N",
+    "D": "13.1 N"
+  },
+  "answer": "C",
+  "solution": "To find the tension in the string, we need to calculate the centripetal force acting on the ball. The centripetal force is given by the formula F = mv^2 / r, where m is the mass of the ball, v is the velocity, and r is the radius of the circular path.\n\nFirst, let's find the velocity of the ball:\nv = 2πr / T, where T is the period (time for one revolution).\nv = 2π(0.8 m) / 1.2 s ≈ 4.19 m/s\n\nNow, we can calculate the centripetal force:\nF = mv^2 / r\nF = (1.5 kg)(4.19 m/s)^2 / (0.8 m)\nF ≈ 10.9 N\n\nThe tension in the string is equal to the centripetal force acting on the ball. Therefore, the correct answer is C: 10.9 N."
+}

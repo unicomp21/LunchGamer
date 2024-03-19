@@ -1,0 +1,11 @@
+{
+  "question": "Two children are sitting on opposite sides of a seesaw, which is initially balanced and at rest. If one child jumps off the seesaw, what will happen to the angular speed of the seesaw?",
+  "choices": {
+    "A": "The angular speed will increase",
+    "B": "The angular speed will decrease",
+    "C": "The angular speed will remain the same",
+    "D": "The seesaw will stop rotating"
+  },
+  "answer": "A",
+  "solution": "The initial angular momentum of the system is zero since the seesaw is at rest. When one child jumps off, the mass of the system decreases while the radius of the remaining child from the pivot point stays constant. Due to conservation of angular momentum, the angular speed must increase to compensate for the decreased moment of inertia (I = mr^2). With a smaller moment of inertia and the same angular momentum, the angular speed (ω) must increase, as L = Iω. Therefore, the angular speed of the seesaw will increase when one child jumps off."
+}

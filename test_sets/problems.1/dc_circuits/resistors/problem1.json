@@ -1,0 +1,11 @@
+{
+  "question": "In a simple circuit, a 9 V battery is connected to two resistors in series. One resistor has a resistance of 3 Ω and the other has a resistance of 6 Ω. What is the current flowing through the 3 Ω resistor?",
+  "choices": {
+    "A": "0.5 A",
+    "B": "1.0 A",
+    "C": "1.5 A",
+    "D": "2.0 A"
+  },
+  "answer": "B",
+  "solution": "In a series circuit, the current is the same through all components. To find the current, we first calculate the total resistance using the formula R_total = R1 + R2, where R1 and R2 are the individual resistances. Here, R_total = 3 Ω + 6 Ω = 9 Ω. Then, we use Ohm's law, I = V / R, where I is the current, V is the voltage, and R is the total resistance. Plugging in the values, we get I = 9 V / 9 Ω = 1.0 A. Therefore, the current flowing through the 3 Ω resistor is 1.0 A."
+}

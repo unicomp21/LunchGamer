@@ -1,0 +1,11 @@
+{
+  "question": "A figure skater with a moment of inertia of 2 kg⋅m^2 is spinning at an angular velocity of 3 rad/s with her arms extended. When she brings her arms in close to her body, her moment of inertia decreases to 1 kg⋅m^2. What is her new angular velocity?",
+  "choices": {
+    "A": "1.5 rad/s",
+    "B": "3 rad/s",
+    "C": "4.5 rad/s",
+    "D": "6 rad/s"
+  },
+  "answer": "D",
+  "solution": "According to the conservation of angular momentum, the initial angular momentum (L₁) equals the final angular momentum (L₂) when no external torque is acting on the system. The angular momentum is the product of the moment of inertia (I) and the angular velocity (ω). Thus, L₁ = L₂ can be written as I₁ω₁ = I₂ω₂. We know I₁ = 2 kg⋅m^2, ω₁ = 3 rad/s, and I₂ = 1 kg⋅m^2. Solving for ω₂, we get: ω₂ = (I₁ω₁) / I₂ = (2 kg⋅m^2 × 3 rad/s) / 1 kg⋅m^2 = 6 rad/s."
+}

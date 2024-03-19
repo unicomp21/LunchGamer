@@ -1,0 +1,11 @@
+{
+  "question": "In the circuit diagram shown, what is the value of the current I1?\n\n[A circuit diagram is shown with a 12 V battery connected in series to two parallel branches. The top branch has two 6 Ω resistors in series. The bottom branch has a single 3 Ω resistor. The current through the top branch is labeled I1.]",
+  "choices": {
+    "A": "0.5 A",
+    "B": "1.0 A",
+    "C": "1.5 A",
+    "D": "2.0 A"
+  },
+  "answer": "A",
+  "solution": "Using Kirchhoff's Current Law, the total current supplied by the battery divides between the two parallel branches, so I1 + I2 = Itotal. The equivalent resistance of the top branch with the two 6 Ω resistors in series is 6 Ω + 6 Ω = 12 Ω. Using Ohm's Law, the current in the top branch is I1 = V / R1 = 12 V / 12 Ω = 1 A. The current in the bottom branch is I2 = V / R2 = 12 V / 3 Ω = 4 A. So the total current is Itotal = I1 + I2 = 1 A + 4 A = 5 A. Using Kirchhoff's Voltage Law, the voltage drop across each parallel branch equals the battery voltage of 12 V. The voltage drop across the top 12 Ω branch is V1 = I1 × R1 = 1 A × 12 Ω = 12 V, which matches the battery voltage as expected. Therefore, the current through the top branch with the two series 6 Ω resistors is I1 = 1 A, so the correct answer is B."
+}

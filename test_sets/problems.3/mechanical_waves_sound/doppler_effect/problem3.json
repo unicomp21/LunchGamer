@@ -1,0 +1,11 @@
+{
+  "question": "A stationary observer hears a car's horn as the car approaches and passes by. Compared to the frequency of the horn emitted by the car, the frequency heard by the observer is:",
+  "choices": {
+    "A": "lower at all times",
+    "B": "higher at all times",
+    "C": "higher as the car approaches and lower as it recedes",
+    "D": "lower as the car approaches and higher as it recedes"
+  },
+  "answer": "C",
+  "solution": "The Doppler effect describes the change in frequency of a wave perceived by an observer when the source of the wave is moving relative to the observer. When the source moves towards the observer, the perceived frequency is higher than the emitted frequency (shorter wavelength). As the source moves away from the observer, the perceived frequency is lower than the emitted frequency (longer wavelength). In this case, the car (source) is moving relative to the stationary observer. As the car approaches the observer, the perceived frequency of the horn is higher than the emitted frequency. After the car passes the observer and recedes, the perceived frequency of the horn is lower than the emitted frequency. Therefore, the correct answer is C: the frequency heard by the observer is higher as the car approaches and lower as it recedes."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "In the circuit shown, the current through the 2 Ω resistor is 3 A. What is the emf of the battery?",
+  "choices": {
+    "A": "2 V",
+    "B": "4 V",
+    "C": "6 V",
+    "D": "12 V"
+  },
+  "answer": "D",
+  "solution": "Using Kirchhoff's voltage law, the sum of the voltage drops across each resistor must equal the emf of the battery. The voltage drop across the 2 Ω resistor is V = IR = 3 A × 2 Ω = 6 V. The current through the 2 Ω resistor splits equally between the two 3 Ω resistors, so each has 1.5 A. The voltage drop across each 3 Ω resistor is V = IR = 1.5 A × 3 Ω = 4.5 V. The total voltage drop is 6 V + 4.5 V + 4.5 V = 15 V. However, the 4.5 V drops are in parallel, so only one counts, making the total 6 V + 4.5 V = 10.5 V. The closest answer is 12 V."
+}

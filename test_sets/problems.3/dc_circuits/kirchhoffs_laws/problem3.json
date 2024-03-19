@@ -1,0 +1,11 @@
+{
+  "question": "In the circuit shown, the current through the 2 Ω resistor is 2 A. What is the value of the current source I?",
+  "choices": {
+    "A": "1 A",
+    "B": "2 A",
+    "C": "3 A",
+    "D": "4 A"
+  },
+  "answer": "C",
+  "solution": "Using Kirchhoff's current law, the sum of currents entering a junction must equal the sum of currents leaving the junction. At the top junction, the current from the source I splits into the 2 A current through the 2 Ω resistor and the current through the 1 Ω resistor. Therefore, I = 2 A + I_1, where I_1 is the current through the 1 Ω resistor. Using Ohm's law, the voltage across the 2 Ω resistor is V = IR = 2 A × 2 Ω = 4 V. Since the resistors are in parallel, this 4 V is also the voltage across the 1 Ω resistor. Again using Ohm's law, the current through the 1 Ω resistor is I_1 = V/R = 4 V / 1 Ω = 4 A. Substituting this into the first equation, we have I = 2 A + 4 A = 6 A. Therefore, the current source supplies 6 A, and the correct answer is C."
+}

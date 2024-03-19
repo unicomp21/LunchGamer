@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg ball moving at 5 m/s collides head-on with a 3 kg ball initially at rest. If the collision is perfectly elastic, what is the speed of the 2 kg ball after the collision?",
+  "choices": {
+    "A": "1.0 m/s",
+    "B": "2.0 m/s",
+    "C": "3.0 m/s",
+    "D": "4.0 m/s"
+  },
+  "answer": "A",
+  "solution": "In a perfectly elastic collision, both momentum and kinetic energy are conserved. Let v1 and v1' be the initial and final velocities of the 2 kg ball, and v2' be the final velocity of the 3 kg ball (v2 = 0 initially). From conservation of momentum: m1v1 = m1v1' + m2v2'. From conservation of kinetic energy: (1/2)m1v1^2 = (1/2)m1v1'^2 + (1/2)m2v2'^2. Solving these equations simultaneously yields: v1' = (m1 - m2)v1 / (m1 + m2) = (2 - 3)(5) / (2 + 3) = -1/5 = -1.0 m/s. The negative sign indicates the 2 kg ball rebounds backwards after the collision."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A wave travels along a string with a speed of 20 m/s. If the frequency of the wave is 50 Hz, what is the wavelength of the wave?",
+  "choices": {
+    "A": "0.2 m",
+    "B": "0.4 m",
+    "C": "2.5 m",
+    "D": "1000 m"
+  },
+  "answer": "B",
+  "solution": "The wavelength of a wave can be found using the wave equation: v = fλ, where v is the wave speed, f is the frequency, and λ is the wavelength. Rearranging the equation to solve for wavelength: λ = v / f. Plugging in the given values: λ = 20 m/s / 50 Hz = 0.4 m. Therefore, the correct answer is B."
+}

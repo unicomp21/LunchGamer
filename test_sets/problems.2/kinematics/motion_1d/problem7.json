@@ -1,0 +1,11 @@
+{
+  "question": "A ball is dropped from a height of 19.6 meters. Neglecting air resistance, how long does it take for the ball to reach the ground? (Take the acceleration due to gravity as 9.8 m/s^2)",
+  "choices": {
+    "A": "1.0 s",
+    "B": "1.5 s",
+    "C": "2.0 s",
+    "D": "2.5 s"
+  },
+  "answer": "C",
+  "solution": "Since the ball is dropped from rest, its initial velocity is 0 m/s. The acceleration due to gravity is 9.8 m/s^2. We can use the equation: y = y0 + v0*t + 0.5*a*t^2, where y is the final position (0 m), y0 is the initial height (19.6 m), v0 is the initial velocity (0 m/s), a is the acceleration (-9.8 m/s^2), and t is the time (unknown). Substituting the values, we get: 0 = 19.6 + 0 - 4.9*t^2. Simplifying: 4.9*t^2 = 19.6. Solving for t, we get: t^2 = 19.6/4.9 = 4. Therefore, t = √4 = 2 seconds."
+}

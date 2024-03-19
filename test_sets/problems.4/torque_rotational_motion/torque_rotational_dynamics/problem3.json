@@ -1,0 +1,11 @@
+{
+  "question": "A uniform solid disk of radius R and mass M is mounted on a frictionless axle perpendicular to its center. A force F is applied tangentially to the edge of the disk. What is the angular acceleration of the disk?",
+  "choices": {
+    "A": "F / (MR)",
+    "B": "2F / (MR)",
+    "C": "FR / (0.5MR^2)",
+    "D": "2FR / (MR^2)"
+  },
+  "answer": "D",
+  "solution": "The torque τ applied to the disk is equal to the force F times the radius R, so τ = FR. The moment of inertia I of a solid disk about its center is 0.5MR^2. Using the rotational form of Newton's second law, τ = Iα, we can substitute and solve for the angular acceleration α:\n\nFR = (0.5MR^2)α\nα = FR / (0.5MR^2)\nα = 2FR / (MR^2)\n\nTherefore, the correct answer is D: 2FR / (MR^2)."
+}

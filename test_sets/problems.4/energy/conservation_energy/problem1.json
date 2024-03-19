@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg object is dropped from a height of 5 meters. If air resistance is negligible, what is the kinetic energy of the object just before it hits the ground? (Take g = 10 m/s^2)",
+  "choices": {
+    "A": "10 J",
+    "B": "50 J",
+    "C": "100 J",
+    "D": "200 J"
+  },
+  "answer": "C",
+  "solution": "By the conservation of energy, the initial potential energy of the object is converted entirely into kinetic energy just before it hits the ground (assuming no air resistance). The initial potential energy is given by PE = mgh, where m is the mass (2 kg), g is the acceleration due to gravity (10 m/s^2), and h is the height (5 m). Thus, PE = 2 kg × 10 m/s^2 × 5 m = 100 J. Since all of this potential energy is converted to kinetic energy, the kinetic energy just before the object hits the ground is also 100 J."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg block starts from rest at the top of a 5 m long frictionless ramp inclined at 30° to the horizontal. What is the kinetic energy of the block when it reaches the bottom of the ramp?",
+  "choices": {
+    "A": "20 J",
+    "B": "49 J",
+    "C": "98 J",
+    "D": "196 J"
+  },
+  "answer": "B",
+  "solution": "The block's initial potential energy is converted to kinetic energy at the bottom of the ramp, assuming no friction. Initial potential energy: PE = mgh, where m = 2 kg, g = 9.8 m/s^2, and h = 5 m × sin(30°) = 2.5 m. Thus, PE = 2 kg × 9.8 m/s^2 × 2.5 m = 49 J. By the conservation of energy, the kinetic energy at the bottom of the ramp will be equal to the initial potential energy, which is 49 J."
+}

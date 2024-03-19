@@ -1,0 +1,11 @@
+{
+  "question": "A solid disk of mass M and radius R is initially at rest. A force F is applied tangentially to the edge of the disk for a time interval Δt, causing the disk to rotate about its center. What is the angular momentum of the disk after the force is removed?",
+  "choices": {
+    "A": "F * Δt",
+    "B": "F * Δt * R",
+    "C": "1/2 * M * R^2 * (F * Δt * R)",
+    "D": "1/2 * M * R^2 * (F * Δt) / R"
+  },
+  "answer": "B",
+  "solution": "The angular momentum L of a rotating object is given by the formula L = I * ω, where I is the moment of inertia and ω is the angular velocity. For a solid disk, I = 1/2 * M * R^2. The angular velocity can be found using the formula ω = Δθ / Δt, where Δθ is the angular displacement. The angular displacement is caused by the torque τ applied to the disk, which is given by τ = F * R. The angular displacement can be found using the formula Δθ = (τ * Δt) / I. Substituting the expressions for τ and I, we get Δθ = (F * R * Δt) / (1/2 * M * R^2). The angular velocity is then ω = Δθ / Δt = (F * R * Δt) / (1/2 * M * R^2 * Δt) = (2 * F) / (M * R). Finally, the angular momentum is L = I * ω = (1/2 * M * R^2) * ((2 * F) / (M * R)) = F * Δt * R."
+}

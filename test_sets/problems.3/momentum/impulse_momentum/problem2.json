@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg ball is thrown horizontally at a speed of 5 m/s. It collides with and sticks to a 3 kg stationary ball. What is the final velocity of the combined balls after the collision?",
+  "choices": {
+    "A": "1 m/s",
+    "B": "2 m/s",
+    "C": "3 m/s",
+    "D": "4 m/s"
+  },
+  "answer": "B",
+  "solution": "Using the law of conservation of momentum, the total momentum before the collision equals the total momentum after the collision. Let the final velocity of the combined balls be v.\n\nInitial momentum = (2 kg)(5 m/s) + (3 kg)(0 m/s) = 10 kg⋅m/s\nFinal momentum = (2 kg + 3 kg)(v) = 5v kg⋅m/s\n\nSetting initial and final momenta equal:\n10 kg⋅m/s = 5v kg⋅m/s\nv = 10 kg⋅m/s ÷ 5 kg = 2 m/s\n\nTherefore, the final velocity of the combined balls is 2 m/s."
+}

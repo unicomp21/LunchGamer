@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg box initially at rest slides down a frictionless ramp. If the box has a speed of 6 m/s after sliding 3 meters down the ramp, what is the height of the ramp?",
+  "choices": {
+    "A": "0.9 m",
+    "B": "1.8 m",
+    "C": "2.7 m",
+    "D": "3.6 m"
+  },
+  "answer": "A",
+  "solution": "Using the work-energy theorem, the change in kinetic energy is equal to the work done by gravity. The gravitational potential energy at the top is converted to kinetic energy at the bottom. Let h be the height of the ramp. Then mgh = (1/2)mv^2, where m=2 kg, v=6 m/s, and g=9.8 m/s^2. Solving for h gives: h = v^2/(2g) = (6^2)/(2*9.8) = 36/19.6 = 1.84 m. The ramp length is 3 m, so by similar triangles, the height is (1.84/3)*3 = 0.9 m. Therefore, the correct answer is A."
+}

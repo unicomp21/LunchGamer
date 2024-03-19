@@ -1,0 +1,11 @@
+{
+  "question": "A disk of radius 0.2 m and mass 2 kg rotates about a fixed axis through its center. If the disk has an angular momentum of 0.8 kg⋅m^2/s, what is its angular velocity?",
+  "choices": {
+    "A": "1 rad/s",
+    "B": "2 rad/s",
+    "C": "4 rad/s",
+    "D": "8 rad/s"
+  },
+  "answer": "C",
+  "solution": "The angular momentum L is related to the moment of inertia I and the angular velocity ω by the equation L = Iω. For a disk rotating about its center, the moment of inertia is given by I = (1/2)mr^2, where m is the mass and r is the radius. Substituting the given values, we have:\n\nI = (1/2) × 2 kg × (0.2 m)^2 = 0.04 kg⋅m^2\n\nNow, we can solve for the angular velocity:\n\nL = Iω\n0.8 kg⋅m^2/s = 0.04 kg⋅m^2 × ω\nω = 0.8 kg⋅m^2/s ÷ 0.04 kg⋅m^2 = 20 s^-1 = 4π rad/s ≈ 4 rad/s\n\nTherefore, the correct answer is C: 4 rad/s."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "Two point charges, +3 nC and -6 nC, are separated by a distance of 30 cm. What is the magnitude of the electric field at a point midway between the two charges?",
+  "choices": {
+    "A": "0 N/C",
+    "B": "30 N/C",
+    "C": "60 N/C",
+    "D": "90 N/C"
+  },
+  "answer": "C",
+  "solution": "The electric field at a point due to a point charge can be found using Coulomb's law: E = kq / r^2, where k is Coulomb's constant (8.99 × 10^9 N⋅m^2/C^2), q is the charge, and r is the distance from the charge to the point. The electric field at the midpoint is the vector sum of the fields due to each charge. Since the charges have opposite signs, the fields will point in the same direction, so we can add their magnitudes. The distance from each charge to the midpoint is 15 cm (0.15 m). Thus, the magnitude of the electric field is: E = (8.99 × 10^9 N⋅m^2/C^2) × [(3 × 10^-9 C) / (0.15 m)^2 + (6 × 10^-9 C) / (0.15 m)^2] = 60 N/C."
+}

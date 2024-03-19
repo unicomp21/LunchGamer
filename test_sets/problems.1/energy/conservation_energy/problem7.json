@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg block is released from rest at a height of 10 m above the ground. Assuming negligible air resistance, what is the speed of the block just before it hits the ground? (Take g = 10 m/s^2)",
+  "choices": {
+    "A": "5 m/s",
+    "B": "10 m/s",
+    "C": "14 m/s",
+    "D": "20 m/s"
+  },
+  "answer": "C",
+  "solution": "Using the law of conservation of energy, the initial potential energy of the block is converted entirely into kinetic energy just before it hits the ground (assuming no energy loss due to air resistance).\n\nInitial potential energy (PE) = mgh = 2 kg × 10 m/s^2 × 10 m = 200 J\n\nFinal kinetic energy (KE) = (1/2)mv^2, where v is the speed just before hitting the ground.\n\nBy the law of conservation of energy, PE = KE\n200 J = (1/2) × 2 kg × v^2\n400 J = 2 kg × v^2\n200 m^2/s^2 = v^2\nv = √(200 m^2/s^2) ≈ 14 m/s\n\nTherefore, the speed of the block just before it hits the ground is approximately 14 m/s."
+}

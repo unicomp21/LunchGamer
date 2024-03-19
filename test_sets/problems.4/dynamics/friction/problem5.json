@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg block is pushed across a horizontal surface with a force of 10 N at an angle of 30° above the horizontal. If the coefficient of kinetic friction between the block and the surface is 0.2, what is the acceleration of the block? (Take g = 10 m/s^2)",
+  "choices": {
+    "A": "2.5 m/s^2",
+    "B": "3.0 m/s^2",
+    "C": "3.5 m/s^2",
+    "D": "4.0 m/s^2"
+  },
+  "answer": "C",
+  "solution": "The forces acting on the block are the applied force (F), normal force (N), friction force (f), and gravity (mg). First, find the normal force using N = mg - Fy, where Fy is the vertical component of the applied force. Fy = F * sin(30°) = 10 N * 0.5 = 5 N. So, N = 2 kg * 10 m/s^2 - 5 N = 15 N. \nNext, calculate the friction force using f = μ * N, where μ is the coefficient of kinetic friction. f = 0.2 * 15 N = 3 N. \nNow, find the horizontal component of the applied force: Fx = F * cos(30°) = 10 N * 0.866 = 8.66 N. \nThe net force in the horizontal direction is Fnet = Fx - f = 8.66 N - 3 N = 5.66 N. \nFinally, use Newton's second law (Fnet = ma) to find the acceleration: a = Fnet / m = 5.66 N / 2 kg ≈ 3.5 m/s^2 (rounded to the nearest option)."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "Two identical small spheres, each carrying a charge of +2 nC, are placed 1 m apart. What is the magnitude of the electrostatic force between them? (k = 9 × 10^9 N⋅m^2/C^2)",
+  "choices": {
+    "A": "9 × 10^-9 N",
+    "B": "3.6 × 10^-8 N",
+    "C": "1.8 × 10^-9 N",
+    "D": "3.6 × 10^-9 N"
+  },
+  "answer": "D",
+  "solution": "The electrostatic force between two point charges can be calculated using Coulomb's law: F = k × (|q1| × |q2|) / r^2, where k is Coulomb's constant, q1 and q2 are the charges, and r is the distance between the charges. Substituting the given values: F = (9 × 10^9 N⋅m^2/C^2) × ((2 × 10^-9 C) × (2 × 10^-9 C)) / (1 m)^2 = (9 × 10^9 N⋅m^2/C^2) × (4 × 10^-18 C^2) / 1 m^2 = 36 × 10^-9 N⋅m^2/m^2 = 3.6 × 10^-9 N. Therefore, the correct answer is D."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A 50 kg crate is pushed across a horizontal floor with a constant force of 100 N. If the coefficient of kinetic friction between the crate and the floor is 0.2, what is the acceleration of the crate?",
+  "choices": {
+    "A": "0.4 m/s^2",
+    "B": "1.0 m/s^2",
+    "C": "1.6 m/s^2",
+    "D": "2.0 m/s^2"
+  },
+  "answer": "C",
+  "solution": "The acceleration can be found using Newton's Second Law: ΣF = ma. The net force is the applied force minus the friction force. The friction force is μ_k * N, where μ_k is the coefficient of kinetic friction (0.2) and N is the normal force, which equals the weight (50 kg * 9.8 m/s^2 = 490 N) since the surface is horizontal. Thus, the friction force is 0.2 * 490 N = 98 N. The net force is 100 N - 98 N = 2 N. Using Newton's Second Law, 2 N = 50 kg * a, so a = 2 N / 50 kg = 0.04 m/s^2. Multiplying by 1000 cm / 1 m and canceling units yields an acceleration of 1.6 m/s^2."
+}

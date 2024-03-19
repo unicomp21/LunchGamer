@@ -1,0 +1,11 @@
+{
+  "question": "Two point charges, +4.0 µC and -2.0 µC, are separated by a distance of 0.30 m. What is the magnitude of the electrostatic force between the charges?",
+  "choices": {
+    "A": "6.0 N",
+    "B": "8.0 N",
+    "C": "12 N",
+    "D": "16 N"
+  },
+  "answer": "D",
+  "solution": "The magnitude of the electrostatic force can be found using Coulomb's law: F = k * |q1| * |q2| / r^2, where k is Coulomb's constant (8.99 × 10^9 N⋅m^2/C^2), q1 and q2 are the charges (4.0 × 10^-6 C and -2.0 × 10^-6 C), and r is the distance between the charges (0.30 m). Plugging in the values: F = (8.99 × 10^9 N⋅m^2/C^2) * (4.0 × 10^-6 C) * (2.0 × 10^-6 C) / (0.30 m)^2 = 16 N. The magnitude of the force is always positive, regardless of the sign of the charges."
+}

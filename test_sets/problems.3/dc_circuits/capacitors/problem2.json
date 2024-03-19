@@ -1,0 +1,11 @@
+{
+  "question": "Two identical parallel plate capacitors, C1 and C2, are connected in series to a battery. If the plate separation of C1 is doubled while keeping the plate separation of C2 constant, what happens to the equivalent capacitance of the series combination?",
+  "choices": {
+    "A": "It decreases to 2/3 of the original value",
+    "B": "It decreases to 1/2 of the original value",
+    "C": "It decreases to 1/3 of the original value",
+    "D": "It decreases to 1/4 of the original value"
+  },
+  "answer": "C",
+  "solution": "The capacitance of a parallel plate capacitor is inversely proportional to the plate separation (C = ε0A/d). If the plate separation of C1 is doubled, its capacitance becomes half of its original value. \n\nFor capacitors in series, the reciprocal of the equivalent capacitance is equal to the sum of reciprocals of individual capacitances: 1/Ceq = 1/C1 + 1/C2. \n\nInitially, C1 = C2, so 1/Ceq_initial = 1/C1 + 1/C1 = 2/C1. \n\nAfter doubling C1's plate separation, the new C1 is half of the original value: C1_new = C1/2. \n\nNow, 1/Ceq_new = 1/(C1/2) + 1/C1 = 2/C1 + 1/C1 = 3/C1. \n\nTherefore, Ceq_new = C1/3 = Ceq_initial/3. The equivalent capacitance decreases to 1/3 of its original value."
+}

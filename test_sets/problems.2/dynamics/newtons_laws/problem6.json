@@ -1,0 +1,11 @@
+{
+  "question": "A constant net force of 20 N is applied to a 5 kg object initially at rest on a frictionless surface. After 4 seconds, what is the object's velocity?",
+  "choices": {
+    "A": "4 m/s",
+    "B": "8 m/s",
+    "C": "12 m/s",
+    "D": "16 m/s"
+  },
+  "answer": "D",
+  "solution": "Using Newton's second law, F = ma, we can find the acceleration: a = F / m = 20 N / 5 kg = 4 m/s^2. Since the object starts from rest, we can use the equation v = at, where v is the final velocity, a is the acceleration, and t is the time. Substituting the values, we get v = 4 m/s^2 * 4 s = 16 m/s. Therefore, the correct answer is D."
+}

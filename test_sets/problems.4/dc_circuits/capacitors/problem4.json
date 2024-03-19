@@ -1,0 +1,11 @@
+{
+  "question": "Two capacitors with capacitances C1 = 4 µF and C2 = 6 µF are connected in series to a 12 V battery. What is the equivalent capacitance of the circuit?",
+  "choices": {
+    "A": "1.2 µF",
+    "B": "2.4 µF",
+    "C": "10 µF",
+    "D": "24 µF"
+  },
+  "answer": "B",
+  "solution": "When capacitors are connected in series, the reciprocal of the equivalent capacitance (Ceq) is equal to the sum of the reciprocals of the individual capacitances. Thus, 1/Ceq = 1/C1 + 1/C2. Substituting the given values, we get: 1/Ceq = 1/(4 µF) + 1/(6 µF) = 0.25 µF⁻¹ + 0.167 µF⁻¹ = 0.417 µF⁻¹. Taking the reciprocal of both sides, Ceq = 1/(0.417 µF⁻¹) ≈ 2.4 µF. Therefore, the correct answer is B."
+}

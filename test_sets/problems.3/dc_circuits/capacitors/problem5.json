@@ -1,0 +1,11 @@
+{
+  "question": "Two capacitors with capacitances C1 and C2 are connected in series to a battery with voltage V. What is the equivalent capacitance of this combination?",
+  "choices": {
+    "A": "C1 + C2",
+    "B": "(C1 * C2) / (C1 + C2)",
+    "C": "1 / (1/C1 + 1/C2)",
+    "D": "V / (C1 + C2)"
+  },
+  "answer": "C",
+  "solution": "For capacitors connected in series, the reciprocal of the equivalent capacitance (1/Ceq) is equal to the sum of the reciprocals of the individual capacitances (1/C1 + 1/C2). This can be derived by applying Kirchhoff's voltage law and the definition of capacitance (Q = CV). Thus, the equivalent capacitance is given by Ceq = 1 / (1/C1 + 1/C2). Therefore, the correct answer is choice C."
+}

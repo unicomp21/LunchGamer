@@ -1,0 +1,11 @@
+{
+  "question": "A uniform solid disk of mass 2 kg and radius 0.5 m is initially at rest. A constant tangential force of 4 N is applied to the edge of the disk, causing it to rotate about its center. After 3 seconds, what is the angular velocity of the disk?",
+  "choices": {
+    "A": "1 rad/s",
+    "B": "2 rad/s",
+    "C": "3 rad/s",
+    "D": "4 rad/s"
+  },
+  "answer": "C",
+  "solution": "The moment of inertia of a solid disk is given by I = (1/2) * m * r^2, where m is the mass and r is the radius. Thus, I = (1/2) * 2 kg * (0.5 m)^2 = 0.25 kg·m^2. The torque applied to the disk is τ = F * r = 4 N * 0.5 m = 2 N·m. Using the rotational form of Newton's second law, τ = I * α, where α is the angular acceleration, we have α = τ / I = 2 N·m / 0.25 kg·m^2 = 8 rad/s^2. Since the disk starts from rest, we can use the equation ω = α * t, where ω is the angular velocity and t is the time. Substituting the values, we get ω = 8 rad/s^2 * 3 s = 24 rad/s. Therefore, the correct answer is C: 3 rad/s."
+}

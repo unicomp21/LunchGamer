@@ -1,0 +1,11 @@
+{
+  "question": "A ball is thrown horizontally from the top of a 45 m tall building with an initial velocity of 20 m/s. Neglecting air resistance, how long does it take for the ball to reach the ground?",
+  "choices": {
+    "A": "1.5 s",
+    "B": "2.1 s",
+    "C": "3.0 s",
+    "D": "4.5 s"
+  },
+  "answer": "C",
+  "solution": "In projectile motion, the horizontal and vertical components of motion are independent of each other. The time taken for the ball to reach the ground depends only on the vertical motion under the influence of gravity.\n\nUsing the equation: y = y0 + v0y * t + (1/2) * g * t^2, where y0 = 45 m (initial height), v0y = 0 (no initial vertical velocity), and g = -9.8 m/s^2 (acceleration due to gravity).\n\nSubstituting y = 0 (ground level) and solving for t:\n0 = 45 + 0 * t + (1/2) * (-9.8) * t^2\n45 = (1/2) * 9.8 * t^2\nt^2 = 45 / (4.9)\nt = √(45 / 4.9) ≈ 3.0 s\n\nTherefore, the ball takes approximately 3.0 seconds to reach the ground."
+}

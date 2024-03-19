@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg block is pulled 5 m up a frictionless incline that makes a 30° angle with the horizontal by a force of 20 N parallel to the incline. How much work is done by the 20 N force on the block?",
+  "choices": {
+    "A": "50 J",
+    "B": "86.6 J",
+    "C": "100 J",
+    "D": "173.2 J"
+  },
+  "answer": "C",
+  "solution": "The work done by a force is calculated using the formula W = Fd cosθ, where F is the force, d is the displacement, and θ is the angle between the force and the displacement. In this case, F = 20 N, d = 5 m, and θ = 0° (since the force is parallel to the incline). Thus, W = 20 N × 5 m × cos(0°) = 100 J."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A satellite orbits a planet in a circular orbit of radius r. If the radius of the orbit is doubled to 2r, what happens to the satellite's orbital period?",
+  "choices": {
+    "A": "The period remains the same",
+    "B": "The period increases by a factor of √2",
+    "C": "The period increases by a factor of 2",
+    "D": "The period increases by a factor of 2√2"
+  },
+  "answer": "D",
+  "solution": "According to Kepler's Third Law, the square of the orbital period (T) is directly proportional to the cube of the semi-major axis (a) of the orbit: T^2 ∝ a^3. In this case, the orbit is circular, so the semi-major axis is equal to the radius (r). When the radius is doubled, the new period (T_new) is related to the original period (T_original) as follows:\n\n(T_new)^2 / (T_original)^2 = (2r)^3 / r^3\n\n(T_new)^2 / (T_original)^2 = 8\n\nT_new / T_original = √8 = 2√2\n\nTherefore, the orbital period increases by a factor of 2√2 when the orbital radius is doubled."
+}

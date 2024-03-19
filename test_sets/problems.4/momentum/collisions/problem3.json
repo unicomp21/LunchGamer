@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg object moving at 5 m/s collides head-on with a 3 kg object that is initially at rest. If the collision is perfectly inelastic, what is the velocity of the combined object after the collision?",
+  "choices": {
+    "A": "1 m/s",
+    "B": "2 m/s",
+    "C": "3 m/s",
+    "D": "4 m/s"
+  },
+  "answer": "B",
+  "solution": "In a perfectly inelastic collision, the two objects stick together and move with a common velocity after the collision. We can use conservation of momentum to find this velocity. Initial momentum is (2 kg)(5 m/s) = 10 kg⋅m/s. Final momentum must equal initial momentum, so (2 kg + 3 kg)v = 10 kg⋅m/s, where v is the final velocity. Solving for v, we get v = 10 kg⋅m/s / 5 kg = 2 m/s."
+}

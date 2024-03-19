@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg block starts from rest and slides down a frictionless ramp. If the block's speed at the bottom of the ramp is 4 m/s, what is the vertical height of the ramp?",
+  "choices": {
+    "A": "0.4 m",
+    "B": "0.8 m",
+    "C": "1.6 m",
+    "D": "3.2 m"
+  },
+  "answer": "B",
+  "solution": "Using the work-energy theorem, the change in kinetic energy is equal to the work done by gravity (gravitational potential energy).\n\nWork-energy theorem: ΔKE = W\nΔKE = mgh (h is the vertical height of the ramp)\n\nKinetic energy (KE) = (1/2)mv^2\nInitial KE = 0 (block starts at rest)\nFinal KE = (1/2) * 2 kg * (4 m/s)^2 = 16 J\n\nSo, ΔKE = 16 J - 0 J = 16 J\n\nSubstituting in the work-energy theorem:\n16 J = 2 kg * 9.8 m/s^2 * h\nh = 16 J / (2 kg * 9.8 m/s^2) ≈ 0.8 m\n\nTherefore, the vertical height of the ramp is approximately 0.8 m."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A 1.2 kg object is attached to a string and swung in a horizontal circular path with a radius of 0.8 m. If the object's speed is 3.0 m/s, what is the tension in the string?",
+  "choices": {
+    "A": "1.35 N",
+    "B": "4.50 N",
+    "C": "10.8 N",
+    "D": "14.4 N"
+  },
+  "answer": "C",
+  "solution": "The tension in the string provides the centripetal force, which can be calculated using the formula F_c = mv^2/r, where m is the object's mass (1.2 kg), v is its speed (3.0 m/s), and r is the radius of the circular path (0.8 m). Plugging in the values, we get: F_c = (1.2 kg)(3.0 m/s)^2 / (0.8 m) = 10.8 N. Therefore, the tension in the string is 10.8 N."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A 2.0 kg mass is attached to a spring with a spring constant of 50 N/m. If the mass is displaced 0.1 m from its equilibrium position and released, what is the maximum speed of the mass as it oscillates?",
+  "choices": {
+    "A": "0.25 m/s",
+    "B": "0.50 m/s",
+    "C": "1.0 m/s",
+    "D": "1.5 m/s"
+  },
+  "answer": "B",
+  "solution": "In simple harmonic motion, the maximum speed occurs at the equilibrium position. The total energy of the system is conserved, so the maximum kinetic energy equals the initial elastic potential energy. The elastic potential energy is given by U = (1/2)kx^2, where k is the spring constant and x is the displacement from equilibrium. Thus, U = (1/2)(50 N/m)(0.1 m)^2 = 0.25 J. By conservation of energy, the maximum kinetic energy K = (1/2)mv^2 is also 0.25 J. Solving for v, we get v = sqrt(2K/m) = sqrt(2(0.25 J)/(2.0 kg)) = 0.50 m/s."
+}

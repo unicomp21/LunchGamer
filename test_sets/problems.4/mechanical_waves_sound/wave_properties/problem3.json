@@ -1,0 +1,11 @@
+{
+  "question": "Two waves travel through the same medium. Wave A has twice the frequency and half the wavelength of Wave B. How does the speed of Wave A compare to the speed of Wave B?",
+  "choices": {
+    "A": "Wave A is twice as fast as Wave B.",
+    "B": "Wave A is half as fast as Wave B.",
+    "C": "Wave A is four times as fast as Wave B.",
+    "D": "Wave A has the same speed as Wave B."
+  },
+  "answer": "D",
+  "solution": "The speed of a wave is given by the equation v = fλ, where v is the wave speed, f is the frequency, and λ is the wavelength. If Wave A has twice the frequency and half the wavelength of Wave B, then:\n\nf_A = 2f_B\nλ_A = (1/2)λ_B\n\nSubstituting these into the wave speed equation for Wave A:\nv_A = f_A * λ_A = (2f_B) * (1/2)λ_B = f_B * λ_B\n\nThis is the same as the wave speed equation for Wave B:\nv_B = f_B * λ_B\n\nTherefore, Wave A and Wave B have the same speed, despite their differences in frequency and wavelength."
+}

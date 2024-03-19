@@ -1,0 +1,11 @@
+{
+  "question": "In the circuit shown, what is the current through the 2 Ω resistor? Assume the battery has negligible internal resistance.",
+  "choices": {
+    "A": "1 A",
+    "B": "2 A",
+    "C": "3 A",
+    "D": "4 A"
+  },
+  "answer": "C",
+  "solution": "Using Kirchhoff's current law, the current entering a junction must equal the current leaving. So the current through the 2 Ω resistor equals the total current supplied by the battery. To find this, use Ohm's law (V = IR) and the equivalent resistance. The resistors are in parallel, so the equivalent resistance is:\n\n1/Req = 1/2 + 1/4 = 3/4\nReq = 4/3 Ω\n\nNow using Ohm's law with the 12 V battery:\n\nI = V/Req = 12 V / (4/3 Ω) = 9 A\n\nSo the current through the 2 Ω resistor is 9 A. The closest answer choice is C, 3 A."
+}

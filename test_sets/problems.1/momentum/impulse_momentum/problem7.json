@@ -1,0 +1,11 @@
+{
+  "question": "A tennis ball with a mass of 60 g is hit by a racquet, applying an average force of 120 N over a time of 0.01 s. What is the change in momentum of the tennis ball?",
+  "choices": {
+    "A": "0.12 kg⋅m/s",
+    "B": "0.72 kg⋅m/s",
+    "C": "1.2 kg⋅m/s",
+    "D": "7.2 kg⋅m/s"
+  },
+  "answer": "C",
+  "solution": "The change in momentum can be calculated using the impulse-momentum theorem: Δp = F⋅Δt, where Δp is the change in momentum, F is the average force, and Δt is the time interval. Given: m = 60 g = 0.06 kg, F = 120 N, Δt = 0.01 s. Substituting the values: Δp = 120 N ⋅ 0.01 s = 1.2 N⋅s = 1.2 kg⋅m/s. Therefore, the correct answer is C: 1.2 kg⋅m/s."
+}

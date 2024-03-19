@@ -1,0 +1,11 @@
+{
+  "question": "In the circuit shown, all resistors have equal resistance R. What is the current through the battery?",
+  "choices": {
+    "A": "V / R",
+    "B": "V / (2R)",
+    "C": "2V / (3R)",
+    "D": "2V / R"
+  },
+  "answer": "C",
+  "solution": "By Kirchhoff's current law, the current through the battery equals the sum of the currents in the two branches. Let the current through the top branch be I1 and the current through the bottom branch be I2. The top branch has two resistors in series, so its equivalent resistance is 2R, and I1 = V / (2R). The bottom branch has one resistor, so I2 = V / R. By Kirchhoff's current law, Ibattery = I1 + I2 = V / (2R) + V / R = V / (2R) + 2V / (2R) = 3V / (2R) = 2V / (3R)."
+}

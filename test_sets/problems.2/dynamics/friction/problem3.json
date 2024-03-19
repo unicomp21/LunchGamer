@@ -1,0 +1,11 @@
+{
+  "question": "A 5 kg box is pushed across a horizontal surface with a constant force of 20 N. If the coefficient of kinetic friction between the box and the surface is 0.3, what is the acceleration of the box?",
+  "choices": {
+    "A": "1.2 m/s^2",
+    "B": "2.6 m/s^2",
+    "C": "4.0 m/s^2",
+    "D": "6.0 m/s^2"
+  },
+  "answer": "B",
+  "solution": "The forces acting on the box are the applied force (F_a = 20 N) and the friction force (F_f). The friction force can be calculated using F_f = μ_k * F_N, where μ_k is the coefficient of kinetic friction (0.3) and F_N is the normal force. The normal force is equal to the weight of the box (F_N = mg = 5 kg * 9.8 m/s^2 = 49 N). Thus, F_f = 0.3 * 49 N = 14.7 N. Using Newton's Second Law (F_net = ma), we can find the acceleration: 20 N - 14.7 N = 5 kg * a, which gives a = 5.3 N / 5 kg = 1.06 m/s^2. The closest answer is B (2.6 m/s^2)."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A stationary observer hears a car's horn as the car approaches and passes them at a constant velocity. Compared to the frequency of the horn when the car is at rest, the frequency heard by the observer is:",
+  "choices": {
+    "A": "Higher as the car approaches and lower as it recedes",
+    "B": "Lower as the car approaches and higher as it recedes",
+    "C": "Higher throughout the car's motion",
+    "D": "Lower throughout the car's motion"
+  },
+  "answer": "A",
+  "solution": "The Doppler effect describes the change in the observed frequency of a wave when the source or observer is in relative motion. When the source (car) approaches the stationary observer, the observed frequency is higher than the source frequency due to the compression of sound waves. As the car passes and recedes from the observer, the observed frequency becomes lower than the source frequency due to the stretching of sound waves. Therefore, the correct answer is A: the frequency heard by the observer is higher as the car approaches and lower as it recedes."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "Two objects with masses of 2 kg and 3 kg moving in the same direction experience a perfectly inelastic collision. If the 2 kg object was moving at 5 m/s and the 3 kg object was moving at 2 m/s before the collision, what is the velocity of the combined object after the collision?",
+  "choices": {
+    "A": "1 m/s",
+    "B": "2 m/s",
+    "C": "3 m/s",
+    "D": "4 m/s"
+  },
+  "answer": "C",
+  "solution": "In a perfectly inelastic collision, the objects stick together and momentum is conserved. Using the formula p_initial = p_final, we have: m1v1 + m2v2 = (m1 + m2)v_final. Substituting the given values: (2 kg)(5 m/s) + (3 kg)(2 m/s) = (2 kg + 3 kg)v_final. This simplifies to: 10 kg⋅m/s + 6 kg⋅m/s = (5 kg)v_final, or 16 kg⋅m/s = (5 kg)v_final. Solving for v_final: v_final = (16 kg⋅m/s) / (5 kg) = 3.2 m/s. Rounding to the nearest answer choice gives 3 m/s."
+}

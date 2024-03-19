@@ -1,0 +1,11 @@
+{
+  "question": "A 5 kg block is pushed up a frictionless 30° incline with a constant force of 20 N parallel to the incline. What is the acceleration of the block? (Take g = 10 m/s^2)",
+  "choices": {
+    "A": "1.1 m/s^2",
+    "B": "2.0 m/s^2",
+    "C": "2.3 m/s^2",
+    "D": "4.0 m/s^2"
+  },
+  "answer": "C",
+  "solution": "The forces acting on the block are the applied force (F = 20 N), the normal force (N), and the weight (W = mg). The weight can be resolved into components parallel (mgsin30°) and perpendicular (mgcos30°) to the incline. By Newton's second law, the net force parallel to the incline equals ma, where m is the mass and a is the acceleration. Thus, F - mgsin30° = ma. Substituting the values, we get: 20 N - (5 kg)(10 m/s^2)sin30° = (5 kg)a. Simplifying, 20 N - 25 N = 5a, which gives a = (20 N - 25 N) / (5 kg) ≈ 2.3 m/s^2."
+}

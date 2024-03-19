@@ -1,0 +1,11 @@
+{
+  "question": "A 1.5 kg ball is tied to a string and swung in a horizontal circle of radius 2.0 m. If the ball makes 3.0 revolutions per second, what is the tension in the string?",
+  "choices": {
+    "A": "71 N",
+    "B": "142 N",
+    "C": "213 N",
+    "D": "284 N"
+  },
+  "answer": "C",
+  "solution": "In uniform circular motion, the centripetal force is provided by the tension in the string. The centripetal force is given by F = mv^2/r, where m is the mass of the ball, v is the tangential velocity, and r is the radius of the circle.\n\nFirst, let's calculate the tangential velocity. The ball makes 3.0 revolutions per second, so the period T is 1/3 s. The circumference of the circle is C = 2πr = 2π(2.0 m) = 12.57 m. The velocity is v = C/T = 12.57 m / (1/3 s) = 37.7 m/s.\n\nNow, we can calculate the tension:\nF = mv^2/r = (1.5 kg)(37.7 m/s)^2 / (2.0 m) = 213 N.\n\nTherefore, the tension in the string is 213 N."
+}

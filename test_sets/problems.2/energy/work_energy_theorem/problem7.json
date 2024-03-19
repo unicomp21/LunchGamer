@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg block initially at rest slides down a frictionless incline from a height of 5 m. What is the speed of the block when it reaches the bottom of the incline?",
+  "choices": {
+    "A": "5 m/s",
+    "B": "7 m/s",
+    "C": "9.9 m/s",
+    "D": "14 m/s"
+  },
+  "answer": "C",
+  "solution": "Using the work-energy theorem, the initial potential energy of the block at the top is converted completely into kinetic energy at the bottom (since the incline is frictionless). The initial potential energy is PE = mgh = 2 kg × 9.8 m/s^2 × 5 m = 98 J. By the work-energy theorem, this equals the final kinetic energy, KE = (1/2)mv^2. Setting them equal: 98 J = (1/2) × 2 kg × v^2. Solving for v, we get v = √(2 × 98 J / 2 kg) = √(98 m^2/s^2) ≈ 9.9 m/s."
+}

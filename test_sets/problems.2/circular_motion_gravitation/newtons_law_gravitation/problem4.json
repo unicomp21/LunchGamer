@@ -1,0 +1,11 @@
+{
+  "question": "Two spherical objects with masses M and 4M are separated by a distance d. What is the magnitude of the gravitational force exerted by the object with mass M on the object with mass 4M?",
+  "choices": {
+    "A": "GM^2 / d^2",
+    "B": "4GM^2 / d^2",
+    "C": "4GM^2 / (2d)^2",
+    "D": "16GM^2 / d^2"
+  },
+  "answer": "B",
+  "solution": "According to Newton's law of universal gravitation, the magnitude of the gravitational force between two objects is given by F = GMm / r^2, where G is the gravitational constant, M and m are the masses of the objects, and r is the distance between their centers. In this case, M and 4M are the masses, and d is the distance. Substituting these values into the equation, we get F = G(M)(4M) / d^2, which simplifies to F = 4GM^2 / d^2. Therefore, the correct answer is choice B."
+}

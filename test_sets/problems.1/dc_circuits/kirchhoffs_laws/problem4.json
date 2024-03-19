@@ -1,0 +1,11 @@
+{
+  "question": "In the circuit shown, the current through the 2 Ω resistor is 3 A. What is the voltage of the battery?",
+  "choices": {
+    "A": "2 V",
+    "B": "6 V",
+    "C": "12 V",
+    "D": "18 V"
+  },
+  "answer": "C",
+  "solution": "According to Kirchhoff's current law, the current entering any junction must equal the current leaving that junction. Therefore, the current through the 2 Ω resistor is the same as the current through the other two resistors and the battery. Using Ohm's law (V = IR), we can calculate the voltage drop across the 2 Ω resistor: V = (3 A)(2 Ω) = 6 V. By Kirchhoff's voltage law, the sum of the voltage drops around any closed loop in a circuit must equal zero. So, the voltage drop across the battery must equal the sum of the voltage drops across the resistors. The voltage drops across the 1 Ω and 3 Ω resistors are (3 A)(1 Ω) = 3 V and (3 A)(3 Ω) = 9 V, respectively. Therefore, the battery voltage must be 6 V + 3 V + 9 V = 18 V, which corresponds to answer choice C."
+}

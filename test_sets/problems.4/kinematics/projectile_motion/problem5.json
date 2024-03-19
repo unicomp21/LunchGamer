@@ -1,0 +1,11 @@
+{
+  "question": "A ball is thrown horizontally from a cliff with an initial velocity of 10 m/s. If the ball hits the ground 4 seconds later, what is the approximate height of the cliff? (Assume g = 9.8 m/s^2)",
+  "choices": {
+    "A": "19.6 m",
+    "B": "39.2 m",
+    "C": "78.4 m",
+    "D": "156.8 m"
+  },
+  "answer": "C",
+  "solution": "The vertical motion of the ball is independent of its horizontal motion. The vertical displacement can be found using the formula Δy = (1/2)gt^2, where g is the acceleration due to gravity (9.8 m/s^2) and t is the time (4 s). Thus, Δy = (1/2)(9.8 m/s^2)(4 s)^2 = 78.4 m. The height of the cliff is approximately 78.4 m."
+}

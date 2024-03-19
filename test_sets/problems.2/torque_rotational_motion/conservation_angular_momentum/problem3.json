@@ -1,0 +1,11 @@
+{
+  "question": "A figure skater with a moment of inertia of 2.5 kg⋅m^2 is spinning with an angular velocity of 4.0 rad/s. If she pulls her arms in, reducing her moment of inertia to 1.5 kg⋅m^2, what will be her new angular velocity?",
+  "choices": {
+    "A": "2.4 rad/s",
+    "B": "4.0 rad/s",
+    "C": "5.3 rad/s",
+    "D": "6.7 rad/s"
+  },
+  "answer": "D",
+  "solution": "This problem can be solved using the conservation of angular momentum. The initial angular momentum is equal to the final angular momentum:\n\nL_i = L_f\nI_i * ω_i = I_f * ω_f\n\nWhere I is the moment of inertia and ω is the angular velocity. Plugging in the given values:\n\n2.5 kg⋅m^2 * 4.0 rad/s = 1.5 kg⋅m^2 * ω_f\n\nSolving for ω_f:\n\nω_f = (2.5 kg⋅m^2 * 4.0 rad/s) / 1.5 kg⋅m^2\nω_f ≈ 6.7 rad/s\n\nTherefore, when the skater reduces her moment of inertia by pulling in her arms, her angular velocity increases to approximately 6.7 rad/s to conserve angular momentum."
+}

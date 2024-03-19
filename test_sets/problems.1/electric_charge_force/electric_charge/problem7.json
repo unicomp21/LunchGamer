@@ -1,0 +1,11 @@
+{
+  "question": "Two identical small spheres, each with a charge of +Q, are separated by a distance r. If the distance between the spheres is doubled, what happens to the magnitude of the electric force between them?",
+  "choices": {
+    "A": "The force becomes 4 times larger",
+    "B": "The force becomes 2 times larger",
+    "C": "The force becomes 1/2 times as large",
+    "D": "The force becomes 1/4 times as large"
+  },
+  "answer": "D",
+  "solution": "The electric force between two charges is given by Coulomb's law: F = k * |Q1| * |Q2| / r^2, where k is Coulomb's constant, Q1 and Q2 are the charges, and r is the distance between them. When the distance is doubled (r becomes 2r), the force decreases by a factor of (1/2)^2 = 1/4. Therefore, the force becomes 1/4 times as large as the original force."
+}

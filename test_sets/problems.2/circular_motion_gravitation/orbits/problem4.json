@@ -1,0 +1,11 @@
+{
+  "question": "A satellite orbits a planet in a circular orbit with a period of 8 hours. If the radius of the orbit is doubled while the mass of the planet remains the same, what will be the new period of the satellite's orbit?",
+  "choices": {
+    "A": "4 hours",
+    "B": "8 hours",
+    "C": "11.3 hours",
+    "D": "16 hours"
+  },
+  "answer": "C",
+  "solution": "According to Kepler's Third Law, the square of the orbital period (T) is directly proportional to the cube of the semi-major axis (a) of the orbit: T^2 ∝ a^3. In this case, the orbit is circular, so the semi-major axis is equal to the radius (r). When the radius is doubled, the new radius becomes 2r. Using the proportionality, we can write: (T_new / T_old)^2 = (2r / r)^3. Simplifying, we get: (T_new / 8 hours)^2 = 2^3 = 8. Taking the square root of both sides: T_new / 8 hours = √8 = 2√2. Finally, T_new = 8 hours × 2√2 ≈ 11.3 hours."
+}

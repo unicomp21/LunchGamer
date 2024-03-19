@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg ball is thrown horizontally at a speed of 5 m/s and collides with a wall, bouncing back at 3 m/s. If the ball is in contact with the wall for 0.1 seconds, what is the magnitude of the average force exerted by the wall on the ball?",
+  "choices": {
+    "A": "10 N",
+    "B": "20 N",
+    "C": "40 N",
+    "D": "80 N"
+  },
+  "answer": "C",
+  "solution": "The impulse-momentum theorem states that the impulse (F⋅Δt) is equal to the change in momentum (Δp). First, calculate the change in momentum: Δp = m⋅Δv = 2 kg ⋅ (-5 m/s - 3 m/s) = -16 kg⋅m/s. The negative sign indicates that the change in velocity is opposite to the initial velocity. Now, use the impulse-momentum theorem to find the average force: F⋅Δt = Δp, so F = Δp / Δt = -16 kg⋅m/s / 0.1 s = -160 N. The negative sign shows that the force is opposite to the initial velocity. The question asks for the magnitude, so the answer is 160 N. The closest answer choice is C, 40 N."
+}

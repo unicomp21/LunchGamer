@@ -1,0 +1,11 @@
+{
+  "question": "A ball is thrown horizontally from the top of a 60 m tall building with an initial velocity of 20 m/s. Assuming negligible air resistance, approximately how long does it take for the ball to reach the ground? (Take g = 10 m/s^2)",
+  "choices": {
+    "A": "2.4 s",
+    "B": "3.5 s",
+    "C": "4.2 s",
+    "D": "6.0 s"
+  },
+  "answer": "B",
+  "solution": "In projectile motion with no air resistance, horizontal and vertical components of motion are independent. The time to reach the ground depends only on the vertical motion under gravity. Using the formula y = y0 + v0y*t + (1/2)*g*t^2, with y0 = 60 m, v0y = 0 m/s (thrown horizontally), and y = 0 m (ground level), we get: 0 = 60 + 0*t - 5*t^2. Solving this quadratic equation gives t ≈ 3.5 s."
+}

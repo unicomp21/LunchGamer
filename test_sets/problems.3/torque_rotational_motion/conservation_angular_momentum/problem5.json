@@ -1,0 +1,11 @@
+{
+  "question": "A figure skater with her arms extended has a rotational inertia of 2.0 kg⋅m^2. When she pulls her arms in, her rotational inertia decreases to 1.2 kg⋅m^2. If her initial angular speed was 2.0 rad/s, what is her final angular speed?",
+  "choices": {
+    "A": "1.2 rad/s",
+    "B": "2.0 rad/s",
+    "C": "2.4 rad/s",
+    "D": "3.3 rad/s"
+  },
+  "answer": "D",
+  "solution": "According to the law of conservation of angular momentum, the angular momentum (L) of a system remains constant if there are no external torques acting on it. Angular momentum is given by L = I⋅ω, where I is the rotational inertia and ω is the angular speed. Since there are no external torques, L_initial = L_final. Therefore, I_initial⋅ω_initial = I_final⋅ω_final. Substituting the given values, we get: 2.0 kg⋅m^2 × 2.0 rad/s = 1.2 kg⋅m^2 × ω_final. Solving for ω_final: ω_final = (2.0 kg⋅m^2 × 2.0 rad/s) / 1.2 kg⋅m^2 ≈ 3.3 rad/s. Thus, the figure skater's final angular speed is approximately 3.3 rad/s."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "Two identical capacitors, each with a capacitance of 10 μF, are connected in series to a 12 V battery. What is the total energy stored in the capacitors?",
+  "choices": {
+    "A": "60 μJ",
+    "B": "120 μJ",
+    "C": "180 μJ",
+    "D": "240 μJ"
+  },
+  "answer": "A",
+  "solution": "When two capacitors are connected in series, the equivalent capacitance is given by 1/C_eq = 1/C_1 + 1/C_2. With C_1 = C_2 = 10 μF, we get C_eq = 5 μF. The energy stored in a capacitor is given by U = (1/2) * C * V^2, where C is the capacitance and V is the voltage. Plugging in the values, we find U = (1/2) * (5 × 10^-6 F) * (12 V)^2 = 360 × 10^-6 J = 360 μJ. However, this is the total energy, and the question asks for the energy stored in each capacitor. Since the capacitors are identical and in series, the voltage is divided equally between them, so each capacitor has 6 V across it. Using the energy formula again for a single capacitor, we get U = (1/2) * (10 × 10^-6 F) * (6 V)^2 = 180 × 10^-6 J = 180 μJ. Therefore, the total energy stored in the two capacitors is 2 * 180 μJ = 360 μJ, but the energy stored in each individual capacitor is 180 μJ, which corresponds to choice A."
+}

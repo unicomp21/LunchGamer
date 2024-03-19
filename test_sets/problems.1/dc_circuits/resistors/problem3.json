@@ -1,0 +1,11 @@
+{
+  "question": "In a series circuit with three resistors (R1 = 10 Ω, R2 = 20 Ω, and R3 = 30 Ω), a 12 V battery is connected. What is the current flowing through the 20 Ω resistor?",
+  "choices": {
+    "A": "0.1 A",
+    "B": "0.2 A",
+    "C": "0.4 A",
+    "D": "0.6 A"
+  },
+  "answer": "B",
+  "solution": "In a series circuit, the current is the same through all components. The total resistance is the sum of the individual resistances: R_total = R1 + R2 + R3 = 10 Ω + 20 Ω + 30 Ω = 60 Ω. Using Ohm's law, V = IR, the current can be calculated as I = V / R_total = 12 V / 60 Ω = 0.2 A. Therefore, the current flowing through the 20 Ω resistor is also 0.2 A."
+}

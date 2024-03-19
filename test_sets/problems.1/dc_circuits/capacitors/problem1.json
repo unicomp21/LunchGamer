@@ -1,0 +1,11 @@
+{
+  "question": "Two capacitors with capacitances C1 and C2 are connected in series to a battery with voltage V. What is the equivalent capacitance of the circuit?",
+  "choices": {
+    "A": "C1 + C2",
+    "B": "1 / (C1 + C2)",
+    "C": "C1 * C2 / (C1 + C2)",
+    "D": "(C1 + C2) / (C1 * C2)"
+  },
+  "answer": "C",
+  "solution": "When capacitors are connected in series, the equivalent capacitance (Ceq) is given by the formula: 1/Ceq = 1/C1 + 1/C2. This can be rewritten as Ceq = (C1 * C2) / (C1 + C2). Therefore, the correct answer is choice C: C1 * C2 / (C1 + C2)."
+}

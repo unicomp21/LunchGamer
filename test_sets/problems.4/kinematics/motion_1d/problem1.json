@@ -1,0 +1,11 @@
+{
+  "question": "A ball is thrown vertically upward with an initial velocity of 20 m/s. Neglecting air resistance, how long does it take for the ball to reach its maximum height?",
+  "choices": {
+    "A": "1.02 s",
+    "B": "2.04 s",
+    "C": "4.08 s",
+    "D": "10.2 s"
+  },
+  "answer": "B",
+  "solution": "To find the time to reach maximum height, we can use the equation v = v_0 - gt, where v is the final velocity (0 m/s at max height), v_0 is the initial velocity (20 m/s), g is the acceleration due to gravity (9.8 m/s^2), and t is the time. Setting v = 0, we get:\n\n0 = 20 - 9.8t\n9.8t = 20\nt = 20 / 9.8\nt ≈ 2.04 s\n\nTherefore, the ball takes approximately 2.04 seconds to reach its maximum height."
+}

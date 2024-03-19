@@ -1,0 +1,11 @@
+{
+  "question": "A figure skater with a moment of inertia of 2.5 kg⋅m^2 is spinning at an initial angular speed of 4.0 rad/s with her arms extended. When she pulls her arms inward, her moment of inertia decreases to 1.5 kg⋅m^2. Assuming no external torques act on the skater, what is her final angular speed?",
+  "choices": {
+    "A": "3.0 rad/s",
+    "B": "4.0 rad/s",
+    "C": "5.3 rad/s",
+    "D": "6.7 rad/s"
+  },
+  "answer": "D",
+  "solution": "According to the conservation of angular momentum, the initial angular momentum (L_i) is equal to the final angular momentum (L_f) when no external torque acts on the system. Angular momentum is the product of the moment of inertia (I) and the angular speed (ω). Therefore, I_i × ω_i = I_f × ω_f. Substituting the given values, we get: 2.5 kg⋅m^2 × 4.0 rad/s = 1.5 kg⋅m^2 × ω_f. Solving for ω_f, we find that ω_f = (2.5 kg⋅m^2 × 4.0 rad/s) / 1.5 kg⋅m^2 ≈ 6.7 rad/s. Thus, the skater's final angular speed is approximately 6.7 rad/s."
+}

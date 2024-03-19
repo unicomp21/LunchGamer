@@ -1,0 +1,11 @@
+{
+  "question": "A solid cylinder with a moment of inertia of 0.5 kg⋅m² is rotating at an angular speed of 4 rad/s. What is the magnitude of the angular momentum of the cylinder?",
+  "choices": {
+    "A": "0.5 kg⋅m²/s",
+    "B": "1.0 kg⋅m²/s",
+    "C": "2.0 kg⋅m²/s",
+    "D": "4.0 kg⋅m²/s"
+  },
+  "answer": "C",
+  "solution": "The angular momentum (L) of a rotating object is given by the formula L = I × ω, where I is the moment of inertia and ω is the angular speed. Substituting the given values, we get:\n\nL = 0.5 kg⋅m² × 4 rad/s\nL = 2.0 kg⋅m²/s\n\nTherefore, the magnitude of the angular momentum of the cylinder is 2.0 kg⋅m²/s."
+}

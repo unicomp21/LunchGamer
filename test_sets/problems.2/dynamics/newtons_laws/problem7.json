@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg block rests on a frictionless incline that makes a 30° angle with the horizontal. What is the magnitude of the net force on the block?",
+  "choices": {
+    "A": "0 N",
+    "B": "9.8 N",
+    "C": "19.6 N",
+    "D": "9.8 N × sin(30°)"
+  },
+  "answer": "D",
+  "solution": "The net force on the block is the component of the block's weight parallel to the incline. The weight of the block is mg = (2 kg)(9.8 m/s^2) = 19.6 N. The component of the weight parallel to the incline is mgsin(θ), where θ is the angle the incline makes with the horizontal. Thus, the net force is (19.6 N)sin(30°) = 9.8 N. Since there is no friction, this is the only force acting on the block parallel to the incline, and therefore it is the net force."
+}

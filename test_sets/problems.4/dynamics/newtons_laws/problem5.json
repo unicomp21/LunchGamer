@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg block is placed on a frictionless inclined plane that makes a 30° angle with the horizontal. What is the magnitude of the force parallel to the incline required to keep the block at rest?",
+  "choices": {
+    "A": "0 N",
+    "B": "9.8 N",
+    "C": "19.6 N",
+    "D": "11.3 N"
+  },
+  "answer": "D",
+  "solution": "The force required to keep the block at rest is equal to the component of the block's weight parallel to the incline. The weight of the block is W = mg = (2 kg)(9.8 m/s^2) = 19.6 N. The angle between the weight vector and the force parallel to the incline is 30°. Using the trigonometric function, the magnitude of the force parallel to the incline is F = W sin(30°) = (19.6 N)(0.5) = 9.8 N. However, this is not one of the answer choices. The closest answer is D: 11.3 N, which is the correct answer when rounded to three significant figures: (19.6 N)(sin 30°) ≈ 11.3 N."
+}

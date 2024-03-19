@@ -1,0 +1,11 @@
+{
+  "question": "Two sound waves with frequencies of 500 Hz and 700 Hz are simultaneously emitted from a speaker. What is the beat frequency produced by the interference of these two waves?",
+  "choices": {
+    "A": "100 Hz",
+    "B": "200 Hz",
+    "C": "600 Hz",
+    "D": "1200 Hz"
+  },
+  "answer": "B",
+  "solution": "The beat frequency is the difference between the frequencies of two interfering waves. In this case, the beat frequency is 700 Hz - 500 Hz = 200 Hz. When two waves with slightly different frequencies interfere, they create a periodic variation in the amplitude of the resulting wave, known as beats. The number of these variations per second is equal to the difference in the frequencies of the original waves."
+}

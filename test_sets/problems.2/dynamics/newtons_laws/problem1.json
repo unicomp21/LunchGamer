@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg object is pulled horizontally across a frictionless surface by a force of 10 N. What is the acceleration of the object?",
+  "choices": {
+    "A": "2 m/s^2",
+    "B": "5 m/s^2",
+    "C": "10 m/s^2",
+    "D": "20 m/s^2"
+  },
+  "answer": "B",
+  "solution": "According to Newton's Second Law, F = ma, where F is the net force, m is the mass, and a is the acceleration. In this case, the net force is 10 N (the pulling force) and the mass is 2 kg. Solving for acceleration: a = F / m = 10 N / 2 kg = 5 m/s^2. Therefore, the correct answer is B, the object accelerates at 5 m/s^2."
+}

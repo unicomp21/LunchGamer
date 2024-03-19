@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg block moving at 5 m/s to the right collides with a 3 kg block initially at rest. After the collision, the 3 kg block moves off to the right at 4 m/s. What is the velocity of the 2 kg block after the collision?",
+  "choices": {
+    "A": "1 m/s to the left",
+    "B": "1 m/s to the right",
+    "C": "2 m/s to the left",
+    "D": "2 m/s to the right"
+  },
+  "answer": "A",
+  "solution": "Using conservation of linear momentum, the total momentum before the collision equals the total momentum after the collision. Before the collision, only the 2 kg block has momentum: p_i = m_1 * v_1 = 2 kg * 5 m/s = 10 kg*m/s. After the collision, both blocks have momentum: p_f = m_1 * v_1f + m_2 * v_2f, where v_1f is the unknown final velocity of the 2 kg block. Setting these equal: 10 kg*m/s = 2 kg * v_1f + 3 kg * 4 m/s. Solving for v_1f: v_1f = (10 kg*m/s - 12 kg*m/s) / 2 kg = -1 m/s. The negative sign indicates the 2 kg block is moving to the left after the collision."
+}

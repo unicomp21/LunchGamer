@@ -1,0 +1,11 @@
+{
+  "question": "A uniform rod of length 2.0 m and mass 5.0 kg is pivoted at one end. A force of 20 N is applied perpendicular to the rod at a distance of 1.5 m from the pivot. What is the magnitude of the torque about the pivot?",
+  "choices": {
+    "A": "10 N⋅m",
+    "B": "20 N⋅m",
+    "C": "30 N⋅m",
+    "D": "40 N⋅m"
+  },
+  "answer": "C",
+  "solution": "Torque is calculated using the formula τ = r × F, where r is the position vector from the pivot to the point where the force is applied, and F is the force vector. In this case, the force is perpendicular to the rod, so the magnitude of the torque is simply the product of the force magnitude and the distance from the pivot: τ = F × d = 20 N × 1.5 m = 30 N⋅m. The direction of the torque is determined by the right-hand rule, but since the question only asks for the magnitude, the answer is C: 30 N⋅m."
+}

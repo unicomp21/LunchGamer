@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg box is pulled 3 meters across a frictionless horizontal surface by a force of 5 N acting parallel to the surface. How much work is done on the box by the force?",
+  "choices": {
+    "A": "6 J",
+    "B": "10 J",
+    "C": "15 J",
+    "D": "30 J"
+  },
+  "answer": "C",
+  "solution": "Work is calculated using the formula W = F · d · cos(θ), where F is the force applied, d is the displacement, and θ is the angle between the force and displacement vectors. In this case, the force is parallel to the displacement, so θ = 0° and cos(0°) = 1. Substituting the given values, we have: W = 5 N · 3 m · 1 = 15 J. Therefore, the correct answer is C: 15 J."
+}

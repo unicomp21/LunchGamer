@@ -1,0 +1,11 @@
+{
+  "question": "Two waves traveling in the same medium have frequencies of 100 Hz and 150 Hz, respectively. If the speed of the waves in the medium is 300 m/s, what is the difference between their wavelengths?",
+  "choices": {
+    "A": "0.5 m",
+    "B": "1 m",
+    "C": "1.5 m",
+    "D": "2 m"
+  },
+  "answer": "B",
+  "solution": "The wavelength (λ) of a wave can be calculated using the wave equation: v = fλ, where v is the wave speed and f is the frequency. Rearranging the equation, we get λ = v / f.\n\nFor the first wave: λ₁ = 300 m/s / 100 Hz = 3 m\nFor the second wave: λ₂ = 300 m/s / 150 Hz = 2 m\n\nThe difference between their wavelengths is: Δλ = λ₁ - λ₂ = 3 m - 2 m = 1 m.\n\nTherefore, the correct answer is B: 1 m."
+}

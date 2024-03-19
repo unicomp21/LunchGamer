@@ -1,0 +1,11 @@
+{
+  "question": "A block of mass 5 kg is placed on a frictionless inclined plane that makes an angle of 30° with the horizontal. What is the magnitude of the normal force acting on the block?",
+  "choices": {
+    "A": "25 N",
+    "B": "43 N",
+    "C": "50 N",
+    "D": "61 N"
+  },
+  "answer": "B",
+  "solution": "Let's solve this step by step:\n1. Draw the free body diagram: The block is acted upon by the gravitational force (mg) downward and the normal force (N) perpendicular to the surface.\n2. Resolve the gravitational force into components parallel and perpendicular to the inclined plane: The component parallel to the plane is mgsin(30°), and the component perpendicular to the plane is mgcos(30°).\n3. Since the plane is frictionless and the block is not accelerating, the normal force must balance the perpendicular component of the gravitational force. Thus, N = mgcos(30°).\n4. Substitute the given values: m = 5 kg, g = 9.8 m/s^2, and cos(30°) = √3/2.\nN = 5 kg × 9.8 m/s^2 × (√3/2) ≈ 42.4 N.\nThe closest answer choice is B (43 N)."
+}

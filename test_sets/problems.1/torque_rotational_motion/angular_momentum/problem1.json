@@ -1,0 +1,11 @@
+{
+  "question": "A uniform disk of radius R and mass M is rotating about its center at an angular speed ω. What is the magnitude of the disk's angular momentum?",
+  "choices": {
+    "A": "MR^2ω/4",
+    "B": "MR^2ω/2",
+    "C": "MR^2ω",
+    "D": "2MR^2ω"
+  },
+  "answer": "B",
+  "solution": "The magnitude of the angular momentum L of a rotating object is given by the formula L = Iω, where I is the object's moment of inertia and ω is its angular speed. For a uniform disk rotating about its center, the moment of inertia is I = (1/2)MR^2. Substituting this into the angular momentum formula gives L = (1/2)MR^2ω. Therefore, the correct answer is B: MR^2ω/2."
+}

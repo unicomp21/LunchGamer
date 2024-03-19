@@ -1,0 +1,11 @@
+{
+  "question": "A satellite orbits the Earth at an altitude of 500 km above the surface. If the radius of the Earth is 6,400 km, what is the orbital period of the satellite?",
+  "choices": {
+    "A": "5,800 s",
+    "B": "6,100 s",
+    "C": "6,400 s",
+    "D": "6,700 s"
+  },
+  "answer": "B",
+  "solution": "The orbital period T can be calculated using the formula T = 2π√(r³/GM), where r is the distance from the center of the Earth to the satellite, G is the gravitational constant (6.67 × 10⁻¹¹ m³ kg⁻¹ s⁻²), and M is the mass of the Earth (5.97 × 10²⁴ kg). The distance r is the sum of the Earth's radius and the satellite's altitude: r = 6,400 km + 500 km = 6,900 km = 6.9 × 10⁶ m. Plugging in the values, we get: T = 2π√((6.9 × 10⁶ m)³ / (6.67 × 10⁻¹¹ m³ kg⁻¹ s⁻² × 5.97 × 10²⁴ kg)) ≈ 6,100 s. Therefore, the orbital period of the satellite is closest to 6,100 s."
+}

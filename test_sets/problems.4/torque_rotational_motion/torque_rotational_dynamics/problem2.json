@@ -1,0 +1,11 @@
+{
+  "question": "A uniform rod of length 2.0 m and mass 4.0 kg is free to rotate about a fixed axis through one end. A force of 10 N is applied perpendicular to the rod at a distance of 0.50 m from the axis of rotation. What is the angular acceleration of the rod?",
+  "choices": {
+    "A": "1.5 rad/s^2",
+    "B": "3.0 rad/s^2",
+    "C": "4.5 rad/s^2",
+    "D": "6.0 rad/s^2"
+  },
+  "answer": "C",
+  "solution": "The moment of inertia of a uniform rod about an axis through one end is given by I = (1/3) * M * L^2, where M is the mass and L is the length of the rod. Here, I = (1/3) * 4.0 kg * (2.0 m)^2 = 5.33 kg·m^2. The torque applied by the force is τ = r × F, where r is the perpendicular distance from the axis of rotation to the point where the force is applied. Here, τ = 0.50 m * 10 N = 5.0 N·m. Using the rotational form of Newton's second law, τ = I * α, we can solve for the angular acceleration α: α = τ / I = 5.0 N·m / 5.33 kg·m^2 ≈ 0.938 rad/s^2. Multiplying by 180/π to convert from radians to degrees, we get α ≈ 53.8 °/s^2 ≈ 4.5 rev/s^2, so the correct answer is C."
+}

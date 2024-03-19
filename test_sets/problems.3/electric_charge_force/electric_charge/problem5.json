@@ -1,0 +1,11 @@
+{
+  "question": "Two point charges, +Q and -2Q, are separated by a distance d. If the magnitude of the force between them is F, what will be the magnitude of the force if the distance is reduced to d/3?",
+  "choices": {
+    "A": "F/9",
+    "B": "F/3",
+    "C": "3F",
+    "D": "9F"
+  },
+  "answer": "D",
+  "solution": "The force between two point charges is given by Coulomb's law: F = kQ1Q2 / r^2, where k is Coulomb's constant, Q1 and Q2 are the charges, and r is the distance between them. If the distance is reduced to d/3, the force becomes: F_new = kQ1Q2 / (d/3)^2 = kQ1Q2 / (d^2/9) = 9kQ1Q2 / d^2. Since the original force was F = kQ1Q2 / d^2, the new force is 9 times the original force. Therefore, the magnitude of the force will be 9F."
+}

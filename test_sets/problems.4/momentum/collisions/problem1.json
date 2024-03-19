@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg ball moving at 5 m/s to the right collides head-on with a 3 kg ball that is initially at rest. If the collision is elastic, what is the speed of the 2 kg ball after the collision?",
+  "choices": {
+    "A": "1.0 m/s to the left",
+    "B": "1.0 m/s to the right",
+    "C": "2.0 m/s to the left",
+    "D": "2.0 m/s to the right"
+  },
+  "answer": "C",
+  "solution": "In an elastic collision, both momentum and kinetic energy are conserved. Let v1 and v2 be the velocities of the 2 kg and 3 kg balls after the collision, respectively. Momentum conservation gives: 2 kg × 5 m/s = 2 kg × v1 + 3 kg × v2. Kinetic energy conservation gives: (1/2) × 2 kg × (5 m/s)^2 = (1/2) × 2 kg × v1^2 + (1/2) × 3 kg × v2^2. Solving these equations simultaneously yields v1 = -2 m/s and v2 = 3 m/s. The negative sign for v1 indicates that the 2 kg ball moves to the left after the collision, with a speed of 2 m/s."
+}

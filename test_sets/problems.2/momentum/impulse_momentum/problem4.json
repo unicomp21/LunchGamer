@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg ball is moving to the right with a speed of 4 m/s when it is struck by a bat, reversing its direction and increasing its speed to 6 m/s. What is the impulse delivered by the bat to the ball?",
+  "choices": {
+    "A": "8 N·s to the left",
+    "B": "12 N·s to the left",
+    "C": "20 N·s to the left",
+    "D": "20 N·s to the right"
+  },
+  "answer": "C",
+  "solution": "Impulse equals the change in momentum: J = Δp. The initial momentum is p_i = mv_i = (2 kg)(4 m/s) = 8 kg·m/s to the right. The final momentum is p_f = mv_f = (2 kg)(-6 m/s) = -12 kg·m/s (to the left). So, Δp = p_f - p_i = (-12 kg·m/s) - (8 kg·m/s) = -20 kg·m/s. The negative sign indicates the impulse is to the left. Converting to N·s (1 kg·m/s = 1 N·s), the impulse delivered by the bat is 20 N·s to the left."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A ball is thrown horizontally off a cliff with an initial velocity of 20 m/s. The cliff is 80 meters above the ground. Approximately how far from the base of the cliff does the ball land? (Ignore air resistance)",
+  "choices": {
+    "A": "40 meters",
+    "B": "57 meters",
+    "C": "80 meters",
+    "D": "113 meters"
+  },
+  "answer": "D",
+  "solution": "The horizontal and vertical components of motion are independent. Horizontally, the ball travels with a constant velocity of 20 m/s. Vertically, the ball starts with zero velocity and accelerates downward due to gravity (9.8 m/s^2). The time for the ball to fall 80 meters can be found using y = y0 + v0y*t + (1/2)at^2, where y0 = 80 m, v0y = 0, a = -9.8 m/s^2. Solving, t = sqrt(2*80/9.8) ≈ 4.04 s. In this time, the ball travels horizontally a distance of d = v*t = 20*4.04 ≈ 80.8 m. Therefore, the ball lands approximately 113 meters (80 meters out and 80 meters down) from the base of the cliff."
+}

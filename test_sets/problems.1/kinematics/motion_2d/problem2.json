@@ -1,0 +1,11 @@
+{
+  "question": "A ball is thrown horizontally from the top of a building with an initial velocity of 20 m/s. If the ball hits the ground 4 seconds later, what is the approximate height of the building? (Assume g = 10 m/s^2)",
+  "choices": {
+    "A": "40 m",
+    "B": "60 m",
+    "C": "80 m",
+    "D": "100 m"
+  },
+  "answer": "C",
+  "solution": "In projectile motion, the horizontal and vertical components of motion are independent. The vertical displacement can be found using the formula Δy = v0y * t + (1/2) * a * t^2, where v0y is the initial vertical velocity (0 m/s), a is the acceleration due to gravity (-10 m/s^2), and t is the time (4 s). Thus, Δy = 0 * 4 + (1/2) * (-10) * 4^2 = -80 m. The negative sign indicates that the ball falls downward. The absolute value of the vertical displacement gives the height of the building, which is approximately 80 m."
+}

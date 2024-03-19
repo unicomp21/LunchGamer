@@ -1,0 +1,11 @@
+{
+  "question": "A ball is thrown horizontally off a cliff with an initial velocity of 20 m/s. The cliff is 80 m above the ground. Neglecting air resistance, how far from the base of the cliff will the ball land? (Take g = 10 m/s^2)",
+  "choices": {
+    "A": "40 m",
+    "B": "80 m",
+    "C": "120 m",
+    "D": "160 m"
+  },
+  "answer": "B",
+  "solution": "Since there is no acceleration in the horizontal direction, the ball's horizontal velocity remains constant at 20 m/s. The time for the ball to fall 80 m can be found using y = y0 + v0y*t + (1/2)*a*t^2, where y0 = 80 m, v0y = 0, and a = -10 m/s^2. Solving for t gives: 0 = 80 + 0*t - 5*t^2, which yields t = 4 s. The horizontal distance traveled is then d = v*t = 20 m/s * 4 s = 80 m. Therefore, the ball will land 80 m from the base of the cliff."
+}

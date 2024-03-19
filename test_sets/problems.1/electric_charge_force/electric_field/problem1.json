@@ -1,0 +1,11 @@
+{
+  "question": "Two point charges, q1 = +2 μC and q2 = -6 μC, are separated by a distance of 0.3 m. What is the magnitude of the electric field at a point midway between the two charges?",
+  "choices": {
+    "A": "2.0 × 10^5 N/C",
+    "B": "4.0 × 10^5 N/C",
+    "C": "6.0 × 10^5 N/C",
+    "D": "8.0 × 10^5 N/C"
+  },
+  "answer": "C",
+  "solution": "The electric field at a point due to a point charge can be found using Coulomb's law: E = kq / r^2, where k is Coulomb's constant (8.99 × 10^9 N⋅m^2/C^2), q is the charge, and r is the distance from the charge to the point. The net electric field is the vector sum of the fields due to each charge. At the midpoint, the distances from each charge are equal (0.15 m), so the magnitudes of the fields are equal, but the directions are opposite. Thus, the net field is E = |E1| - |E2| = kq1 / r^2 - kq2 / r^2 = (8.99 × 10^9 N⋅m^2/C^2) × (2 × 10^-6 C - (-6 × 10^-6 C)) / (0.15 m)^2 ≈ 6.0 × 10^5 N/C."
+}

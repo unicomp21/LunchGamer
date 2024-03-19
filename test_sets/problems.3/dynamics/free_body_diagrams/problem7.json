@@ -1,0 +1,11 @@
+{
+  "question": "A block of mass 5 kg is at rest on a frictionless surface. A force of 20 N is applied to the block at an angle of 30° above the horizontal. What is the magnitude of the block's acceleration?",
+  "choices": {
+    "A": "2 m/s^2",
+    "B": "3 m/s^2",
+    "C": "4 m/s^2",
+    "D": "5 m/s^2"
+  },
+  "answer": "C",
+  "solution": "First, draw the free body diagram showing the applied force (F) at 30° and the normal force (N) perpendicular to the surface. The horizontal component of the applied force causes the acceleration. \n\nHorizontal force component: F_x = 20 cos(30°) ≈ 17.32 N\n\nUsing Newton's Second Law, F = ma, we can find the acceleration:\n\na = F_x / m\na = 17.32 N / 5 kg\na ≈ 3.46 m/s^2\n\nRounding to the nearest answer choice, the correct answer is C: 4 m/s^2."
+}

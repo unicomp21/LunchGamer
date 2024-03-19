@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg block moving at 4 m/s horizontally collides with a stationary 3 kg block. After the collision, the two blocks stick together. What is the velocity of the combined blocks after the collision?",
+  "choices": {
+    "A": "1.6 m/s",
+    "B": "2.4 m/s",
+    "C": "3.2 m/s",
+    "D": "4.8 m/s"
+  },
+  "answer": "A",
+  "solution": "Using the law of conservation of momentum, the total momentum before the collision must equal the total momentum after the collision. Before the collision, only the 2 kg block has momentum: p1 = m1v1 = (2 kg)(4 m/s) = 8 kg·m/s. After the collision, the combined mass is 5 kg (2 kg + 3 kg), and the velocity is unknown. Let the velocity after collision be v'. The momentum after collision is: p2 = (m1 + m2)v' = (5 kg)v'. Equating the momenta: p1 = p2, so 8 kg·m/s = (5 kg)v'. Solving for v', we get v' = 8 kg·m/s / 5 kg = 1.6 m/s. Therefore, the velocity of the combined blocks after the collision is 1.6 m/s."
+}

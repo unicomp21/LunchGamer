@@ -1,0 +1,11 @@
+{
+  "question": "A simple pendulum has a length of 1.0 m and is released from an initial angle of 30° from the vertical. What is the pendulum's approximate period of oscillation? (Assume g = 9.8 m/s^2)",
+  "choices": {
+    "A": "1.0 s",
+    "B": "1.4 s",
+    "C": "2.0 s",
+    "D": "2.8 s"
+  },
+  "answer": "C",
+  "solution": "The period of a simple pendulum is given by the formula T = 2π√(L/g), where L is the length of the pendulum and g is the acceleration due to gravity. Substituting the given values, we get: T = 2π√(1.0 m / 9.8 m/s^2) ≈ 2.0 s. The initial angle does not affect the period for small angles, so the period is approximately 2.0 s regardless of the 30° release angle."
+}

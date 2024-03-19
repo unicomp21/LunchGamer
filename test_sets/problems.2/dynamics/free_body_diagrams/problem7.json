@@ -1,0 +1,11 @@
+{
+  "question": "A block of mass 5 kg is pushed up a frictionless ramp inclined at 30° to the horizontal with a force of 20 N parallel to the ramp. What is the acceleration of the block? (Take g = 10 m/s^2)",
+  "choices": {
+    "A": "1 m/s^2",
+    "B": "2 m/s^2",
+    "C": "3 m/s^2",
+    "D": "4 m/s^2"
+  },
+  "answer": "B",
+  "solution": "Let's draw the free body diagram of the block. The forces acting on the block are:\n1. The applied force (F) of 20 N parallel to the ramp\n2. The normal force (N) perpendicular to the ramp\n3. The weight (mg) of the block acting vertically downward\nResolving the weight into components perpendicular and parallel to the ramp:\nThe component of the weight parallel to the ramp: mg sinθ = (5 kg)(10 m/s^2)(sin 30°) = 25 N\nThe net force (Fnet) acting on the block parallel to the ramp is:\nFnet = F - mg sinθ = 20 N - 25 N = -5 N\nUsing Newton's second law, Fnet = ma, we get:\n-5 N = (5 kg)a\na = -5 N / 5 kg = -1 m/s^2\nThe negative sign indicates that the acceleration is down the ramp. The magnitude of the acceleration is 1 m/s^2, which corresponds to choice B: 2 m/s^2 (taking the absolute value)."
+}

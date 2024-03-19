@@ -1,0 +1,11 @@
+{
+  "question": "A 12 V battery is connected to a resistor with a resistance of 6 Ω. What is the current flowing through the resistor?",
+  "choices": {
+    "A": "0.5 A",
+    "B": "1 A",
+    "C": "2 A",
+    "D": "3 A"
+  },
+  "answer": "C",
+  "solution": "The current can be found using Ohm's Law, which states that I = V / R, where I is the current, V is the voltage, and R is the resistance. In this case, V = 12 V and R = 6 Ω. Plugging these values into the formula, we get I = 12 V / 6 Ω = 2 A. Therefore, the correct answer is C: 2 A."
+}

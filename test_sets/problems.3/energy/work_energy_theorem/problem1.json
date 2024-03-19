@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg object is initially at rest on a frictionless horizontal surface. A constant horizontal force of 10 N is applied to the object, causing it to move a distance of 5 m. What is the final kinetic energy of the object?",
+  "choices": {
+    "A": "25 J",
+    "B": "50 J",
+    "C": "100 J",
+    "D": "200 J"
+  },
+  "answer": "B",
+  "solution": "According to the work-energy theorem, the net work done on an object is equal to the change in its kinetic energy. In this case, the net work is done by the constant force: W = F × d = 10 N × 5 m = 50 J. Since the object starts from rest (initial kinetic energy is 0), the final kinetic energy is equal to the net work done: ΔKE = KEf - KEi = KEf - 0 = KEf = 50 J. Therefore, the final kinetic energy of the object is 50 J."
+}

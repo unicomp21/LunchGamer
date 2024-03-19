@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg block is released from rest at the top of a 5 m tall frictionless ramp. What is the kinetic energy of the block when it reaches the bottom of the ramp? (Take g = 10 m/s^2)",
+  "choices": {
+    "A": "20 J",
+    "B": "50 J",
+    "C": "100 J",
+    "D": "200 J"
+  },
+  "answer": "C",
+  "solution": "By the conservation of energy, the potential energy of the block at the top of the ramp is converted into kinetic energy at the bottom. The initial potential energy is PE = mgh, where m is the mass (2 kg), g is the acceleration due to gravity (10 m/s^2), and h is the height of the ramp (5 m). Thus, PE = 2 kg × 10 m/s^2 × 5 m = 100 J. Since the ramp is frictionless, no energy is lost, and the kinetic energy at the bottom equals the initial potential energy of 100 J."
+}

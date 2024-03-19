@@ -1,0 +1,11 @@
+{
+  "question": "Two sound waves with the same frequency and amplitude, traveling in opposite directions, superpose to form a standing wave. At a point where the two waves are exactly out of phase, what type of interference occurs?",
+  "choices": {
+    "A": "Constructive interference, forming an antinode",
+    "B": "Constructive interference, forming a node",
+    "C": "Destructive interference, forming an antinode",
+    "D": "Destructive interference, forming a node"
+  },
+  "answer": "D",
+  "solution": "When two waves with the same frequency and amplitude travel in opposite directions and superpose, they form a standing wave. At points where the two waves are exactly out of phase (differing by half a wavelength), destructive interference occurs. This means that the two waves cancel each other out, resulting in no displacement at that point. These points of no displacement are called nodes in a standing wave pattern. Therefore, the correct answer is D: Destructive interference, forming a node."
+}

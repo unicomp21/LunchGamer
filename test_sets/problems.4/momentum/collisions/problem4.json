@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg ball moving at 5 m/s collides head-on with a stationary 3 kg ball. After the collision, the 2 kg ball moves at 1 m/s in the opposite direction. What is the speed of the 3 kg ball after the collision?",
+  "choices": {
+    "A": "1 m/s",
+    "B": "2 m/s",
+    "C": "3 m/s",
+    "D": "4 m/s"
+  },
+  "answer": "C",
+  "solution": "Using conservation of momentum, the initial momentum (p_i) equals the final momentum (p_f). The initial momentum is the momentum of the 2 kg ball: p_i = m1v1 = (2 kg)(5 m/s) = 10 kg⋅m/s. After the collision, the momentum of the 2 kg ball is p1 = m1v1 = (2 kg)(-1 m/s) = -2 kg⋅m/s. Let the speed of the 3 kg ball after collision be v2. The final momentum is: p_f = p1 + p2 = -2 kg⋅m/s + (3 kg)(v2). Setting p_i = p_f: 10 kg⋅m/s = -2 kg⋅m/s + (3 kg)(v2). Solving for v2: 10 kg⋅m/s + 2 kg⋅m/s = (3 kg)(v2), 12 kg⋅m/s = (3 kg)(v2), v2 = (12 kg⋅m/s) / (3 kg) = 4 m/s. Therefore, the speed of the 3 kg ball after the collision is 4 m/s."
+}

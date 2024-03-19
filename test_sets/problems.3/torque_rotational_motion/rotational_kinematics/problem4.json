@@ -1,0 +1,11 @@
+{
+  "question": "A solid cylindrical rod of length 2.0 m and mass 5.0 kg rotates about an axis through its center, perpendicular to its length. If the rod starts from rest and undergoes a constant angular acceleration of 2.0 rad/s², what is its angular speed after 3.0 seconds?",
+  "choices": {
+    "A": "1.0 rad/s",
+    "B": "2.0 rad/s",
+    "C": "3.0 rad/s",
+    "D": "6.0 rad/s"
+  },
+  "answer": "D",
+  "solution": "The angular velocity can be found using the rotational kinematics equation ω = ω₀ + αt, where ω is the final angular velocity, ω₀ is the initial angular velocity (0 in this case as it starts from rest), α is the constant angular acceleration (2.0 rad/s²), and t is the time interval (3.0 s).\n\nSubstituting the values:\nω = 0 + (2.0 rad/s²)(3.0 s) = 6.0 rad/s\n\nTherefore, the angular speed of the rod after 3.0 seconds is 6.0 rad/s."
+}

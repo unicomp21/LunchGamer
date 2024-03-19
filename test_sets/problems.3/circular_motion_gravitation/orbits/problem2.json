@@ -1,0 +1,11 @@
+{
+  "question": "A satellite orbits the Earth in a circular orbit with a radius of 8000 km. If the mass of the Earth is 5.97 × 10^24 kg, what is the orbital period of the satellite?",
+  "choices": {
+    "A": "5.03 × 10^3 s",
+    "B": "7.11 × 10^3 s",
+    "C": "1.01 × 10^4 s",
+    "D": "1.42 × 10^4 s"
+  },
+  "answer": "B",
+  "solution": "The orbital period (T) of a satellite in a circular orbit can be found using the formula T = 2π √(r^3 / GM), where r is the orbital radius, G is the gravitational constant (6.67 × 10^-11 m^3 kg^-1 s^-2), and M is the mass of the Earth.\n\nSubstituting the given values:\nT = 2π √((8000 × 10^3 m)^3 / (6.67 × 10^-11 m^3 kg^-1 s^-2 × 5.97 × 10^24 kg))\n\nSimplifying:\nT = 2π √(5.12 × 10^20 m^3 / 3.99 × 10^14 m^3 s^-2)\nT = 2π √(1.28 × 10^6 s^2)\nT = 2π × 1.13 × 10^3 s\nT = 7.11 × 10^3 s\n\nTherefore, the orbital period of the satellite is 7.11 × 10^3 s, which corresponds to choice B."
+}

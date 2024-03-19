@@ -1,0 +1,11 @@
+{
+  "question": "A simple pendulum has a period of 2 seconds on Earth. If this pendulum is taken to a planet with half the gravitational acceleration of Earth, what will be its new period?",
+  "choices": {
+    "A": "1 second",
+    "B": "√2 seconds",
+    "C": "2 seconds",
+    "D": "2√2 seconds"
+  },
+  "answer": "D",
+  "solution": "The period of a simple pendulum is given by the formula T = 2π√(L/g), where L is the length of the pendulum and g is the gravitational acceleration. If g is reduced by half, the period will increase by a factor of √2. Since the original period was 2 seconds, the new period will be 2√2 seconds."
+}

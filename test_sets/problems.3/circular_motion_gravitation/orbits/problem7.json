@@ -1,0 +1,11 @@
+{
+  "question": "A satellite orbits Earth in a circular orbit with radius 2R, where R is the radius of Earth. If the satellite's orbital period is T, what is the orbital period of a satellite in a circular orbit with radius 4R?",
+  "choices": {
+    "A": "T/4",
+    "B": "T/2",
+    "C": "T√2",
+    "D": "2T√2"
+  },
+  "answer": "D",
+  "solution": "According to Kepler's third law, the square of the orbital period T is proportional to the cube of the orbital radius r, i.e., T^2 ∝ r^3. Let's call the orbital period of the satellite at radius 4R T_4R. We can set up the following equation: T^2 / T_4R^2 = (2R)^3 / (4R)^3. Simplifying, we get: T^2 / T_4R^2 = 1/8. Taking the square root of both sides, we have: T / T_4R = 1/(2√2). Solving for T_4R, we get: T_4R = 2T√2. Therefore, the orbital period of a satellite in a circular orbit with radius 4R is 2T√2."
+}

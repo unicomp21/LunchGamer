@@ -1,0 +1,11 @@
+{
+  "question": "A figure skater with a moment of inertia of 2 kg⋅m^2 is spinning at 3 rad/s with her arms outstretched. When she pulls her arms in, her moment of inertia decreases to 1 kg⋅m^2. What is her new angular velocity?",
+  "choices": {
+    "A": "1.5 rad/s",
+    "B": "3 rad/s",
+    "C": "4.5 rad/s",
+    "D": "6 rad/s"
+  },
+  "answer": "D",
+  "solution": "By the conservation of angular momentum, I₁ω₁ = I₂ω₂, where I₁ and ω₁ are the initial moment of inertia and angular velocity, and I₂ and ω₂ are the final values. Substituting the given values, we have: 2 kg⋅m^2 × 3 rad/s = 1 kg⋅m^2 × ω₂. Solving for ω₂, we get: ω₂ = (2 kg⋅m^2 × 3 rad/s) / (1 kg⋅m^2) = 6 rad/s. Therefore, the skater's new angular velocity is 6 rad/s."
+}

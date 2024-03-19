@@ -1,0 +1,11 @@
+{
+  "question": "A wave traveling along a string has a frequency of 120 Hz and a wavelength of 0.5 m. What is the speed of the wave?",
+  "choices": {
+    "A": "30 m/s",
+    "B": "60 m/s",
+    "C": "120 m/s",
+    "D": "240 m/s"
+  },
+  "answer": "B",
+  "solution": "The speed of a wave can be calculated using the wave equation: v = fλ, where v is the speed, f is the frequency, and λ is the wavelength. Plugging in the given values, we have: v = 120 Hz × 0.5 m = 60 m/s. Therefore, the correct answer is B: 60 m/s."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "Two point charges, q1 and q2, are separated by a distance r. If the magnitude of q1 is doubled and the magnitude of q2 is halved, what happens to the magnitude of the electric force between the two charges?",
+  "choices": {
+    "A": "The force remains the same",
+    "B": "The force doubles",
+    "C": "The force is reduced by half",
+    "D": "The force quadruples"
+  },
+  "answer": "A",
+  "solution": "According to Coulomb's law, the magnitude of the electric force F between two point charges q1 and q2 separated by a distance r is given by the formula F = k * |q1| * |q2| / r^2, where k is Coulomb's constant. If we double |q1| and halve |q2|, the changes cancel each other out in the numerator: F_new = k * (2|q1|) * (0.5|q2|) / r^2 = k * |q1| * |q2| / r^2 = F_original. Therefore, the magnitude of the electric force remains the same."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg ball is rolling at a velocity of 5 m/s when it is struck by a bat, applying an impulse of 20 N⋅s in the opposite direction. What is the final velocity of the ball after the collision?",
+  "choices": {
+    "A": "-5 m/s",
+    "B": "-10 m/s",
+    "C": "0 m/s",
+    "D": "10 m/s"
+  },
+  "answer": "A",
+  "solution": "The change in momentum is equal to the impulse: Δp = F⋅Δt. The initial momentum is p_i = mv_i = (2 kg)(5 m/s) = 10 kg⋅m/s. The change in momentum is Δp = 20 N⋅s in the opposite direction, so Δp = -20 kg⋅m/s. The final momentum is p_f = p_i + Δp = 10 kg⋅m/s - 20 kg⋅m/s = -10 kg⋅m/s. To find the final velocity, use the formula p = mv. Rearranging, we get v_f = p_f / m = (-10 kg⋅m/s) / (2 kg) = -5 m/s."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "Two uncharged capacitors C1 and C2 are connected in series to a battery. If C1 has twice the capacitance of C2, what is the ratio of the charge stored on C1 to the charge stored on C2 when the circuit reaches steady state?",
+  "choices": {
+    "A": "1:4",
+    "B": "1:2",
+    "C": "1:1",
+    "D": "2:1"
+  },
+  "answer": "C",
+  "solution": "When two capacitors are connected in series, they will have the same charge in steady state. This is because the same current flows through both capacitors, and from the definition of capacitance Q = CV, if the voltage across each capacitor is the same (as in a series circuit), the charge stored must also be the same. Therefore, the charge on C1 equals the charge on C2, and the ratio is 1:1, regardless of the individual capacitances."
+}

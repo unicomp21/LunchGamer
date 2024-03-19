@@ -1,0 +1,11 @@
+{
+  "question": "A 2.0 kg mass is attached to a horizontal spring with a spring constant of 200 N/m. The mass is displaced 10 cm from equilibrium and released from rest. What is the maximum speed of the mass as it oscillates?",
+  "choices": {
+    "A": "0.50 m/s",
+    "B": "1.0 m/s",
+    "C": "1.4 m/s",
+    "D": "2.0 m/s"
+  },
+  "answer": "B",
+  "solution": "The maximum speed occurs when the mass passes through the equilibrium position. At this point, all the potential energy is converted to kinetic energy. Using the principle of conservation of energy:\n\n1/2 * k * x^2 = 1/2 * m * v^2\n\nwhere k is the spring constant, x is the displacement, m is the mass, and v is the maximum speed.\n\nSolving for v:\nv = sqrt((k * x^2) / m)\n  = sqrt((200 N/m * (0.10 m)^2) / 2.0 kg)\n  = sqrt(1.0 J / 2.0 kg)\n  = sqrt(0.50 m^2/s^2)\n  = 1.0 m/s\n\nTherefore, the maximum speed of the mass is 1.0 m/s."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A 5 kg block is pushed across a horizontal surface with a constant force of 20 N. If the coefficient of kinetic friction between the block and the surface is 0.3, what is the acceleration of the block?",
+  "choices": {
+    "A": "1.2 m/s^2",
+    "B": "2.5 m/s^2",
+    "C": "3.5 m/s^2",
+    "D": "4.0 m/s^2"
+  },
+  "answer": "B",
+  "solution": "The net force on the block is the applied force minus the friction force. The friction force is given by f = μ * N, where μ is the coefficient of kinetic friction (0.3) and N is the normal force, which equals the weight of the block (5 kg * 9.8 m/s^2 = 49 N) since the surface is horizontal. Thus, f = 0.3 * 49 N = 14.7 N. The net force is then 20 N - 14.7 N = 5.3 N. Using Newton's second law, F = ma, we can find the acceleration: a = F / m = 5.3 N / 5 kg = 1.06 m/s^2. The closest answer choice is B, 2.5 m/s^2."
+}

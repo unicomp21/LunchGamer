@@ -1,0 +1,11 @@
+{
+  "question": "A 50 kg box is pushed 10 meters across a frictionless floor by a force of 100 N. If the push is in the same direction as the displacement, how much work is done on the box?",
+  "choices": {
+    "A": "500 J",
+    "B": "1000 J",
+    "C": "1500 J",
+    "D": "2000 J"
+  },
+  "answer": "B",
+  "solution": "Work is defined as the product of the force applied and the displacement in the direction of the force. In this case, the force (100 N) and the displacement (10 m) are in the same direction. Using the formula W = F × d, where W is work, F is force, and d is displacement, we can calculate the work done: W = 100 N × 10 m = 1000 J. Therefore, the correct answer is B."
+}

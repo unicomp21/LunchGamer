@@ -1,0 +1,11 @@
+{
+  "question": "In the circuit shown, all resistors have equal resistance R. What is the equivalent resistance between points X and Y?",
+  "choices": {
+    "A": "R/4",
+    "B": "R/3",
+    "C": "R/2",
+    "D": "R"
+  },
+  "answer": "C",
+  "solution": "According to Kirchhoff's current law, the current entering any junction must equal the current leaving that junction. At junction X, the current splits equally into the two parallel branches. Each branch contains two resistors in series, so the equivalent resistance of each branch is 2R. Since the two branches are in parallel, the total resistance is given by 1/Req = 1/(2R) + 1/(2R), which simplifies to Req = R/2. Therefore, the equivalent resistance between points X and Y is R/2."
+}

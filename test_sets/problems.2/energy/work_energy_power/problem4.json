@@ -1,0 +1,11 @@
+{
+  "question": "A 5 kg box is pushed 3 meters across a frictionless horizontal surface by a constant force of 10 N. How much work is done on the box?",
+  "choices": {
+    "A": "6 J",
+    "B": "15 J",
+    "C": "30 J",
+    "D": "150 J"
+  },
+  "answer": "C",
+  "solution": "The work done on an object is equal to the force applied multiplied by the displacement in the direction of the force. In this case, the force (10 N) and the displacement (3 m) are in the same direction, so we can use the formula W = F × d. Substituting the given values, we get: W = 10 N × 3 m = 30 J. Therefore, the correct answer is C: 30 J."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg ball moving at 5 m/s collides head-on with a stationary 3 kg ball. If the two balls stick together after the collision, what is the velocity of the combined balls after the collision?",
+  "choices": {
+    "A": "1 m/s",
+    "B": "2 m/s",
+    "C": "3 m/s",
+    "D": "4 m/s"
+  },
+  "answer": "B",
+  "solution": "Using the law of conservation of linear momentum, the total momentum before the collision equals the total momentum after the collision. Before the collision, only the 2 kg ball has momentum: p_i = m_1 * v_1 = 2 kg * 5 m/s = 10 kg*m/s. After the collision, the combined mass is 5 kg (2 kg + 3 kg), and the velocity is unknown. Let the final velocity be v_f. Setting the initial and final momenta equal: 10 kg*m/s = (5 kg) * v_f. Solving for v_f, we get: v_f = (10 kg*m/s) / (5 kg) = 2 m/s. Therefore, the velocity of the combined balls after the collision is 2 m/s."
+}

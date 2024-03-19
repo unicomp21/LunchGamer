@@ -1,0 +1,11 @@
+{
+  "question": "A 12 V battery is connected to a 4 Ω resistor. What is the current flowing through the resistor?",
+  "choices": {
+    "A": "1 A",
+    "B": "2 A",
+    "C": "3 A",
+    "D": "4 A"
+  },
+  "answer": "C",
+  "solution": "According to Ohm's Law, the current (I) through a resistor is equal to the voltage (V) across the resistor divided by the resistance (R), which can be expressed as I = V / R. In this case, the voltage is 12 V, and the resistance is 4 Ω. Therefore, the current can be calculated as follows: I = 12 V / 4 Ω = 3 A."
+}

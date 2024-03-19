@@ -1,0 +1,11 @@
+{
+  "question": "A 5 kg box slides down a frictionless ramp from a height of 3 m. What is the speed of the box at the bottom of the ramp?",
+  "choices": {
+    "A": "√(10 m/s)",
+    "B": "√(15 m/s)",
+    "C": "√(20 m/s)",
+    "D": "√(30 m/s)"
+  },
+  "answer": "D",
+  "solution": "Using the conservation of energy principle, the initial potential energy of the box at the top of the ramp (PE₁ = mgh₁) is converted into kinetic energy at the bottom of the ramp (KE₂ = ½mv₂²), assuming no energy loss due to friction. Given m = 5 kg, g = 10 m/s², and h₁ = 3 m, we have:\n\nmgh₁ = ½mv₂²\n5 kg × 10 m/s² × 3 m = ½ × 5 kg × v₂²\n150 J = 2.5 kg × v₂²\nv₂² = 150 J ÷ 2.5 kg = 60 m²/s²\nv₂ = √(60 m²/s²) = √(30 m/s) × √2\n\nTherefore, the speed of the box at the bottom of the ramp is √(30 m/s), which corresponds to answer choice D."
+}

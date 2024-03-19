@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg object moving at 5 m/s collides head-on with a 3 kg object initially at rest. If the objects stick together after the collision, what is the velocity of the combined object?",
+  "choices": {
+    "A": "1.0 m/s",
+    "B": "1.5 m/s",
+    "C": "2.0 m/s",
+    "D": "2.5 m/s"
+  },
+  "answer": "C",
+  "solution": "Since the collision is inelastic and the objects stick together, we can use conservation of momentum to solve for the final velocity. Initial momentum is (2 kg)(5 m/s) = 10 kg⋅m/s. Final momentum must equal initial momentum, so (2 kg + 3 kg)v_f = 10 kg⋅m/s, where v_f is the final velocity. Solving, we get v_f = 10 kg⋅m/s / 5 kg = 2 m/s. Therefore, the final velocity of the combined object is 2 m/s."
+}

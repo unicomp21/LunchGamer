@@ -1,0 +1,11 @@
+{
+  "question": "A resistor with a resistance of 10 Ω is connected to a 5 V battery. What is the current flowing through the resistor?",
+  "choices": {
+    "A": "0.2 A",
+    "B": "0.5 A",
+    "C": "2.0 A",
+    "D": "5.0 A"
+  },
+  "answer": "B",
+  "solution": "According to Ohm's Law, the current I through a resistor is equal to the voltage V across the resistor divided by its resistance R, or I = V / R. In this case, V = 5 V and R = 10 Ω. Substituting these values into the equation gives: I = 5 V / 10 Ω = 0.5 A. Therefore, the correct answer is B: 0.5 A."
+}

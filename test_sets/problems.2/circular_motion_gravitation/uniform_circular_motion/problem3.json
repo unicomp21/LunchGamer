@@ -1,0 +1,11 @@
+{
+  "question": "A 0.5 kg object is attached to a string and moves in a horizontal circle with a radius of 1.5 m. If the object makes one complete revolution every 2 seconds, what is the tension in the string?",
+  "choices": {
+    "A": "0.74 N",
+    "B": "1.48 N",
+    "C": "2.96 N",
+    "D": "5.92 N"
+  },
+  "answer": "C",
+  "solution": "In uniform circular motion, the centripetal force is provided by the tension in the string. The centripetal force is given by F = mv^2/r, where m is the mass of the object, v is its velocity, and r is the radius of the circular path.\n\nFirst, we need to find the velocity of the object. The circumference of the circle is C = 2πr = 2π(1.5 m) ≈ 9.42 m. Since the object completes one revolution in 2 seconds, its velocity is v = 9.42 m / 2 s ≈ 4.71 m/s.\n\nNow we can calculate the centripetal force (tension in the string):\nF = mv^2/r = (0.5 kg)(4.71 m/s)^2 / (1.5 m) ≈ 2.96 N.\n\nTherefore, the correct answer is C: 2.96 N."
+}

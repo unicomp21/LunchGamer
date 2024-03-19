@@ -1,0 +1,11 @@
+{
+  "question": "A figure skater with arms extended is spinning at 2 rad/s. When she pulls her arms in, her rotational speed increases to 6 rad/s. What is the ratio of her initial rotational inertia to her final rotational inertia?",
+  "choices": {
+    "A": "1:3",
+    "B": "1:9",
+    "C": "3:1",
+    "D": "9:1"
+  },
+  "answer": "D",
+  "solution": "By the conservation of angular momentum, L = I₁ω₁ = I₂ω₂, where L is the angular momentum, I₁ and I₂ are the initial and final rotational inertia, and ω₁ and ω₂ are the initial and final angular velocities. Rearranging the equation, we get I₁/I₂ = ω₂/ω₁ = 6 rad/s / 2 rad/s = 3. Thus, the ratio of the initial rotational inertia to the final rotational inertia is 3:1 = 9:1."
+}

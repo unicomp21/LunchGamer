@@ -1,0 +1,11 @@
+{
+  "question": "A 0.5 kg ball is thrown straight up into the air with an initial velocity of 20 m/s. If the ball experiences an average force of 5 N due to air resistance over a time of 0.2 seconds, what is the final velocity of the ball after this time?",
+  "choices": {
+    "A": "16 m/s",
+    "B": "18 m/s",
+    "C": "20 m/s",
+    "D": "22 m/s"
+  },
+  "answer": "B",
+  "solution": "The change in momentum is equal to the impulse: Δp = FΔt. The initial momentum is p₀ = mv₀ = 0.5 kg × 20 m/s = 10 kg⋅m/s. The impulse from air resistance is FΔt = 5 N × 0.2 s = 1 kg⋅m/s. The final momentum is p_f = p₀ - FΔt = 10 kg⋅m/s - 1 kg⋅m/s = 9 kg⋅m/s. To find the final velocity, use the formula p_f = mv_f, so v_f = p_f / m = 9 kg⋅m/s / 0.5 kg = 18 m/s."
+}

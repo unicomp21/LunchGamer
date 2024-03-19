@@ -1,0 +1,11 @@
+{
+  "question": "An object is dropped from a height of 45 meters. Neglecting air resistance, approximately how long does it take for the object to reach the ground? (Take the acceleration due to gravity as 9.8 m/s^2)",
+  "choices": {
+    "A": "2.1 s",
+    "B": "3.0 s",
+    "C": "4.6 s",
+    "D": "6.8 s"
+  },
+  "answer": "B",
+  "solution": "Using the equation d = (1/2)at^2, where d is the displacement (45 m), a is the acceleration due to gravity (9.8 m/s^2), and t is the time taken:\n\n45 = (1/2)(9.8)t^2\n90 = 9.8t^2\nt^2 = 90/9.8\nt^2 = 9.18\nt = √9.18\nt ≈ 3.0 s\n\nTherefore, it takes approximately 3.0 seconds for the object to reach the ground."
+}

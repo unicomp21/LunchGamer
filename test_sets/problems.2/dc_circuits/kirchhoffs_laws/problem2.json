@@ -1,0 +1,11 @@
+{
+  "question": "In the circuit shown, the current through the 2 Ω resistor is 2 A. What is the value of the battery voltage?",
+  "choices": {
+    "A": "2 V",
+    "B": "4 V",
+    "C": "6 V",
+    "D": "8 V"
+  },
+  "answer": "D",
+  "solution": "According to Kirchhoff's second law, the sum of the voltage drops around any closed loop in a circuit must equal the sum of the voltage sources. In this case, the voltage drop across the 2 Ω resistor is V = IR = 2 A × 2 Ω = 4 V. The voltage drop across the 2 Ω resistor and the battery voltage form a closed loop, so they must be equal. Therefore, the battery voltage must be 8 V."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg ball initially moving at 4 m/s collides with a wall and rebounds in the opposite direction at 3 m/s. What is the magnitude of the impulse exerted on the ball by the wall?",
+  "choices": {
+    "A": "2 N⋅s",
+    "B": "5 N⋅s",
+    "C": "14 N⋅s",
+    "D": "24 N⋅s"
+  },
+  "answer": "C",
+  "solution": "The impulse-momentum theorem states that impulse equals the change in momentum: J = Δp = pf - pi. The initial momentum is pi = mv = (2 kg)(4 m/s) = 8 kg⋅m/s. The final momentum is pf = -mv = -(2 kg)(3 m/s) = -6 kg⋅m/s (negative because the ball rebounds in the opposite direction). So, the change in momentum is Δp = pf - pi = (-6 kg⋅m/s) - (8 kg⋅m/s) = -14 kg⋅m/s. The magnitude of the impulse is |J| = |Δp| = |-14 kg⋅m/s| = 14 kg⋅m/s = 14 N⋅s. Therefore, the correct answer is C."
+}

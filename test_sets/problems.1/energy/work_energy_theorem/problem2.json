@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg box is pushed 5 meters across a frictionless horizontal surface by a constant force of 10 N. If the box starts from rest, what is its final kinetic energy?",
+  "choices": {
+    "A": "25 J",
+    "B": "50 J",
+    "C": "100 J",
+    "D": "250 J"
+  },
+  "answer": "B",
+  "solution": "The work-energy theorem states that the net work done on an object is equal to the change in its kinetic energy. In this case, the net work is done by the constant force, and there is no friction. Work can be calculated as W = F × d, where F is the force (10 N) and d is the displacement (5 m). So, the work done is W = 10 N × 5 m = 50 J. Since the box starts from rest (initial kinetic energy is zero), the final kinetic energy is equal to the net work done: ΔKE = KEf - KEi = KEf - 0 = KEf = 50 J. Therefore, the correct answer is B."
+}

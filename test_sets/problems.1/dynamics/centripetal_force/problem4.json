@@ -1,0 +1,11 @@
+{
+  "question": "A 1.2 kg object is tied to a string and swung in a horizontal circle with a radius of 0.8 m. If the object makes one complete revolution every 1.5 seconds, what is the tension in the string?",
+  "choices": {
+    "A": "2.1 N",
+    "B": "3.4 N",
+    "C": "4.2 N",
+    "D": "5.6 N"
+  },
+  "answer": "C",
+  "solution": "The centripetal force is provided by the tension in the string. The formula for centripetal force is F = mv^2 / r, where m is the mass (1.2 kg), v is the velocity, and r is the radius (0.8 m). The velocity can be found using v = 2πr / T, where T is the period (1.5 s). Plugging in the values, we get v = 2π(0.8 m) / 1.5 s ≈ 3.35 m/s. Now, we can calculate the centripetal force: F = (1.2 kg)(3.35 m/s)^2 / 0.8 m ≈ 4.2 N. Therefore, the tension in the string is 4.2 N."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A ball is thrown horizontally from the top of a 45-meter tall building with an initial velocity of 20 m/s. Assuming negligible air resistance, approximately how far from the base of the building will the ball land? (Take g = 9.8 m/s^2)",
+  "choices": {
+    "A": "30 meters",
+    "B": "45 meters",
+    "C": "60 meters",
+    "D": "90 meters"
+  },
+  "answer": "C",
+  "solution": "In projectile motion, the horizontal and vertical components of motion are independent. The time for the ball to fall is found using the vertical motion equation: y = y0 + v0y*t + 0.5*a*t^2, where y0 = 45 m, v0y = 0 m/s (no initial vertical velocity), and a = -9.8 m/s^2. Setting y = 0 and solving for t gives: t = sqrt(2*y0 / g) = sqrt(2*45 / 9.8) ≈ 3.03 s. The horizontal distance traveled is then: x = v0x*t = 20 m/s * 3.03 s ≈ 60.6 m. Therefore, the ball will land approximately 60 meters from the base of the building, corresponding to answer choice C."
+}

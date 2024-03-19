@@ -1,0 +1,11 @@
+{
+  "question": "In the circuit shown, all resistors are 10 Ω and the battery provides 12 V. What is the current through the middle resistor?",
+  "choices": {
+    "A": "0.2 A",
+    "B": "0.4 A",
+    "C": "0.6 A",
+    "D": "0.8 A"
+  },
+  "answer": "D",
+  "solution": "According to Kirchhoff's current law, the sum of currents entering a junction must equal the sum of currents leaving that junction. The top junction has 1.2 A entering (12 V / 10 Ω), which must split evenly between the two outgoing paths due to the symmetry of the circuit. Thus, the current through the middle resistor is 1.2 A / 2 = 0.6 A. However, the middle resistor is in series with another 10 Ω resistor, so the voltage across this series combination is 12 V / 2 = 6 V (due to the voltage divider effect). Applying Ohm's law to the middle resistor, we get I = V / R = 6 V / 10 Ω = 0.6 A. Kirchhoff's voltage law states that the sum of voltage drops around any closed loop must equal the total voltage supplied, which is consistent with this result (6 V + 6 V = 12 V around the loop). Therefore, the current through the middle resistor is 0.6 A."
+}

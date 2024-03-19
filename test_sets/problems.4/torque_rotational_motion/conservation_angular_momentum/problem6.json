@@ -1,0 +1,11 @@
+{
+  "question": "A figure skater spinning with her arms outstretched pulls her arms in close to her body. Assuming no external torques act on the skater, which of the following describes the skater's angular speed after pulling in her arms?",
+  "choices": {
+    "A": "The angular speed remains the same",
+    "B": "The angular speed decreases",
+    "C": "The angular speed increases",
+    "D": "The change in angular speed depends on the skater's mass"
+  },
+  "answer": "C",
+  "solution": "According to the law of conservation of angular momentum, when no external torques act on a system, the total angular momentum (L) remains constant. Angular momentum is defined as L = Iω, where I is the moment of inertia and ω is the angular speed. When the skater pulls her arms in, her moment of inertia decreases because her mass is distributed closer to the axis of rotation. Since L = Iω and L is constant, a decrease in I must be accompanied by an increase in ω to keep L constant. Therefore, the skater's angular speed increases when she pulls her arms in."
+}

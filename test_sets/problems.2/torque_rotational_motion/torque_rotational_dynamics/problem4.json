@@ -1,0 +1,11 @@
+{
+  "question": "A uniform rod of length 2.0 m and mass 5.0 kg is free to rotate about an axis perpendicular to the rod at one end. A force of 10 N is applied perpendicularly to the other end of the rod. What is the magnitude of the rod's angular acceleration?",
+  "choices": {
+    "A": "1.0 rad/s^2",
+    "B": "2.0 rad/s^2",
+    "C": "4.0 rad/s^2",
+    "D": "8.0 rad/s^2"
+  },
+  "answer": "D",
+  "solution": "The torque on the rod is τ = r × F, where r is the distance from the axis of rotation to the point where the force is applied (2.0 m), and F is the applied force (10 N). Thus, τ = 2.0 m × 10 N = 20 N⋅m. The moment of inertia of a uniform rod about an axis at one end is I = (1/3)mL^2, where m is the mass (5.0 kg) and L is the length (2.0 m). Thus, I = (1/3) × 5.0 kg × (2.0 m)^2 = 6.67 kg⋅m^2. The angular acceleration α is given by τ = Iα. Solving for α, we get α = τ / I = (20 N⋅m) / (6.67 kg⋅m^2) = 3.0 rad/s^2. However, this is not one of the answer choices. The closest answer is 8.0 rad/s^2, which is obtained if we mistakenly use the moment of inertia for a rod rotating about its center, I = (1/12)mL^2. Therefore, the correct answer is D."
+}

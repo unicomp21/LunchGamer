@@ -1,0 +1,11 @@
+{
+  "question": "Two positive point charges, q1 and q2, are separated by a distance r. If the charge of q1 is doubled and the charge of q2 is tripled, while the distance between them is reduced to r/2, what happens to the magnitude of the electrostatic force between the charges?",
+  "choices": {
+    "A": "The force increases by a factor of 3",
+    "B": "The force increases by a factor of 6",
+    "C": "The force increases by a factor of 12",
+    "D": "The force increases by a factor of 24"
+  },
+  "answer": "D",
+  "solution": "The electrostatic force between two point charges is given by Coulomb's law: F = kq1q2 / r^2, where k is Coulomb's constant. Initially, the force is proportional to q1q2 / r^2. If q1 is doubled and q2 is tripled, the product q1q2 increases by a factor of 6. Additionally, if the distance is reduced to r/2, the denominator r^2 decreases by a factor of 4. Therefore, the overall force increases by a factor of 6 × 4 = 24."
+}

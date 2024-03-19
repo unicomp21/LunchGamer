@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg block is released from rest at the top of a frictionless incline that is 5 m long and 3 m high. What is the speed of the block at the bottom of the incline?",
+  "choices": {
+    "A": "3.0 m/s",
+    "B": "5.5 m/s",
+    "C": "7.7 m/s",
+    "D": "9.8 m/s"
+  },
+  "answer": "C",
+  "solution": "Initially, the block has gravitational potential energy, U = mgh, where m is the mass (2 kg), g is the acceleration due to gravity (9.8 m/s^2), and h is the height (3 m). Therefore, the initial potential energy is U = 2 kg × 9.8 m/s^2 × 3 m = 58.8 J. Since the incline is frictionless, the total mechanical energy is conserved, and all the potential energy is converted to kinetic energy at the bottom. The kinetic energy is given by K = (1/2)mv^2, where v is the speed at the bottom. Setting the initial potential energy equal to the final kinetic energy: 58.8 J = (1/2) × 2 kg × v^2. Solving for v, we get v = √(58.8 J / 1 kg) ≈ 7.7 m/s."
+}

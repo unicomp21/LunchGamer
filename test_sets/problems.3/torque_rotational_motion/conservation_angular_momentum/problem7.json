@@ -1,0 +1,11 @@
+{
+  "question": "A dancer with a moment of inertia of 2.5 kg⋅m^2 is spinning at 3 rev/s with her arms extended. When she pulls her arms in, her moment of inertia decreases to 1.5 kg⋅m^2. What is her new rotational speed?",
+  "choices": {
+    "A": "2 rev/s",
+    "B": "3 rev/s",
+    "C": "4 rev/s",
+    "D": "5 rev/s"
+  },
+  "answer": "D",
+  "solution": "This problem can be solved using the conservation of angular momentum. The initial angular momentum is L_i = I_i * ω_i, where I_i is the initial moment of inertia (2.5 kg⋅m^2) and ω_i is the initial angular velocity (3 rev/s or 6π rad/s). Thus, L_i = 2.5 * 6π = 15π kg⋅m^2/s. Since angular momentum is conserved, L_i = L_f, where L_f is the final angular momentum. We can find the final angular velocity ω_f using the equation L_f = I_f * ω_f, where I_f is the final moment of inertia (1.5 kg⋅m^2). Substituting, 15π = 1.5 * ω_f. Solving for ω_f, we get ω_f = 10π rad/s, which is equivalent to 5 rev/s. Therefore, the dancer's new rotational speed is 5 rev/s."
+}

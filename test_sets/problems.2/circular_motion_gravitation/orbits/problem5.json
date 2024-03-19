@@ -1,0 +1,11 @@
+{
+  "question": "A satellite orbits a planet in a circular orbit with radius R. If the satellite's speed is doubled while maintaining the same circular orbit, what happens to the centripetal force acting on the satellite?",
+  "choices": {
+    "A": "The centripetal force is reduced by a factor of 2.",
+    "B": "The centripetal force remains the same.",
+    "C": "The centripetal force is increased by a factor of 2.",
+    "D": "The centripetal force is increased by a factor of 4."
+  },
+  "answer": "D",
+  "solution": "The centripetal force is given by F = mv^2 / R, where m is the mass of the satellite, v is its speed, and R is the radius of the orbit. If the speed is doubled (v → 2v) while the radius remains constant, the centripetal force will increase by a factor of (2v)^2 / v^2 = 4. Thus, quadrupling the speed results in a four-fold increase in the centripetal force."
+}

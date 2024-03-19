@@ -1,0 +1,11 @@
+{
+  "question": "Two capacitors with capacitances C1 and C2 are connected in series to a battery with voltage V. What is the equivalent capacitance of this series combination?",
+  "choices": {
+    "A": "C1 + C2",
+    "B": "1 / (1/C1 + 1/C2)",
+    "C": "C1C2 / (C1 + C2)",
+    "D": "(C1 + C2) / C1C2"
+  },
+  "answer": "B",
+  "solution": "For capacitors in series, the equivalent capacitance Ceq is given by 1/Ceq = 1/C1 + 1/C2 + ..., where C1, C2, etc. are the individual capacitances. This formula can be derived by considering that the voltage drop across each capacitor is inversely proportional to its capacitance (Q = CV), and the total voltage drop across the series combination must equal the applied voltage V. Rearranging the equation 1/Ceq = 1/C1 + 1/C2 gives Ceq = 1 / (1/C1 + 1/C2), which is the correct answer."
+}

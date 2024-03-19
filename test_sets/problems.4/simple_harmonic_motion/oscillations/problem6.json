@@ -1,0 +1,11 @@
+{
+  "question": "A 0.5 kg mass is attached to a spring with a spring constant of 200 N/m. The mass is displaced 0.1 m from its equilibrium position and released. What is the maximum speed of the mass as it oscillates?",
+  "choices": {
+    "A": "1 m/s",
+    "B": "2 m/s",
+    "C": "3 m/s",
+    "D": "4 m/s"
+  },
+  "answer": "B",
+  "solution": "In simple harmonic motion, the maximum speed occurs at the equilibrium position. The total energy of the system is conserved, so the potential energy at maximum displacement equals the kinetic energy at the equilibrium position. The potential energy at maximum displacement is given by PE = ½kx², where k is the spring constant (200 N/m) and x is the displacement (0.1 m). Thus, PE = ½(200 N/m)(0.1 m)² = 1 J. The kinetic energy at the equilibrium position is given by KE = ½mv², where m is the mass (0.5 kg) and v is the maximum speed. Setting the potential energy equal to the kinetic energy: 1 J = ½(0.5 kg)v². Solving for v, we get v = √(2 J / 0.5 kg) = √(4 J/kg) = 2 m/s."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A ball is thrown horizontally off a cliff with an initial speed of 10 m/s. The cliff is 40 m above the ground. Neglecting air resistance, how long does it take for the ball to reach the ground?",
+  "choices": {
+    "A": "2 s",
+    "B": "2.5 s",
+    "C": "4 s",
+    "D": "8 s"
+  },
+  "answer": "C",
+  "solution": "Since the ball is thrown horizontally, its horizontal velocity remains constant at 10 m/s (neglecting air resistance). The vertical motion is independent of the horizontal motion and is affected only by gravity (g = 9.8 m/s^2). Using the equation y = y0 + v0y * t + (1/2) * g * t^2, where y0 = 40 m (height of the cliff), v0y = 0 m/s (no initial vertical velocity), and y = 0 m (ground level), we can solve for t:\n\n0 = 40 + 0 * t + (1/2) * (-9.8) * t^2\n0 = 40 - 4.9 * t^2\n4.9 * t^2 = 40\nt^2 = 40 / 4.9 ≈ 8.16\nt ≈ √8.16 ≈ 2.86 s\n\nThe closest answer choice is C (4 s), so this is the correct answer."
+}

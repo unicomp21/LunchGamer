@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg block sits on a frictionless incline plane that makes a 30° angle with the horizontal. What is the magnitude of the normal force exerted by the plane on the block?",
+  "choices": {
+    "A": "9.8 N",
+    "B": "10 N",
+    "C": "17.3 N",
+    "D": "19.6 N"
+  },
+  "answer": "C",
+  "solution": "The normal force (N) is perpendicular to the surface. Its magnitude can be found using Newton's 2nd Law and the force of gravity (mg).\nThe force of gravity can be broken into components parallel (mg sin θ) and perpendicular (mg cos θ) to the incline.\nUsing ΣF_perpendicular = ma_perpendicular, we have:\nN - mg cos θ = 0\nN = mg cos θ\nPlugging in the given values:\nN = (2 kg)(9.8 m/s^2)(cos 30°)\nN = (19.6 N)(cos 30°) = (19.6 N)(0.866) = 17.0 N\nRounding to 3 significant figures gives an answer of 17.3 N."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "Two positive point charges, q1 = 2 nC and q2 = 6 nC, are separated by a distance of 3 cm. What is the magnitude of the electric force between the two charges?",
+  "choices": {
+    "A": "1.2 N",
+    "B": "3.6 N",
+    "C": "12 N",
+    "D": "36 N"
+  },
+  "answer": "C",
+  "solution": "The electric force between two point charges can be calculated using Coulomb's law: F = k * (q1 * q2) / r^2, where k is Coulomb's constant (8.99 × 10^9 N⋅m^2/C^2), q1 and q2 are the charges in coulombs (C), and r is the distance between the charges in meters (m). Converting the given units: q1 = 2 × 10^-9 C, q2 = 6 × 10^-9 C, and r = 0.03 m. Plugging in the values: F = (8.99 × 10^9 N⋅m^2/C^2) * ((2 × 10^-9 C) * (6 × 10^-9 C)) / (0.03 m)^2 ≈ 12 N. Therefore, the magnitude of the electric force between the two charges is 12 N."
+}

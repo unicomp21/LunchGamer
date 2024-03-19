@@ -1,0 +1,11 @@
+{
+  "question": "In the circuit shown, all resistors have equal resistance. What is the current through resistor R1?",
+  "choices": {
+    "A": "I/4",
+    "B": "I/3",
+    "C": "I/2",
+    "D": "I"
+  },
+  "answer": "C",
+  "solution": "According to Kirchhoff's Current Law, the sum of currents entering a node is equal to the sum of currents leaving the node. At the top node, the current I splits into two branches. Since all resistors have equal resistance, the current will divide equally between the two branches. One branch contains R1 and R4 in series, while the other branch contains R2 and R3 in series. Therefore, the current through each branch is I/2. Since R1 is in series with R4, the current through R1 is the same as the current through its branch, which is I/2."
+}

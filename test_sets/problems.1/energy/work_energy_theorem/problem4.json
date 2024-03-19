@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg ball is dropped from a height of 5 meters onto a spring with a spring constant of 800 N/m. If the spring compresses by 0.1 meters at maximum compression, what is the speed of the ball just before it hits the spring?",
+  "choices": {
+    "A": "7 m/s",
+    "B": "8 m/s",
+    "C": "9 m/s",
+    "D": "10 m/s"
+  },
+  "answer": "D",
+  "solution": "Using the work-energy theorem, the change in gravitational potential energy of the ball is equal to its change in kinetic energy plus the elastic potential energy stored in the spring at maximum compression.\n\nInitial PE = mgh = 2 kg * 9.8 m/s^2 * 5 m = 98 J\nFinal PE = 0 (reference level taken at the spring)\n\nChange in PE = 98 J\n\nElastic PE of spring = (1/2)kx^2 = 0.5 * 800 N/m * (0.1 m)^2 = 4 J\n\nUsing the work-energy theorem:\nChange in PE = Change in KE + Elastic PE\n98 J = (1/2)mv^2 + 4 J\n\nSolving for v:\n98 J - 4 J = (1/2) * 2 kg * v^2\n94 J = 1 kg * v^2\nv^2 = 94 m^2/s^2\nv = sqrt(94) m/s ≈ 9.7 m/s ≈ 10 m/s\n\nTherefore, the speed of the ball just before hitting the spring is closest to 10 m/s."
+}

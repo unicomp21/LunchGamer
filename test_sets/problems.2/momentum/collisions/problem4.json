@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg object moving at 4 m/s collides with a stationary 3 kg object. After the collision, the two objects stick together. What is the velocity of the combined objects after the collision?",
+  "choices": {
+    "A": "1.2 m/s",
+    "B": "1.6 m/s",
+    "C": "2.4 m/s",
+    "D": "3.2 m/s"
+  },
+  "answer": "B",
+  "solution": "Using the law of conservation of momentum, the total momentum before the collision must equal the total momentum after the collision. Before the collision, only the 2 kg object has momentum: p_initial = m1 * v1 = 2 kg * 4 m/s = 8 kg⋅m/s. After the collision, the combined mass is 5 kg (2 kg + 3 kg), and the velocity is unknown. Let the final velocity be v_f. Setting the initial and final momenta equal: 8 kg⋅m/s = 5 kg * v_f. Solving for v_f, we get: v_f = 8 kg⋅m/s / 5 kg = 1.6 m/s. Therefore, the velocity of the combined objects after the collision is 1.6 m/s."
+}

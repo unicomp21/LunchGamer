@@ -1,0 +1,11 @@
+{
+  "question": "A satellite of mass 500 kg orbits the Earth at a constant speed in a circular orbit of radius 7000 km. If the magnitude of the gravitational force acting on the satellite is 4900 N, what is the speed of the satellite?",
+  "choices": {
+    "A": "3.5 km/s",
+    "B": "4.2 km/s",
+    "C": "6.8 km/s",
+    "D": "7.5 km/s"
+  },
+  "answer": "C",
+  "solution": "For an object moving in uniform circular motion, the centripetal force is provided by the gravitational force. Using Newton's second law, F = ma_c, where F is the gravitational force (4900 N), m is the mass of the satellite (500 kg), and a_c is the centripetal acceleration. The centripetal acceleration is given by a_c = v^2 / r, where v is the speed of the satellite and r is the radius of the orbit (7000 km). Substituting a_c into the first equation: 4900 N = 500 kg * (v^2 / (7000 * 10^3 m)). Solving for v: v = sqrt((4900 N * 7000 * 10^3 m) / 500 kg) ≈ 6800 m/s or 6.8 km/s."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "A pendulum of length L has a period T. If the length of the pendulum is increased to 4L, what is the new period of the pendulum?",
+  "choices": {
+    "A": "T/2",
+    "B": "T",
+    "C": "2T",
+    "D": "4T"
+  },
+  "answer": "C",
+  "solution": "The period of a pendulum is given by the formula T = 2π√(L/g), where L is the length of the pendulum and g is the acceleration due to gravity. If the length is increased by a factor of 4, the new period will be T_new = 2π√(4L/g) = 2π√(4)√(L/g) = 2 * 2π√(L/g) = 2T. Therefore, if the length is increased to 4L, the new period will be 2T."
+}

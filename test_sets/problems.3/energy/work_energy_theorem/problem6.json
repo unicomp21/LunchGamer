@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg block is pushed 5 meters along a frictionless horizontal surface by a constant force of 10 N. If the block starts from rest, what is its speed after being pushed the 5 meters?",
+  "choices": {
+    "A": "2.5 m/s",
+    "B": "5.0 m/s",
+    "C": "7.1 m/s",
+    "D": "10.0 m/s"
+  },
+  "answer": "B",
+  "solution": "According to the work-energy theorem, the net work done on an object equals its change in kinetic energy. With W = Fd, the work done by the 10 N force is (10 N)(5 m) = 50 J. This work goes into kinetic energy, so ΔKE = 50 J. With KE = (1/2)mv^2, we can set up: 50 J = (1/2)(2 kg)v^2. Solving, v^2 = 50 m^2/s^2, so v = sqrt(50) = 5 sqrt(2) m/s. Of the given choices, this is closest to 5.0 m/s."
+}

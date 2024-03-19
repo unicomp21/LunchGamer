@@ -1,0 +1,11 @@
+{
+  "question": "A train traveling at a constant speed of 30 m/s blows its horn at a frequency of 400 Hz. If the speed of sound is 340 m/s, what frequency would a stationary observer hear as the train approaches?",
+  "choices": {
+    "A": "353 Hz",
+    "B": "400 Hz",
+    "C": "435 Hz",
+    "D": "471 Hz"
+  },
+  "answer": "C",
+  "solution": "The Doppler effect causes the frequency heard by the observer to change due to the relative motion between the source and the observer. The formula for the observed frequency is f_obs = f_src * (v_sound / (v_sound - v_src)), where f_obs is the observed frequency, f_src is the source frequency (400 Hz), v_sound is the speed of sound (340 m/s), and v_src is the speed of the source (30 m/s). Plugging in the values, we get: f_obs = 400 Hz * (340 m/s / (340 m/s - 30 m/s)) ≈ 435 Hz. Therefore, the stationary observer would hear a frequency of approximately 435 Hz as the train approaches."
+}

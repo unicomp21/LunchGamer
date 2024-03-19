@@ -1,0 +1,11 @@
+{
+  "question": "A stationary observer hears a car's horn as the car drives toward them at a constant velocity. As the car approaches and passes the observer, what happens to the frequency and wavelength of the sound waves from the horn as perceived by the observer?",
+  "choices": {
+    "A": "Both frequency and wavelength increase",
+    "B": "Frequency increases and wavelength decreases",
+    "C": "Frequency decreases and wavelength increases",
+    "D": "Both frequency and wavelength decrease"
+  },
+  "answer": "B",
+  "solution": "The Doppler effect describes how the frequency and wavelength of a wave change for an observer moving relative to the source of the waves. For sound waves, when the source (car) moves toward the observer, the observer perceives a higher frequency (pitch) because each successive wave is emitted from a position closer to the observer than the previous wave, decreasing the time between arrivals of successive wave crests. The distance between crests is the wavelength, so the wavelength decreases. When the source passes and moves away from the observer, the observed frequency is lower and the wavelength is longer. Therefore, as the car approaches the observer, the perceived frequency increases and wavelength decreases."
+}

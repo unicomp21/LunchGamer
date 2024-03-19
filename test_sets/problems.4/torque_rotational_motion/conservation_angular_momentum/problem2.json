@@ -1,0 +1,11 @@
+{
+  "question": "A figure skater with a moment of inertia of 2.5 kg⋅m^2 is spinning at a rate of 1.2 revolutions per second with her arms extended. When she pulls her arms in, her moment of inertia decreases to 1.5 kg⋅m^2. What is her new rotational speed?",
+  "choices": {
+    "A": "1.0 rev/s",
+    "B": "1.4 rev/s",
+    "C": "1.8 rev/s",
+    "D": "2.0 rev/s"
+  },
+  "answer": "D",
+  "solution": "The problem involves conservation of angular momentum. Initial angular momentum L₁ = I₁ω₁, where I₁ is the initial moment of inertia (2.5 kg⋅m^2) and ω₁ is the initial angular velocity (1.2 rev/s). Final angular momentum L₂ = I₂ω₂, where I₂ is the final moment of inertia (1.5 kg⋅m^2) and ω₂ is the final angular velocity (unknown). By conservation of angular momentum, L₁ = L₂. Thus, I₁ω₁ = I₂ω₂. Solving for ω₂: ω₂ = (I₁ω₁) / I₂ = (2.5 kg⋅m^2 × 1.2 rev/s) / (1.5 kg⋅m^2) = 2.0 rev/s."
+}

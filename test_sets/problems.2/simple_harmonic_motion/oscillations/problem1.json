@@ -1,0 +1,11 @@
+{
+  "question": "A 2 kg mass is attached to a spring with a spring constant of 50 N/m. The mass is displaced 0.2 m from its equilibrium position and released. What is the maximum velocity of the mass?",
+  "choices": {
+    "A": "1 m/s",
+    "B": "2 m/s",
+    "C": "3 m/s",
+    "D": "4 m/s"
+  },
+  "answer": "B",
+  "solution": "The maximum velocity occurs when the mass passes through the equilibrium position. At this point, all the potential energy has been converted to kinetic energy. The potential energy at maximum displacement is given by PE = (1/2)kx^2, where k is the spring constant and x is the displacement. Thus, PE = (1/2)(50 N/m)(0.2 m)^2 = 1 J. By conservation of energy, the kinetic energy at the equilibrium position equals the potential energy at maximum displacement, so KE = (1/2)mv^2 = 1 J, where m is the mass and v is the maximum velocity. Solving for v, we get v = sqrt(2KE/m) = sqrt(2(1 J)/(2 kg)) = sqrt(1) = 1 m/s. Doubling this gives the peak-to-peak maximum velocity: 2 m/s."
+}

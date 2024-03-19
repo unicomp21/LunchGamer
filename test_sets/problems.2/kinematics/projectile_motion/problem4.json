@@ -1,0 +1,11 @@
+{
+  "question": "A ball is thrown horizontally off a cliff with an initial velocity of 10 m/s. Neglecting air resistance, what is the ball's velocity 2 seconds after being thrown? (Take g = 9.8 m/s^2)",
+  "choices": {
+    "A": "10 m/s at an angle of 45° below the horizontal",
+    "B": "14.1 m/s at an angle of 45° below the horizontal",
+    "C": "14.1 m/s at an angle of 63° below the horizontal",
+    "D": "20 m/s at an angle of 63° below the horizontal"
+  },
+  "answer": "C",
+  "solution": "In projectile motion, the horizontal and vertical components of velocity are independent of each other. The horizontal velocity remains constant at 10 m/s (v_x = 10 m/s), while the vertical velocity changes due to gravity. The vertical velocity after 2 seconds can be found using v_y = g * t, where g is the acceleration due to gravity (9.8 m/s^2) and t is the time (2 s). Thus, v_y = 9.8 m/s^2 * 2 s = 19.6 m/s. To find the resultant velocity, use the Pythagorean theorem: v = sqrt((v_x)^2 + (v_y)^2) = sqrt((10)^2 + (19.6)^2) ≈ 14.1 m/s. The angle below the horizontal can be found using tan(θ) = v_y / v_x, so θ = arctan(19.6 / 10) ≈ 63°. Therefore, the correct answer is C: 14.1 m/s at an angle of 63° below the horizontal."
+}

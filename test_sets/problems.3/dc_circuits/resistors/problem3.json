@@ -1,0 +1,11 @@
+{
+  "question": "Two resistors with resistances R1 = 10 Ω and R2 = 20 Ω are connected in series to a 12 V battery. What is the current flowing through the circuit?",
+  "choices": {
+    "A": "0.3 A",
+    "B": "0.4 A",
+    "C": "1.2 A",
+    "D": "2.4 A"
+  },
+  "answer": "B",
+  "solution": "In a series circuit, the total resistance is the sum of individual resistances: Rtotal = R1 + R2 = 10 Ω + 20 Ω = 30 Ω. According to Ohm's law, the current flowing through the circuit is I = V / Rtotal, where V is the voltage provided by the battery. Substituting the values, we get I = 12 V / 30 Ω = 0.4 A."
+}
