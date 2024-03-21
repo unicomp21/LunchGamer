@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "DagrApp",
   "resources": {
-    "hash": "sha256-KCzYae2+WZFVRqym8M6cw0eI9He64rBmtog5oOlqOVA=",
+    "hash": "sha256-3b5EBDhzqasmQXsVrTwRK6WmBxjbMj9bozIIuI3qF9k=",
     "jsModuleNative": {
       "dotnet.native.8.0.3.crc0iyuo34.js": "sha256-A4mxq6d7IQH5hHTHd+GX8mNMOCc6SrqGe/xiS+W9V5U="
     },
@@ -30,7 +30,7 @@
       "BouncyCastle.Crypto.wasm": "sha256-kMQIucV2rVtUh3tdsLcRwNNOi6J9GNC9GKieHW0p5xE=",
       "Bunit.Core.wasm": "sha256-euZQmlAXuKxbCShXR3ehwQjDyoVz95OkwidvbZvWH18=",
       "Bunit.Web.wasm": "sha256-6LvA8Rsc7+iuqhm3NrsSP6jKXb/hNx+xF7DehQIBtjI=",
-      "DagrApp.wasm": "sha256-CLb8YdkSDVEyhvZw1DzYjXgNsaVF1GD7l0I9QaAjY20=",
+      "DagrApp.wasm": "sha256-SvuiaMDS0lC7U9vzOr8n18Hd3ITtthpB1MC5LgqeABY=",
       "Microsoft.AspNetCore.Authorization.wasm": "sha256-hA3Ers6UUg4BgtVdv+zhflIIHSRhIrLc/RWs9P4AqkA=",
       "Microsoft.AspNetCore.Components.Authorization.wasm": "sha256-60AJwLeah1+EOyB5CJpJTnUxw8Xx44LLVsBxAaUoWFU=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-WugP66NsNjTGYbfRq2lt+fezWY0f8zZTI3v9ZC8TTBo=",
